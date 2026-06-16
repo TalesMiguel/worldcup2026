@@ -37,6 +37,36 @@ FDH_TEAMS = "https://fdh-api.fifa.com/v1/stats/match/{id_ifes}/teams.json"
 CARD_LABEL = {1: "yellow", 2: "red", 3: "yellow_red"}
 POSITION_MAP = {0: "Goalkeeper", 1: "Defender", 2: "Midfielder", 3: "Forward"}
 
+# Tactical metrics shared by both player and team FDH stats (local camelCase → FIFA PascalCase).
+TACTICAL_FIELDS = {
+    "ballProgressionsAttempted": "AttemptedBallProgressions",
+    "ballProgressionsCompleted": "CompletedBallProgressions",
+    "switchesOfPlayAttempted": "AttemptedSwitchesOfPlay",
+    "switchesOfPlayCompleted": "CompletedSwitchesOfPlay",
+    "crossesAttempted": "Crosses",
+    "crossesCompleted": "CrossesCompleted",
+    "defensivePressuresApplied": "DefensivePressuresApplied",
+    "directDefensivePressuresApplied": "DirectDefensivePressuresApplied",
+    "forcedTurnovers": "ForcedTurnovers",
+    "lineBreaksAttempted": "LinebreaksAttempted",
+    "lineBreaksCompleted": "LinebreaksAttemptedCompleted",
+    "lineBreaksAttackingLineAttempted": "LinebreaksAttemptedAttackingLine",
+    "lineBreaksAttackingLineCompleted": "LinebreaksAttemptedAttackingLineCompleted",
+    "lineBreaksMidfieldLineAttempted": "LinebreaksAttemptedMidfieldLine",
+    "lineBreaksMidfieldLineCompleted": "LinebreaksAttemptedMidfieldLineCompleted",
+    "lineBreaksDefensiveLineAttempted": "LinebreaksAttemptedDefensiveLine",
+    "lineBreaksDefensiveLineCompleted": "LinebreaksAttemptedDefensiveLineCompleted",
+}
+
+# Team-only tactical metrics (not present in per-player FDH stats).
+TEAM_TACTICAL_FIELDS = {
+    "finalThirdEntriesLeft": "FinalThirdEntriesReceptionLeftChannel",
+    "finalThirdEntriesInsideLeft": "FinalThirdEntriesReceptionInsideLeftChannel",
+    "finalThirdEntriesCentral": "FinalThirdEntriesReceptionCentralChannel",
+    "finalThirdEntriesInsideRight": "FinalThirdEntriesReceptionInsideRightChannel",
+    "finalThirdEntriesRight": "FinalThirdEntriesReceptionRightChannel",
+}
+
 
 def get(url: str, retries: int = 3) -> Any:
     for attempt in range(retries):
@@ -185,7 +215,7 @@ def parse_fdh_players(raw: dict, registry: dict) -> list[dict]:
     result = []
     for pid, metrics in raw.items():
         info = registry.get(str(pid), {})
-        result.append({
+        stat = {
             "playerId": str(pid),
             "playerName": info.get("playerName", ""),
             "teamId": info.get("teamId", ""),
@@ -204,7 +234,10 @@ def parse_fdh_players(raw: dict, registry: dict) -> list[dict]:
             "totalDistance": val(metrics, "TotalDistance") or 0,
             "topSpeed": val(metrics, "TopSpeed") or 0,
             "xg": val(metrics, "Xg") or 0,
-        })
+        }
+        for local_name, fifa_name in TACTICAL_FIELDS.items():
+            stat[local_name] = val(metrics, fifa_name) or 0
+        result.append(stat)
     return result
 
 
@@ -220,7 +253,8 @@ def parse_fdh_teams(raw: dict) -> dict:
 
     result = {}
     for team_id, metrics in raw.items():
-        result[str(team_id)] = {
+        possession = val(metrics, "Possession")
+        stat = {
             "teamId": str(team_id),
             "goals": val(metrics, "Goals") or 0,
             "attemptAtGoal": val(metrics, "AttemptAtGoal") or 0,
@@ -229,7 +263,13 @@ def parse_fdh_teams(raw: dict) -> dict:
             "corners": val(metrics, "Corners") or 0,
             "yellowCards": val(metrics, "YellowCards") or 0,
             "redCards": val(metrics, "DirectRedCards") or 0,
+            "possession": round(possession * 100, 1) if possession is not None else 0,
         }
+        for local_name, fifa_name in TACTICAL_FIELDS.items():
+            stat[local_name] = val(metrics, fifa_name) or 0
+        for local_name, fifa_name in TEAM_TACTICAL_FIELDS.items():
+            stat[local_name] = val(metrics, fifa_name) or 0
+        result[str(team_id)] = stat
     return result
 
 

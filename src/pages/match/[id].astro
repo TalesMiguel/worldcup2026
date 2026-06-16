@@ -82,6 +82,26 @@ const teamStatRows = [
   { labelEN: 'Yellow Cards', labelPT: 'Cartões Amarelos', home: homeTeamStat?.yellowCards, away: awayTeamStat?.yellowCards },
   { labelEN: 'Red Cards', labelPT: 'Cartões Vermelhos', home: homeTeamStat?.redCards, away: awayTeamStat?.redCards },
 ];
+
+// Tactical comparison: each row's bar width is home's share of (home + away).
+function barPct(home: number | undefined, away: number | undefined) {
+  const h = home ?? 0, a = away ?? 0;
+  if (h + a === 0) return 50;
+  return Math.round(h / (h + a) * 100);
+}
+
+const tacticalRows = homeTeamStat && awayTeamStat ? [
+  { labelEN: 'Possession', labelPT: 'Posse de Bola', home: homeTeamStat.possession, away: awayTeamStat.possession, unit: '%' },
+  { labelEN: 'Ball Progressions', labelPT: 'Progressões de Bola', home: homeTeamStat.ballProgressionsCompleted, away: awayTeamStat.ballProgressionsCompleted },
+  { labelEN: 'Switches of Play', labelPT: 'Mudanças de Lado', home: homeTeamStat.switchesOfPlayCompleted, away: awayTeamStat.switchesOfPlayCompleted },
+  { labelEN: 'Crosses Completed', labelPT: 'Cruzamentos Certos', home: homeTeamStat.crossesCompleted, away: awayTeamStat.crossesCompleted },
+  { labelEN: 'Line Breaks', labelPT: 'Quebras de Linha', home: homeTeamStat.lineBreaksCompleted, away: awayTeamStat.lineBreaksCompleted },
+  { labelEN: 'Line Breaks — Attacking Third', labelPT: 'Quebras de Linha — Terço de Ataque', home: homeTeamStat.lineBreaksAttackingLineCompleted, away: awayTeamStat.lineBreaksAttackingLineCompleted },
+  { labelEN: 'Line Breaks — Midfield', labelPT: 'Quebras de Linha — Meio-Campo', home: homeTeamStat.lineBreaksMidfieldLineCompleted, away: awayTeamStat.lineBreaksMidfieldLineCompleted },
+  { labelEN: 'Line Breaks — Defensive Third', labelPT: 'Quebras de Linha — Terço de Defesa', home: homeTeamStat.lineBreaksDefensiveLineCompleted, away: awayTeamStat.lineBreaksDefensiveLineCompleted },
+  { labelEN: 'Defensive Pressures Applied', labelPT: 'Pressões Defensivas Aplicadas', home: homeTeamStat.defensivePressuresApplied, away: awayTeamStat.defensivePressuresApplied },
+  { labelEN: 'Forced Turnovers', labelPT: 'Posses Forçadas', home: homeTeamStat.forcedTurnovers, away: awayTeamStat.forcedTurnovers },
+] : [];
 ---
 
 <Layout title={`${match.homeTeam.abbreviation} vs ${match.awayTeam.abbreviation}`}>
@@ -172,6 +192,34 @@ const teamStatRows = [
                 <span class="lang-pt">{labelPT}</span>
               </span>
               <span class="w-12 text-left font-semibold tabular-nums">{away}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Tactical stats comparison -->
+    {tacticalRows.length > 0 && (
+      <section>
+        <h2 class="section-title">
+          <span class="lang-en">Tactical Stats</span>
+          <span class="lang-pt">Estatísticas Táticas</span>
+        </h2>
+        <div class="rounded-xl border border-night-600 bg-night-800 divide-y divide-night-700">
+          {tacticalRows.map(({ labelEN, labelPT, home, away, unit }) => (
+            <div class="px-4 py-2.5 text-sm">
+              <div class="flex items-center mb-1.5">
+                <span class="w-14 text-right font-semibold tabular-nums">{fmtStat(home, unit ?? '')}</span>
+                <span class="flex-1 text-center text-xs text-gray-500 px-2">
+                  <span class="lang-en">{labelEN}</span>
+                  <span class="lang-pt">{labelPT}</span>
+                </span>
+                <span class="w-14 text-left font-semibold tabular-nums">{fmtStat(away, unit ?? '')}</span>
+              </div>
+              <div class="flex h-1.5 rounded-full overflow-hidden bg-night-700">
+                <div class="bg-fifa-green" style={`width: ${barPct(home, away)}%`}></div>
+                <div class="bg-gray-500" style={`width: ${100 - barPct(home, away)}%`}></div>
+              </div>
             </div>
           ))}
         </div>

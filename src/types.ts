@@ -56,7 +56,27 @@ export interface GroupStanding {
   rows: StandingRow[];
 }
 
-export interface PlayerStat {
+export interface TacticalStat {
+  ballProgressionsAttempted?: number;
+  ballProgressionsCompleted?: number;
+  switchesOfPlayAttempted?: number;
+  switchesOfPlayCompleted?: number;
+  crossesAttempted?: number;
+  crossesCompleted?: number;
+  defensivePressuresApplied?: number;
+  directDefensivePressuresApplied?: number;
+  forcedTurnovers?: number;
+  lineBreaksAttempted?: number;
+  lineBreaksCompleted?: number;
+  lineBreaksAttackingLineAttempted?: number;
+  lineBreaksAttackingLineCompleted?: number;
+  lineBreaksMidfieldLineAttempted?: number;
+  lineBreaksMidfieldLineCompleted?: number;
+  lineBreaksDefensiveLineAttempted?: number;
+  lineBreaksDefensiveLineCompleted?: number;
+}
+
+export interface PlayerStat extends TacticalStat {
   playerId: string;
   playerName: string;
   teamId: string;
@@ -77,7 +97,7 @@ export interface PlayerStat {
   xg: number;
 }
 
-export interface TeamStat {
+export interface TeamStat extends TacticalStat {
   teamId: string;
   goals: number;
   attemptAtGoal: number;
@@ -86,6 +106,12 @@ export interface TeamStat {
   corners: number;
   yellowCards: number;
   redCards: number;
+  possession?: number;
+  finalThirdEntriesLeft?: number;
+  finalThirdEntriesInsideLeft?: number;
+  finalThirdEntriesCentral?: number;
+  finalThirdEntriesInsideRight?: number;
+  finalThirdEntriesRight?: number;
 }
 
 export interface MatchDetail extends Match {

@@ -837,7 +837,22 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "423646",
+        "playerName": "PEDRI",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "477832",
+        "playerName": "SIDNY LOPES CABRAL",
+        "minute": "16'",
+        "card": 1,
+        "teamId": "43850"
+      }
+    ]
   },
   {
     "idMatch": "400021478",
