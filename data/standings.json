@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "groupId": "289275",
+    "groupName": "Group A",
+    "rows": [
+      {
+        "teamId": "43911",
+        "teamName": "Mexico",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 0,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43822",
+        "teamName": "Korea Republic",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 1,
+        "goalDiff": 1,
+        "points": 3
+      },
+      {
+        "teamId": "43995",
+        "teamName": "Czechia",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 2,
+        "goalDiff": -1,
+        "points": 0
+      },
+      {
+        "teamId": "43883",
+        "teamName": "South Africa",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 2,
+        "goalDiff": -2,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289276",
+    "groupName": "Group B",
+    "rows": [
+      {
+        "teamId": "43899",
+        "teamName": "Canada",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "44037",
+        "teamName": "Bosnia and Herzegovina",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43834",
+        "teamName": "Qatar",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43971",
+        "teamName": "Switzerland",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      }
+    ]
+  },
+  {
+    "groupId": "289277",
+    "groupName": "Group C",
+    "rows": [
+      {
+        "teamId": "43967",
+        "teamName": "Scotland",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "goalDiff": 1,
+        "points": 3
+      },
+      {
+        "teamId": "43924",
+        "teamName": "Brazil",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43872",
+        "teamName": "Morocco",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43908",
+        "teamName": "Haiti",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 1,
+        "goalDiff": -1,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289278",
+    "groupName": "Group D",
+    "rows": [
+      {
+        "teamId": "43921",
+        "teamName": "USA",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
+        "goalDiff": 3,
+        "points": 3
+      },
+      {
+        "teamId": "43976",
+        "teamName": "Australia",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 0,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43972",
+        "teamName": "Türkiye",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 2,
+        "goalDiff": -2,
+        "points": 0
+      },
+      {
+        "teamId": "43928",
+        "teamName": "Paraguay",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "goalDiff": -3,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289279",
+    "groupName": "Group E",
+    "rows": [
+      {
+        "teamId": "43948",
+        "teamName": "Germany",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 1,
+        "goalDiff": 6,
+        "points": 3
+      },
+      {
+        "teamId": "43854",
+        "teamName": "Côte d'Ivoire",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "goalDiff": 1,
+        "points": 3
+      },
+      {
+        "teamId": "43927",
+        "teamName": "Ecuador",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 1,
+        "goalDiff": -1,
+        "points": 0
+      },
+      {
+        "teamId": "1895293",
+        "teamName": "Curaçao",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 7,
+        "goalDiff": -6,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289280",
+    "groupName": "Group F",
+    "rows": [
+      {
+        "teamId": "43970",
+        "teamName": "Sweden",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 1,
+        "goalDiff": 4,
+        "points": 3
+      },
+      {
+        "teamId": "43960",
+        "teamName": "Netherlands",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43819",
+        "teamName": "Japan",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43888",
+        "teamName": "Tunisia",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 5,
+        "goalDiff": -4,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289281",
+    "groupName": "Group G",
+    "rows": [
+      {
+        "teamId": "43817",
+        "teamName": "IR Iran",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43978",
+        "teamName": "New Zealand",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43935",
+        "teamName": "Belgium",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43855",
+        "teamName": "Egypt",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      }
+    ]
+  },
+  {
+    "groupId": "289282",
+    "groupName": "Group H",
+    "rows": [
+      {
+        "teamId": "43835",
+        "teamName": "Saudi Arabia",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43930",
+        "teamName": "Uruguay",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43969",
+        "teamName": "Spain",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "43850",
+        "teamName": "Cabo Verde",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDiff": 0,
+        "points": 1
+      }
+    ]
+  }
+]
