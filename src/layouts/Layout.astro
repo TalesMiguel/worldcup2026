@@ -1,0 +1,54 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'FIFA World Cup 2026 stats tracker' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <title>{title} · WC 2026</title>
+  </head>
+  <body class="bg-night-900 text-white min-h-screen font-sans antialiased">
+    <header class="border-b border-night-700 bg-night-800/80 backdrop-blur-sm sticky top-0 z-50">
+      <nav class="max-w-7xl mx-auto px-4 h-14 flex items-center gap-6">
+        <a href={base} class="flex items-center gap-2 font-bold text-white hover:text-fifa-green transition-colors">
+          <span class="text-fifa-gold text-xl">⚽</span>
+          <span class="text-sm tracking-wide uppercase">WC 2026</span>
+        </a>
+        <div class="flex items-center gap-1 ml-2">
+          <a href={base} class="nav-link">Dashboard</a>
+          <a href={`${base}/groups`} class="nav-link">Groups</a>
+          <a href={`${base}/matches`} class="nav-link">Matches</a>
+        </div>
+        <div class="ml-auto text-xs text-gray-500 hidden sm:block">
+          Data updated daily · 06:00 BRT
+        </div>
+      </nav>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="border-t border-night-700 mt-16 py-6 text-center text-xs text-gray-600">
+      <p>Data sourced from FIFA APIs · Built by <a href="https://talesmiguel.dev" class="text-fifa-green hover:underline">TalesMiguel</a></p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  .nav-link {
+    @apply text-sm text-gray-400 hover:text-white px-3 py-1.5 rounded-md hover:bg-night-700 transition-colors;
+  }
+</style>

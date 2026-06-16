@@ -1,0 +1,179 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PlayerStatsTable from '../../components/PlayerStatsTable.astro';
+import type { Match, MatchDetail, PlayerStat, TeamStat } from '../../types';
+import { readFileSync, existsSync } from 'fs';
+import { resolve } from 'path';
+
+export function getStaticPaths() {
+  try {
+    const matches: Match[] = JSON.parse(readFileSync(resolve('data/matches.json'), 'utf-8'));
+    return matches
+      .filter(m => m.status === 1)
+      .map(m => ({ params: { id: m.idMatch } }));
+  } catch {
+    return [];
+  }
+}
+
+const { id } = Astro.params;
+
+let matches: Match[] = [];
+try {
+  matches = JSON.parse(readFileSync(resolve('data/matches.json'), 'utf-8'));
+} catch { }
+
+const match = matches.find(m => m.idMatch === id);
+if (!match) return Astro.redirect('/worldcup2026');
+
+// Load player + team stats if available
+let playerStats: PlayerStat[] = [];
+let homeTeamStat: TeamStat | null = null;
+let awayTeamStat: TeamStat | null = null;
+
+const playersFile = resolve(`data/stats/${match.idIFES}_players.json`);
+const teamsFile = resolve(`data/stats/${match.idIFES}_teams.json`);
+
+if (existsSync(playersFile)) {
+  playerStats = JSON.parse(readFileSync(playersFile, 'utf-8'));
+}
+if (existsSync(teamsFile)) {
+  const teamsData = JSON.parse(readFileSync(teamsFile, 'utf-8'));
+  homeTeamStat = teamsData[match.homeTeam.id] ?? null;
+  awayTeamStat = teamsData[match.awayTeam.id] ?? null;
+}
+
+const dateObj = new Date(match.date);
+const dateFmt = dateObj.toLocaleDateString('en-GB', {
+  weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
+  timeZone: 'America/Sao_Paulo',
+});
+const timeFmt = dateObj.toLocaleTimeString('en-GB', {
+  hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo',
+});
+
+const cardLabel: Record<number, string> = { 1: '🟨', 2: '🟥', 3: '🟨🟥' };
+
+function fmtStat(n: number | undefined | null, unit = '') {
+  if (n == null) return '—';
+  return Math.round(n) + unit;
+}
+function pct(a: number, b: number) {
+  if (!b) return '—';
+  return Math.round(a / b * 100) + '%';
+}
+---
+
+<Layout title={`${match.homeTeam.abbreviation} vs ${match.awayTeam.abbreviation}`}>
+  <div class="space-y-8">
+
+    <!-- Back link -->
+    <a href={`${import.meta.env.BASE_URL}/matches`} class="text-xs text-gray-500 hover:text-white flex items-center gap-1">
+      ← Back to matches
+    </a>
+
+    <!-- Match header -->
+    <div class="rounded-2xl border border-night-600 bg-night-800 p-6">
+      <div class="text-center text-xs text-gray-500 mb-4">
+        {match.stageName}{match.groupName ? ` · Group ${match.groupName}` : ''}
+        <span class="mx-2">·</span>{dateFmt} · {timeFmt} BRT
+      </div>
+
+      <div class="flex items-center justify-center gap-6 sm:gap-12">
+        <div class="text-center flex-1">
+          <div class="text-2xl sm:text-3xl font-extrabold">{match.homeTeam.abbreviation}</div>
+          <div class="text-xs text-gray-500 mt-1 truncate">{match.homeTeam.name}</div>
+        </div>
+
+        <div class="text-center shrink-0">
+          <div class="text-5xl sm:text-6xl font-black tabular-nums text-white tracking-tight">
+            {match.homeScore}<span class="text-gray-600 mx-1">–</span>{match.awayScore}
+          </div>
+          <div class="text-xs text-fifa-green mt-2 font-semibold uppercase tracking-wider">Full Time</div>
+        </div>
+
+        <div class="text-center flex-1">
+          <div class="text-2xl sm:text-3xl font-extrabold">{match.awayTeam.abbreviation}</div>
+          <div class="text-xs text-gray-500 mt-1 truncate">{match.awayTeam.name}</div>
+        </div>
+      </div>
+
+      <!-- Goals timeline -->
+      {match.goals.length > 0 && (
+        <div class="mt-6 pt-4 border-t border-night-700">
+          <div class="space-y-1 max-w-xs mx-auto text-sm">
+            {match.goals.map(g => {
+              const isHome = g.teamId === match.homeTeam.id;
+              return (
+                <div class:list={['flex items-center gap-2', isHome ? '' : 'flex-row-reverse']}>
+                  <span class="text-fifa-green text-xs">⚽</span>
+                  <span class="font-medium">{g.playerName}{g.type === 2 ? ' (P)' : g.type === 3 ? ' (OG)' : ''}</span>
+                  <span class="text-gray-500 text-xs font-mono">{g.minute}</span>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Team stats comparison -->
+    {homeTeamStat && awayTeamStat && (
+      <section>
+        <h2 class="section-title">Team Stats</h2>
+        <div class="rounded-xl border border-night-600 bg-night-800 divide-y divide-night-700">
+          {[
+            ['Shots', homeTeamStat.attemptAtGoal, awayTeamStat.attemptAtGoal],
+            ['Goals', homeTeamStat.goals, awayTeamStat.goals],
+            ['Passes', homeTeamStat.passes, awayTeamStat.passes],
+            ['Pass Accuracy', pct(homeTeamStat.passesCompleted, homeTeamStat.passes), pct(awayTeamStat.passesCompleted, awayTeamStat.passes)],
+            ['Corners', homeTeamStat.corners, awayTeamStat.corners],
+            ['Yellow Cards', homeTeamStat.yellowCards, awayTeamStat.yellowCards],
+            ['Red Cards', homeTeamStat.redCards, awayTeamStat.redCards],
+          ].map(([label, home, away]) => (
+            <div class="flex items-center px-4 py-2.5 text-sm">
+              <span class="w-12 text-right font-semibold tabular-nums">{home}</span>
+              <span class="flex-1 text-center text-xs text-gray-500">{label}</span>
+              <span class="w-12 text-left font-semibold tabular-nums">{away}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Bookings -->
+    {match.bookings.length > 0 && (
+      <section>
+        <h2 class="section-title">Bookings</h2>
+        <div class="flex flex-wrap gap-2">
+          {match.bookings.map(b => (
+            <div class="text-xs bg-night-800 border border-night-600 rounded-lg px-3 py-1.5 flex items-center gap-1.5">
+              <span>{cardLabel[b.card] ?? '🟨'}</span>
+              <span class="font-medium">{b.playerName}</span>
+              <span class="text-gray-500 font-mono">{b.minute}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Player stats -->
+    {playerStats.length > 0 && (
+      <section>
+        <h2 class="section-title">Player Stats</h2>
+        <PlayerStatsTable players={playerStats} homeTeamId={match.homeTeam.id} />
+      </section>
+    )}
+
+    {playerStats.length === 0 && (
+      <p class="text-gray-600 text-sm">Detailed player stats will appear after the next data update.</p>
+    )}
+
+  </div>
+</Layout>
+
+<style is:global>
+  .section-title {
+    @apply text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3;
+  }
+</style>

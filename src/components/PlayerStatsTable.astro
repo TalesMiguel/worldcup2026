@@ -1,0 +1,78 @@
+---
+import type { PlayerStat } from '../types';
+
+interface Props {
+  players: PlayerStat[];
+  homeTeamId: string;
+}
+
+const { players, homeTeamId } = Astro.props;
+
+const homePlayers = players.filter(p => p.teamId === homeTeamId).sort((a, b) => b.timePlayed - a.timePlayed);
+const awayPlayers = players.filter(p => p.teamId !== homeTeamId).sort((a, b) => b.timePlayed - a.timePlayed);
+
+const positionLabel: Record<string, string> = {
+  Goalkeeper: 'GK',
+  Defender: 'DEF',
+  Midfielder: 'MID',
+  Forward: 'FWD',
+};
+
+function fmt(n: number | undefined | null, decimals = 0) {
+  if (n == null || isNaN(n)) return '—';
+  return decimals > 0 ? n.toFixed(decimals) : String(Math.round(n));
+}
+
+function fmtDist(m: number | undefined | null) {
+  if (m == null || isNaN(m)) return '—';
+  return (m / 1000).toFixed(1) + ' km';
+}
+---
+
+{[
+  { label: 'Home', rows: homePlayers },
+  { label: 'Away', rows: awayPlayers },
+].map(({ label, rows }) => (
+  <div class="mb-6">
+    <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">{label}</h4>
+    <div class="overflow-x-auto">
+      <table class="w-full text-xs">
+        <thead>
+          <tr class="text-gray-500 border-b border-night-700">
+            <th class="text-left pb-2 pr-3 font-medium w-6">#</th>
+            <th class="text-left pb-2 pr-3 font-medium">Player</th>
+            <th class="text-left pb-2 pr-3 font-medium">Pos</th>
+            <th class="text-right pb-2 pr-3 font-medium">Min</th>
+            <th class="text-right pb-2 pr-3 font-medium">G</th>
+            <th class="text-right pb-2 pr-3 font-medium">A</th>
+            <th class="text-right pb-2 pr-3 font-medium">Shots</th>
+            <th class="text-right pb-2 pr-3 font-medium">SoT</th>
+            <th class="text-right pb-2 pr-3 font-medium">Pass%</th>
+            <th class="text-right pb-2 pr-3 font-medium">Dist</th>
+            <th class="text-right pb-2 pr-3 font-medium">xG</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-night-700/50">
+          {rows.map(p => {
+            const passAcc = p.passes > 0 ? (p.passesCompleted / p.passes * 100) : null;
+            return (
+              <tr class="hover:bg-night-700/30 transition-colors">
+                <td class="py-1.5 pr-3 text-gray-600 tabular-nums">{p.shirtNumber}</td>
+                <td class="py-1.5 pr-3 font-medium text-white">{p.playerName}</td>
+                <td class="py-1.5 pr-3 text-gray-500">{positionLabel[p.position] ?? p.position}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums text-gray-400">{fmt(p.timePlayed)}'</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums">{p.goals > 0 ? <span class="text-fifa-green font-bold">{p.goals}</span> : <span class="text-gray-600">0</span>}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums">{p.assists > 0 ? <span class="text-fifa-gold">{p.assists}</span> : <span class="text-gray-600">0</span>}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums text-gray-400">{fmt(p.attemptAtGoal)}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums text-gray-400">{fmt(p.attemptAtGoalOnTarget)}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums text-gray-400">{passAcc != null ? fmt(passAcc) + '%' : '—'}</td>
+                <td class="py-1.5 pr-3 text-right tabular-nums text-gray-400">{fmtDist(p.totalDistance)}</td>
+                <td class="py-1.5 text-right tabular-nums text-gray-400">{p.xg > 0 ? fmt(p.xg, 2) : '—'}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </div>
+))}

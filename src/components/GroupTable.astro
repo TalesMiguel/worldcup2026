@@ -1,0 +1,58 @@
+---
+import type { GroupStanding } from '../types';
+
+interface Props {
+  group: GroupStanding;
+  compact?: boolean;
+}
+
+const { group, compact = false } = Astro.props;
+---
+
+<div class="rounded-xl border border-night-600 bg-night-800 overflow-hidden">
+  <div class="px-4 py-2.5 bg-night-700 flex items-center justify-between">
+    <h3 class="font-semibold text-sm tracking-wide text-fifa-green uppercase">
+      Group {group.groupName}
+    </h3>
+    {!compact && (
+      <div class="text-xs text-gray-500 flex gap-3">
+        <span>P</span><span>W</span><span>D</span><span>L</span><span>GF</span><span>GA</span><span>GD</span><span class="font-bold text-white">Pts</span>
+      </div>
+    )}
+  </div>
+
+  <div class="divide-y divide-night-700">
+    {group.rows.map((row, i) => (
+      <div class:list={[
+        'flex items-center px-4 py-2 text-sm gap-3',
+        i < 2 ? 'bg-fifa-green/5' : i === 2 ? 'bg-fifa-gold/3' : '',
+      ]}>
+        <span class:list={[
+          'w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0',
+          i < 2 ? 'bg-fifa-green text-night-900' : i === 2 ? 'bg-fifa-gold/20 text-fifa-gold' : 'text-gray-600',
+        ]}>
+          {i + 1}
+        </span>
+
+        <span class="flex-1 font-medium truncate">{row.teamName}</span>
+
+        {compact ? (
+          <span class="font-bold text-fifa-gold tabular-nums">{row.points}</span>
+        ) : (
+          <div class="text-xs text-gray-400 flex gap-3 tabular-nums">
+            <span>{row.played}</span>
+            <span>{row.won}</span>
+            <span>{row.drawn}</span>
+            <span>{row.lost}</span>
+            <span>{row.goalsFor}</span>
+            <span>{row.goalsAgainst}</span>
+            <span class:list={[row.goalDiff > 0 ? 'text-fifa-green' : row.goalDiff < 0 ? 'text-red-400' : '']}>
+              {row.goalDiff > 0 ? '+' : ''}{row.goalDiff}
+            </span>
+            <span class="font-bold text-white w-6">{row.points}</span>
+          </div>
+        )}
+      </div>
+    ))}
+  </div>
+</div>

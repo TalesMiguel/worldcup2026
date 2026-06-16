@@ -1,0 +1,98 @@
+---
+import Layout from '../layouts/Layout.astro';
+import MatchCard from '../components/MatchCard.astro';
+import GroupTable from '../components/GroupTable.astro';
+import type { Match, GroupStanding } from '../types';
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
+
+let matches: Match[] = [];
+let standings: GroupStanding[] = [];
+
+try {
+  matches = JSON.parse(readFileSync(resolve('data/matches.json'), 'utf-8'));
+  standings = JSON.parse(readFileSync(resolve('data/standings.json'), 'utf-8'));
+} catch {
+  // data not yet fetched — CI will have it
+}
+
+const now = new Date();
+const yesterday = new Date(now); yesterday.setDate(yesterday.getDate() - 1);
+const tomorrow = new Date(now); tomorrow.setDate(tomorrow.getDate() + 1);
+
+const recent = matches
+  .filter(m => m.status === 1)
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  .slice(0, 8);
+
+const upcoming = matches
+  .filter(m => m.status === 0 && new Date(m.date) >= now)
+  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+  .slice(0, 6);
+
+// Group stage only standings, first 6 groups for dashboard
+const dashboardGroups = standings.slice(0, 6);
+---
+
+<Layout title="Dashboard">
+  <div class="space-y-10">
+
+    <!-- Hero -->
+    <div class="text-center py-6">
+      <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
+        <span class="text-white">FIFA World Cup</span>
+        <span class="text-fifa-gold"> 2026</span>
+      </h1>
+      <p class="text-gray-500 mt-2 text-sm">Canada · Mexico · United States</p>
+    </div>
+
+    <!-- Recent Results + Upcoming -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+      <section>
+        <h2 class="section-title">Recent Results</h2>
+        {recent.length > 0 ? (
+          <div class="space-y-2">
+            {recent.map(m => <MatchCard match={m} />)}
+          </div>
+        ) : (
+          <p class="text-gray-600 text-sm">No matches played yet.</p>
+        )}
+      </section>
+
+      <section>
+        <h2 class="section-title">Upcoming</h2>
+        {upcoming.length > 0 ? (
+          <div class="space-y-2">
+            {upcoming.map(m => <MatchCard match={m} />)}
+          </div>
+        ) : (
+          <p class="text-gray-600 text-sm">No upcoming matches.</p>
+        )}
+      </section>
+
+    </div>
+
+    <!-- Group Standings (first 6) -->
+    {dashboardGroups.length > 0 && (
+      <section>
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="section-title mb-0">Group Standings</h2>
+          <a href={`${import.meta.env.BASE_URL}/groups`} class="text-xs text-fifa-green hover:underline">
+            See all 12 groups →
+          </a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
+          {dashboardGroups.map(g => <GroupTable group={g} compact />)}
+        </div>
+      </section>
+    )}
+
+  </div>
+</Layout>
+
+<style is:global>
+  .section-title {
+    @apply text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3;
+  }
+</style>

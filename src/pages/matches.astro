@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+import MatchCard from '../components/MatchCard.astro';
+import type { Match } from '../types';
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
+
+let matches: Match[] = [];
+try {
+  matches = JSON.parse(readFileSync(resolve('data/matches.json'), 'utf-8'));
+} catch { }
+
+const stages = [...new Set(matches.map(m => m.stageName))];
+
+// Group by stage then by date
+const byStage = stages.map(stage => {
+  const stageMathces = matches
+    .filter(m => m.stageName === stage)
+    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  return { stage, matches: stageMathces };
+});
+---
+
+<Layout title="Match Schedule">
+  <div class="space-y-10">
+    <h1 class="text-2xl font-bold">Match Schedule</h1>
+
+    {byStage.map(({ stage, matches: stageMatches }) => (
+      <section>
+        <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 border-b border-night-700 pb-2">
+          {stage}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {stageMatches.map(m => <MatchCard match={m} />)}
+        </div>
+      </section>
+    ))}
+
+    {matches.length === 0 && (
+      <p class="text-gray-500">Match data will appear after the first data update.</p>
+    )}
+  </div>
+</Layout>
