@@ -238,7 +238,7 @@ def compute_standings(matches: list[dict]) -> list[dict]:
     groups: dict[str, dict] = {}  # groupId → {groupName, teams: {teamId → row}}
 
     for m in matches:
-        if m["status"] != 1 or not m["idGroup"] or m["homeScore"] is None:
+        if m["homeScore"] is None or not m["idGroup"]:
             continue
 
         gid = m["idGroup"]
