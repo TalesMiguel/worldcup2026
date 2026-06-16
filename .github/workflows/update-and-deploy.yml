@@ -2,7 +2,7 @@ name: Update Data & Deploy
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # 06:00 BRT (UTC-3)
+    - cron: '0 13 * * *'  # 10:00 BRT (UTC-3)
   workflow_dispatch:
 
 permissions:
