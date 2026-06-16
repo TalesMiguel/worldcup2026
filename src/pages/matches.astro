@@ -4,6 +4,7 @@ import MatchCard from '../components/MatchCard.astro';
 import type { Match } from '../types';
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
+import { stageNames } from '../i18n/maps';
 
 let matches: Match[] = [];
 try {
@@ -22,22 +23,30 @@ const upcoming = matches
 const upcomingStages = [...new Set(upcoming.map(m => m.stageName))];
 const upcomingByStage = upcomingStages.map(stage => ({
   stage,
+  stagePt: stageNames[stage] ?? stage,
   matches: upcoming.filter(m => m.stageName === stage),
 }));
 ---
 
 <Layout title="Matches">
   <div class="space-y-10">
-    <h1 class="text-2xl font-bold">Matches</h1>
+    <h1 class="text-2xl font-bold">
+      <span class="lang-en">Matches</span>
+      <span class="lang-pt">Partidas</span>
+    </h1>
 
     {matches.length === 0 && (
-      <p class="text-gray-500">Match data will appear after the first data update.</p>
+      <p class="text-gray-500">
+        <span class="lang-en">Match data will appear after the first data update.</span>
+        <span class="lang-pt">Os dados das partidas aparecerão após a primeira atualização.</span>
+      </p>
     )}
 
     {finished.length > 0 && (
       <section>
         <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 border-b border-night-700 pb-2">
-          Results
+          <span class="lang-en">Results</span>
+          <span class="lang-pt">Resultados</span>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {finished.map(m => <MatchCard match={m} />)}
@@ -45,10 +54,11 @@ const upcomingByStage = upcomingStages.map(stage => ({
       </section>
     )}
 
-    {upcomingByStage.map(({ stage, matches: stageMatches }) => (
+    {upcomingByStage.map(({ stage, stagePt, matches: stageMatches }) => (
       <section>
         <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 border-b border-night-700 pb-2">
-          {stage}
+          <span class="lang-en">{stage}</span>
+          <span class="lang-pt">{stagePt}</span>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {stageMatches.map(m => <MatchCard match={m} />)}

@@ -13,10 +13,16 @@ try {
 
 <Layout title="Group Standings">
   <div class="space-y-6">
-    <h1 class="text-2xl font-bold">Group Standings</h1>
+    <h1 class="text-2xl font-bold">
+      <span class="lang-en">Group Standings</span>
+      <span class="lang-pt">Classificação dos Grupos</span>
+    </h1>
 
     {standings.length === 0 ? (
-      <p class="text-gray-500">Standings will appear once the group stage begins.</p>
+      <p class="text-gray-500">
+        <span class="lang-en">Standings will appear once the group stage begins.</span>
+        <span class="lang-pt">A classificação aparecerá quando a fase de grupos começar.</span>
+      </p>
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5">
         {standings.map(g => <GroupTable group={g} />)}
@@ -25,10 +31,14 @@ try {
 
     <div class="flex gap-4 text-xs text-gray-500 mt-4">
       <span class="flex items-center gap-1.5">
-        <span class="w-3 h-3 rounded-full bg-fifa-green inline-block"></span> Advance to R32
+        <span class="w-3 h-3 rounded-full bg-fifa-green inline-block"></span>
+        <span class="lang-en">Advance to R32</span>
+        <span class="lang-pt">Avançam para a Rodada de 32</span>
       </span>
       <span class="flex items-center gap-1.5">
-        <span class="w-3 h-3 rounded-full bg-fifa-gold/30 inline-block"></span> Possible best 3rd place
+        <span class="w-3 h-3 rounded-full bg-fifa-gold/30 inline-block"></span>
+        <span class="lang-en">Possible best 3rd place</span>
+        <span class="lang-pt">Possível melhor 3º lugar</span>
       </span>
     </div>
   </div>

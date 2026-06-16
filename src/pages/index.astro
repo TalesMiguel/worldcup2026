@@ -49,34 +49,52 @@ const dashboardGroups = standings.slice(0, 6);
     <!-- Hero -->
     <div class="text-center py-6">
       <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
-        <span class="text-white">FIFA World Cup</span>
+        <span class="text-white">
+          <span class="lang-en">FIFA World Cup</span>
+          <span class="lang-pt">Copa do Mundo FIFA</span>
+        </span>
         <span class="text-fifa-gold"> 2026</span>
       </h1>
-      <p class="text-gray-500 mt-2 text-sm">Canada · Mexico · United States</p>
+      <p class="text-gray-500 mt-2 text-sm">
+        <span class="lang-en">Canada · Mexico · United States</span>
+        <span class="lang-pt">Canadá · México · Estados Unidos</span>
+      </p>
     </div>
 
     <!-- Recent Results + Upcoming -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
 
       <section>
-        <h2 class="section-title">Recent Results</h2>
+        <h2 class="section-title">
+          <span class="lang-en">Recent Results</span>
+          <span class="lang-pt">Resultados Recentes</span>
+        </h2>
         {recent.length > 0 ? (
           <div class="space-y-2">
             {recent.map(m => <MatchCard match={m} />)}
           </div>
         ) : (
-          <p class="text-gray-600 text-sm">No matches played yet.</p>
+          <p class="text-gray-600 text-sm">
+            <span class="lang-en">No matches played yet.</span>
+            <span class="lang-pt">Nenhuma partida disputada ainda.</span>
+          </p>
         )}
       </section>
 
       <section>
-        <h2 class="section-title">Upcoming</h2>
+        <h2 class="section-title">
+          <span class="lang-en">Upcoming</span>
+          <span class="lang-pt">Próximas Partidas</span>
+        </h2>
         {upcoming.length > 0 ? (
           <div class="space-y-2">
             {upcoming.map(m => <MatchCard match={m} />)}
           </div>
         ) : (
-          <p class="text-gray-600 text-sm">No upcoming matches.</p>
+          <p class="text-gray-600 text-sm">
+            <span class="lang-en">No upcoming matches.</span>
+            <span class="lang-pt">Nenhuma partida futura.</span>
+          </p>
         )}
       </section>
 
@@ -86,9 +104,13 @@ const dashboardGroups = standings.slice(0, 6);
     {dashboardGroups.length > 0 && (
       <section>
         <div class="flex items-center justify-between mb-4">
-          <h2 class="section-title mb-0">Group Standings</h2>
+          <h2 class="section-title mb-0">
+            <span class="lang-en">Group Standings</span>
+            <span class="lang-pt">Classificação dos Grupos</span>
+          </h2>
           <a href={`${import.meta.env.BASE_URL}groups`} class="text-xs text-fifa-green hover:underline">
-            See all 12 groups →
+            <span class="lang-en">See all 12 groups →</span>
+            <span class="lang-pt">Ver todos os 12 grupos →</span>
           </a>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
