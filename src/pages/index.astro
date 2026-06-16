@@ -20,10 +20,19 @@ const now = new Date();
 const yesterday = new Date(now); yesterday.setDate(yesterday.getDate() - 1);
 const tomorrow = new Date(now); tomorrow.setDate(tomorrow.getDate() + 1);
 
+// Yesterday in BRT (UTC-3): build runs at 10:00 BRT so "yesterday" is well-defined
+const BRT_OFFSET_MS = -3 * 60 * 60 * 1000;
+const todayBRT = new Date(now.getTime() + BRT_OFFSET_MS);
+todayBRT.setUTCHours(0, 0, 0, 0);
+const yesterdayBRT = new Date(todayBRT.getTime() - 24 * 60 * 60 * 1000);
+
 const recent = matches
-  .filter(m => m.homeScore !== null && m.homeScore !== undefined)
-  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-  .slice(0, 8);
+  .filter(m => {
+    if (m.homeScore === null || m.homeScore === undefined) return false;
+    const t = new Date(m.date).getTime() + BRT_OFFSET_MS;
+    return t >= yesterdayBRT.getTime() && t < todayBRT.getTime();
+  })
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 const upcoming = matches
   .filter(m => (m.homeScore === null || m.homeScore === undefined) && new Date(m.date) >= now)
