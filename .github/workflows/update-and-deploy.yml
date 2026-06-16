@@ -51,6 +51,12 @@ jobs:
         with:
           node-version: 22
 
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ hashFiles('package.json') }}
+
       - name: Install Node deps
         run: npm install
 
