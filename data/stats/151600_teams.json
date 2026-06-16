@@ -1,0 +1,22 @@
+{
+  "43911": {
+    "teamId": "43911",
+    "goals": 2.0,
+    "attemptAtGoal": 16.0,
+    "passes": 547.0,
+    "passesCompleted": 495.0,
+    "corners": 3.0,
+    "yellowCards": 1.0,
+    "redCards": 1.0
+  },
+  "43883": {
+    "teamId": "43883",
+    "goals": 0,
+    "attemptAtGoal": 3.0,
+    "passes": 351.0,
+    "passesCompleted": 290.0,
+    "corners": 1.0,
+    "yellowCards": 2.0,
+    "redCards": 2.0
+  }
+}

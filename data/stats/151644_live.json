@@ -1,0 +1,461 @@
+{
+  "380007": {
+    "playerId": "380007",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Alireza BEIRANVAND",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "346743": {
+    "playerId": "346743",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Shoja KHALILZADEH",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390537": {
+    "playerId": "390537",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Milad MOHAMMADI",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "481181": {
+    "playerId": "481181",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Arya YOUSEFI",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489603": {
+    "playerId": "489603",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ali NEMATI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "384797": {
+    "playerId": "384797",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ramin REZAEIAN",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371736": {
+    "playerId": "371736",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saeid EZATOLAHI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448497": {
+    "playerId": "448497",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mohammad MOHEBBI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411644": {
+    "playerId": "411644",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saman GHODDOS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "388475": {
+    "playerId": "388475",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi TAREMI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "481180": {
+    "playerId": "481180",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Shahriyar MOGHANLOO",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448507": {
+    "playerId": "448507",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Payam NIAZMAND",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "314255": {
+    "playerId": "314255",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Hossein HOSSEINI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448505": {
+    "playerId": "448505",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saleh HARDANI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "288961": {
+    "playerId": "288961",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ehsan HAJISAFI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390534": {
+    "playerId": "390534",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Hossein KANANI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494429": {
+    "playerId": "494429",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Danial IRI",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "379886": {
+    "playerId": "379886",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Alireza JAHANBAKHSH",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "406595": {
+    "playerId": "406595",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Roozbeh CHESHMI",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390535": {
+    "playerId": "390535",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi TORABI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482670": {
+    "playerId": "482670",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mohammad GHORBANI",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "475921": {
+    "playerId": "475921",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Amirmohammad RAZAGHINIA",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403236": {
+    "playerId": "403236",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi GHAYEDI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "416989": {
+    "playerId": "416989",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ali Alipour",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405639": {
+    "playerId": "405639",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Amirhossein Hosseinzadeh",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519837": {
+    "playerId": "519837",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Dennis DARGAHI",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368535": {
+    "playerId": "368535",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Max CROCOMBE",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "331463": {
+    "playerId": "331463",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Tim PAYNE",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "261367": {
+    "playerId": "261367",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Michael BOXALL",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405469": {
+    "playerId": "405469",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Liberato CACACE",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463580": {
+    "playerId": "463580",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Finn SURMAN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390181": {
+    "playerId": "390181",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Joe BELL",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "423595": {
+    "playerId": "423595",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Marko STAMENIC",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390209": {
+    "playerId": "390209",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Sarpreet SINGH",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405454": {
+    "playerId": "405454",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Elijah JUST",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390196": {
+    "playerId": "390196",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Callum McCOWATT",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "274078": {
+    "playerId": "274078",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Chris WOOD",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "423574": {
+    "playerId": "423574",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Alex PAULSEN",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "390218": {
+    "playerId": "390218",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Michael WOUD",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "440748": {
+    "playerId": "440748",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Francis DE VRIES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482775": {
+    "playerId": "482775",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Tyler BINDON",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419572": {
+    "playerId": "419572",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Nando PIJNAKER",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419567": {
+    "playerId": "419567",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Callan ELLIOT",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "274102": {
+    "playerId": "274102",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Tommy SMITH",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371142": {
+    "playerId": "371142",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Alex RUFER",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "423575": {
+    "playerId": "423575",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Ben OLD",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336641": {
+    "playerId": "336641",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Ryan THOMAS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484817": {
+    "playerId": "484817",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Lachlan BAYLISS",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "269592": {
+    "playerId": "269592",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Kosta BARBAROUSES",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419577": {
+    "playerId": "419577",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Ben WAINE",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "416652": {
+    "playerId": "416652",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Jesse RANDALL",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

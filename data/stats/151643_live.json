@@ -1,0 +1,461 @@
+{
+  "358106": {
+    "playerId": "358106",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Thibaut COURTOIS",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448360": {
+    "playerId": "448360",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Brandon MECHELE",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "358122": {
+    "playerId": "358122",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Thomas MEUNIER",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411443": {
+    "playerId": "411443",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Timothy CASTAGNE",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "514166": {
+    "playerId": "514166",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Nathan NGOY",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "358120": {
+    "playerId": "358120",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Kevin DE BRUYNE",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401444": {
+    "playerId": "401444",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Youri TIELEMANS",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448364": {
+    "playerId": "448364",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Amadou ONANA",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448355": {
+    "playerId": "448355",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Leandro TROSSARD",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448341": {
+    "playerId": "448341",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Jeremy DOKU",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448362": {
+    "playerId": "448362",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Charles DE KETELAERE",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495348": {
+    "playerId": "495348",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Senne LAMMENS",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "499803": {
+    "playerId": "499803",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Mike PENDERS",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448346": {
+    "playerId": "448346",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Arthur THEATE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448373": {
+    "playerId": "448373",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Maxim DE CUYPER",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448366": {
+    "playerId": "448366",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Koni DE WINTER",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506088": {
+    "playerId": "506088",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Joaquin SEYS",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "290821": {
+    "playerId": "290821",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Axel WITSEL",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "497902": {
+    "playerId": "497902",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Diego MOREIRA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448343": {
+    "playerId": "448343",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Hans VANAKEN",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433092": {
+    "playerId": "433092",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Alexis SAELEMAEKERS",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495349": {
+    "playerId": "495349",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Nicolas RASKIN",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "358112": {
+    "playerId": "358112",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Romelu LUKAKU",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448377": {
+    "playerId": "448377",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Dodi LUKEBAKIO",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494025": {
+    "playerId": "494025",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Matias FERNANDEZ-PARDO",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "416906": {
+    "playerId": "416906",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOSTAFA SHOUBIR",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "369267": {
+    "playerId": "369267",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "YASSER IBRAHIM",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "408950": {
+    "playerId": "408950",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED HANY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430477": {
+    "playerId": "430477",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "AHMED FATOUH",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430482": {
+    "playerId": "430482",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "EMAM ASHOUR",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483161": {
+    "playerId": "483161",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOSTAFA ZICO",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429095": {
+    "playerId": "429095",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "HAMDY FATHY",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433469": {
+    "playerId": "433469",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHANAD LASHIN",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "461788": {
+    "playerId": "461788",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MARAWAN ATTIA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "344654": {
+    "playerId": "344654",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED SALAH",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430476": {
+    "playerId": "430476",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "OMAR MARMOUSH",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "408948": {
+    "playerId": "408948",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ELSHENAWY",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395860": {
+    "playerId": "395860",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MAHDY SOLIMAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "512079": {
+    "playerId": "512079",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ALAA",
+    "shirtNumber": 26,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483182": {
+    "playerId": "483182",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "HOSSAM ABDELMAGUID",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "344661": {
+    "playerId": "344661",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "RAMY RABIA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "416902": {
+    "playerId": "416902",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ABDELMONEIM",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "407022": {
+    "playerId": "407022",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "KARIM HAFEZ",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506124": {
+    "playerId": "506124",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "TAREK ALAA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433466": {
+    "playerId": "433466",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "NABIL DONGA",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483183": {
+    "playerId": "483183",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MAHMOUD SABER",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "363863": {
+    "playerId": "363863",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "TREZEGUET",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495488": {
+    "playerId": "495488",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "HAMZA ABDELKARIM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424106": {
+    "playerId": "424106",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "Haissem HASSAN",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430465": {
+    "playerId": "430465",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "IBRAHIM ADEL",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433461": {
+    "playerId": "433461",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "ZIZO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

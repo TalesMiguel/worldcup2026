@@ -1,0 +1,470 @@
+{
+  "228912": {
+    "playerId": "228912",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Manuel NEUER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "401378": {
+    "playerId": "401378",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Jonathan TAH",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "386413": {
+    "playerId": "386413",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Joshua KIMMICH",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430667": {
+    "playerId": "430667",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Nico SCHLOTTERBECK",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511015": {
+    "playerId": "511015",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Nathaniel BROWN",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484849": {
+    "playerId": "484849",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Aleksandar PAVLOVIC",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429642": {
+    "playerId": "429642",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Jamal MUSIALA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430669": {
+    "playerId": "430669",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Florian WIRTZ",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "404353": {
+    "playerId": "404353",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Leroy SANE",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "492363": {
+    "playerId": "492363",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Felix NMECHA",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411367": {
+    "playerId": "411367",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Kai HAVERTZ",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "306538": {
+    "playerId": "306538",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Oliver Baumann",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "429639": {
+    "playerId": "429639",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Alexander NUEBEL",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "379955": {
+    "playerId": "379955",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Antonio RUEDIGER",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430658": {
+    "playerId": "430658",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Waldemar ANTON",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430657": {
+    "playerId": "430657",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "David RAUM",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "514188": {
+    "playerId": "514188",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Malick THIAW",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "379953": {
+    "playerId": "379953",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Leon GORETZKA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "491218": {
+    "playerId": "491218",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Jamie LEWELING",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484848": {
+    "playerId": "484848",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Pascal GROSS",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429640": {
+    "playerId": "429640",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Angelo Stiller",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395471": {
+    "playerId": "395471",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Nadiem Amiri",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "475195": {
+    "playerId": "475195",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Assan OUEDRAOGO",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "498416": {
+    "playerId": "498416",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Nick WOLTEMADE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484850": {
+    "playerId": "484850",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Maximilian BEIER",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484851": {
+    "playerId": "484851",
+    "teamId": "43948",
+    "teamName": "Germany",
+    "playerName": "Deniz UNDAV",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390650": {
+    "playerId": "390650",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Eloy ROOM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466350": {
+    "playerId": "466350",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sherel FLORANUS",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511141": {
+    "playerId": "511141",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Armando OBISPO",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "398569": {
+    "playerId": "398569",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Riechedly Bazoer",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506471": {
+    "playerId": "506471",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Deveron FONVILLE",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466317": {
+    "playerId": "466317",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juninho BACUNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494989": {
+    "playerId": "494989",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Livano COMENENCIA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466340": {
+    "playerId": "466340",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Leandro BACUNA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485347": {
+    "playerId": "485347",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tahith CHONG",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "407680": {
+    "playerId": "407680",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juergen LOCADIA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424056": {
+    "playerId": "424056",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sontje HANSEN",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466370": {
+    "playerId": "466370",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrick BODAK",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466382": {
+    "playerId": "466382",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Trevor DOORNBUSCH",
+    "shirtNumber": 26,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "485379": {
+    "playerId": "485379",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Shurandy SAMBO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431698": {
+    "playerId": "431698",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jurien GAARI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466361": {
+    "playerId": "466361",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Roshon VAN EIJMA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401023": {
+    "playerId": "401023",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Joshua BRENET",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466359": {
+    "playerId": "466359",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Godfried ROEMERATOE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485324": {
+    "playerId": "485324",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Arjany MARTHA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466365": {
+    "playerId": "466365",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kevin FELIDA",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424047": {
+    "playerId": "424047",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jeremy Antonisse",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506473": {
+    "playerId": "506473",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrese NOSLIN",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466352": {
+    "playerId": "466352",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kenji GORRE",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466363": {
+    "playerId": "466363",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jearl MARGARITHA",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466346": {
+    "playerId": "466346",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Brandley KUWAS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466372": {
+    "playerId": "466372",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Gervane KASTANEER",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "308370": {
+    "playerId": "308370",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALISSON",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "430601": {
+    "playerId": "430601",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MAGALHAES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332946": {
+    "playerId": "332946",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MARQUINHOS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "367981": {
+    "playerId": "367981",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DOUGLAS SANTOS",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430594": {
+    "playerId": "430594",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ROGER IBANEZ",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308386": {
+    "playerId": "308386",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "CASEMIRO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430605": {
+    "playerId": "430605",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BRUNO GUIMARAES",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411726": {
+    "playerId": "411726",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUCAS PAQUETA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405742": {
+    "playerId": "405742",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "VINICIUS JUNIOR",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433872": {
+    "playerId": "433872",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAPHINHA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519836": {
+    "playerId": "519836",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "IGOR THIAGO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396315": {
+    "playerId": "396315",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "WEVERTON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395427": {
+    "playerId": "395427",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "335658": {
+    "playerId": "335658",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALEX SANDRO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335656": {
+    "playerId": "335656",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431889": {
+    "playerId": "431889",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BREMER",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371956": {
+    "playerId": "371956",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LEO PEREIRA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485069": {
+    "playerId": "485069",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON SILVA",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "394456": {
+    "playerId": "394456",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "FABINHO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429392": {
+    "playerId": "429392",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO SANTOS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430609": {
+    "playerId": "430609",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MATHEUS CUNHA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463746": {
+    "playerId": "463746",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ENDRICK",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448420": {
+    "playerId": "448420",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUIZ HENRIQUE",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430597": {
+    "playerId": "430597",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MARTINELLI",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "475036": {
+    "playerId": "475036",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAYAN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "356956": {
+    "playerId": "356956",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Yassine BOUNOU",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "400721": {
+    "playerId": "400721",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Achraf HAKIMI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411680": {
+    "playerId": "411680",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Noussair MAZRAOUI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403083": {
+    "playerId": "403083",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Issa Diop",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448607": {
+    "playerId": "448607",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chadi RIAD",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485760": {
+    "playerId": "485760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayyoub BOUADDI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441307": {
+    "playerId": "441307",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Azzedine OUNAHI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448598": {
+    "playerId": "448598",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ismael SAIBARI",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448612": {
+    "playerId": "448612",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Bilal EL KHANNOUSS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485740": {
+    "playerId": "485740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Neil EL AYNAOUI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430740": {
+    "playerId": "430740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Brahim DIAZ",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395755": {
+    "playerId": "395755",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Munir EL KAJOUI",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "371553": {
+    "playerId": "371553",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ahmed Reda TAGNAOUTI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395760": {
+    "playerId": "395760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Marwane SAADANE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485756": {
+    "playerId": "485756",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Zakaria EL OUAHDI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494742": {
+    "playerId": "494742",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Youssef BELAMMARI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485767": {
+    "playerId": "485767",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Redouane HALHAL",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424071": {
+    "playerId": "424071",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Anass SALAH EDDINE",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "372266": {
+    "playerId": "372266",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Sofyan AMRABAT",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494293": {
+    "playerId": "494293",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chemsdine TALBI",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505097": {
+    "playerId": "505097",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Samir EL MOURABET",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505112": {
+    "playerId": "505112",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Gessime YASSINE",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433426": {
+    "playerId": "433426",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Soufiane RAHIMI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "524320": {
+    "playerId": "524320",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Amine SBAI",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "411678": {
+    "playerId": "411678",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoub El Kaabi",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "523288": {
+    "playerId": "523288",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoube AMAIMOUNI",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

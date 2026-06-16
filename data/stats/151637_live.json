@@ -1,0 +1,470 @@
+{
+  "360496": {
+    "playerId": "360496",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Kristoffer NORDFELDT",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483304": {
+    "playerId": "483304",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf LAGERBIELKE",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395283": {
+    "playerId": "395283",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Victor LINDELOF",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483312": {
+    "playerId": "483312",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Isak HIEN",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483276": {
+    "playerId": "483276",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gabriel GUDMUNDSSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502945": {
+    "playerId": "502945",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander BERNHARDSSON",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502946": {
+    "playerId": "502946",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Benjamin NYGREN",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441135": {
+    "playerId": "441135",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jesper KARLSTROM",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489688": {
+    "playerId": "489688",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Yasin AYARI",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430150": {
+    "playerId": "430150",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander Isak",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483327": {
+    "playerId": "483327",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor GYOKERES",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489685": {
+    "playerId": "489685",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jacob WIDELL ZETTERSTROM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483264": {
+    "playerId": "483264",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor JOHANSSON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "514639": {
+    "playerId": "514639",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Herman JOHANSSON",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491255": {
+    "playerId": "491255",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Daniel SVENSSON",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483319": {
+    "playerId": "483319",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Hjalmar EKDAL",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441132": {
+    "playerId": "441132",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Carl STARFELT",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "493061": {
+    "playerId": "493061",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Eric SMITH",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "519958": {
+    "playerId": "519958",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Elliot STROUD",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489689": {
+    "playerId": "489689",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Lucas BERGVALL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395286": {
+    "playerId": "395286",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Ken SEMA",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433795": {
+    "playerId": "433795",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Mattias SVANBERG",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "503047": {
+    "playerId": "503047",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Besfort ZENELI",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441137": {
+    "playerId": "441137",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Anthony ELANGA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489691": {
+    "playerId": "489691",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf NILSSON",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514202": {
+    "playerId": "514202",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Taha ALI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520245": {
+    "playerId": "520245",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mouhib CHAMAKH",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433362": {
+    "playerId": "433362",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ali ABDI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433380": {
+    "playerId": "433380",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Montassar TALBI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433367": {
+    "playerId": "433367",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Omar Rekik",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419189": {
+    "playerId": "419189",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Yan Valery",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "425607": {
+    "playerId": "425607",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mohamed Amine BEN HMIDA",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433378": {
+    "playerId": "433378",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Hannibal MEJBRI",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336459": {
+    "playerId": "336459",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Rani Khedira",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411658": {
+    "playerId": "411658",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ellyes SKHIRI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433361": {
+    "playerId": "433361",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Anis SLIMANE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482885": {
+    "playerId": "482885",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Elias SAAD",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433365": {
+    "playerId": "433365",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Aymen DAHMEN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "372294": {
+    "playerId": "372294",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Sabri BEN HESSEN",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "516043": {
+    "playerId": "516043",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Adam AROUS",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411653": {
+    "playerId": "411653",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Dylan BRONN",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441362": {
+    "playerId": "441362",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mortadha BEN OUANES",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506335": {
+    "playerId": "506335",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Moutaz NEFFATI",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520246": {
+    "playerId": "520246",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Raed CHIKHAOUI",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464484": {
+    "playerId": "464484",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ismael GHARBI",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "512039": {
+    "playerId": "512039",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Khalil AYARI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479781": {
+    "playerId": "479781",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mohamed HADJ MAHMOUD",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "504502": {
+    "playerId": "504502",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Sebastian TOUNEKTI",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448662": {
+    "playerId": "448662",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Elias ACHOURI",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494374": {
+    "playerId": "494374",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Hazem MASTOURI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520247": {
+    "playerId": "520247",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Rayan ELLOUMI",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494375": {
+    "playerId": "494375",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Firas CHAOUAT",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "295922": {
+    "playerId": "295922",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Johny Placide",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "397775": {
+    "playerId": "397775",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Carlens ARCUS",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "275917": {
+    "playerId": "275917",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Ricardo Ade",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448363": {
+    "playerId": "448363",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Hannes DELCROIX",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489300": {
+    "playerId": "489300",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Martin EXPERIENCE",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430697": {
+    "playerId": "430697",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Jean-Ricner Bellegarde",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466838": {
+    "playerId": "466838",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Danley JEAN JACQUES",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "481027": {
+    "playerId": "481027",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Louicius DEEDSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485664": {
+    "playerId": "485664",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Ruben PROVIDENCE",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405879": {
+    "playerId": "405879",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Wilson Isidor",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "431693": {
+    "playerId": "431693",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Frantzdy Pierrot",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466835": {
+    "playerId": "466835",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Alexandre PIERRE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466853": {
+    "playerId": "466853",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Josue DUVERGER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "506481": {
+    "playerId": "506481",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Keeto THERMONCY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466844": {
+    "playerId": "466844",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Markhus LACROIX",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466862": {
+    "playerId": "466862",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Garven METUSALA",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431781": {
+    "playerId": "431781",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Jean-Kevin DUVERNE",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "498439": {
+    "playerId": "498439",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Wilguens PAUGAIN",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424556": {
+    "playerId": "424556",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Carl SAINTE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523215": {
+    "playerId": "523215",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Dominique SIMON",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485409": {
+    "playerId": "485409",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Woodensky PIERRE",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466865": {
+    "playerId": "466865",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Derrick ETIENNE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "394993": {
+    "playerId": "394993",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Duckens NAZON",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485676": {
+    "playerId": "485676",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Lenny JOSEPH",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506483": {
+    "playerId": "506483",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Yassin FORTUNE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "510757": {
+    "playerId": "510757",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Josue CASIMIR",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "411301": {
+    "playerId": "411301",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Angus Gunn",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "442428": {
+    "playerId": "442428",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Aaron HICKEY",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401339": {
+    "playerId": "401339",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Andy ROBERTSON",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "359634": {
+    "playerId": "359634",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Grant Hanley",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430147": {
+    "playerId": "430147",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Jack Hendry",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433787": {
+    "playerId": "433787",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Scott McTominay",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401334": {
+    "playerId": "401334",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "John McGinn",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "442434": {
+    "playerId": "442434",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lewis FERGUSON",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433191": {
+    "playerId": "433191",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Che Adams",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485131": {
+    "playerId": "485131",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ben GANNON-DOAK",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484045": {
+    "playerId": "484045",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lawrence SHANKLAND",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "442429": {
+    "playerId": "442429",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Liam KELLY",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "215553": {
+    "playerId": "215553",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Craig GORDON",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "401712": {
+    "playerId": "401712",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Kieran Tierney",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "442430": {
+    "playerId": "442430",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "John SOUTTAR",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484073": {
+    "playerId": "484073",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Dominic HYAM",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433694": {
+    "playerId": "433694",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Nathan PATTERSON",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "337389": {
+    "playerId": "337389",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Anthony RALSTON",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "442431": {
+    "playerId": "442431",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Scott MCKENNA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "523007": {
+    "playerId": "523007",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Tyler FLETCHER",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430097": {
+    "playerId": "430097",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ryan Christie",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484051": {
+    "playerId": "484051",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Kenny McLEAN",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430098": {
+    "playerId": "430098",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lyndon DYKES",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "442433": {
+    "playerId": "442433",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ross STEWART",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495431": {
+    "playerId": "495431",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "George HIRST",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520217": {
+    "playerId": "520217",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Findlay CURTIS",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

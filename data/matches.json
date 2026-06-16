@@ -1,1 +1,3054 @@
-[]
+[
+  {
+    "idMatch": "400021443",
+    "idIFES": "151600",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-11T19:00:00Z",
+    "homeTeam": {
+      "id": "43911",
+      "name": "Mexico",
+      "abbreviation": "MEX"
+    },
+    "awayTeam": {
+      "id": "43883",
+      "name": "South Africa",
+      "abbreviation": "RSA"
+    },
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "429157",
+        "playerName": "Julian QUINONES",
+        "minute": "9'",
+        "type": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "356731",
+        "playerName": "Raul JIMENEZ",
+        "minute": "67'",
+        "type": 2,
+        "teamId": "43911"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "464533",
+        "playerName": "Brian GUTIERREZ",
+        "minute": "23'",
+        "card": 1,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "395516",
+        "playerName": "Cesar MONTES",
+        "minute": "90'+2'",
+        "card": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "403616",
+        "playerName": "Teboho MOKOENA",
+        "minute": "17'",
+        "card": 1,
+        "teamId": "43883"
+      },
+      {
+        "playerId": "390475",
+        "playerName": "Sphephelo SITHOLE",
+        "minute": "49'",
+        "card": 2,
+        "teamId": "43883"
+      },
+      {
+        "playerId": "463221",
+        "playerName": "Nkosinathi SIBISI",
+        "minute": "74'",
+        "card": 1,
+        "teamId": "43883"
+      },
+      {
+        "playerId": "395984",
+        "playerName": "Themba ZWANE",
+        "minute": "84'",
+        "card": 2,
+        "teamId": "43883"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021441",
+    "idIFES": "151608",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-12T02:00:00Z",
+    "homeTeam": {
+      "id": "43822",
+      "name": "Korea Republic",
+      "abbreviation": "KOR"
+    },
+    "awayTeam": {
+      "id": "43995",
+      "name": "Czechia",
+      "abbreviation": "CZE"
+    },
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "395084",
+        "playerName": "HWANG Inbeom",
+        "minute": "67'",
+        "type": 2,
+        "teamId": "43822"
+      },
+      {
+        "playerId": "448586",
+        "playerName": "OH Hyeongyu",
+        "minute": "80'",
+        "type": 2,
+        "teamId": "43822"
+      },
+      {
+        "playerId": "441170",
+        "playerName": "Ladislav KREJCI",
+        "minute": "59'",
+        "type": 2,
+        "teamId": "43995"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "492315",
+        "playerName": "LEE Gihyuk",
+        "minute": "90'+6'",
+        "card": 1,
+        "teamId": "43822"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021449",
+    "idIFES": "151614",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-12T19:00:00Z",
+    "homeTeam": {
+      "id": "43899",
+      "name": "Canada",
+      "abbreviation": "CAN"
+    },
+    "awayTeam": {
+      "id": "44037",
+      "name": "Bosnia and Herzegovina",
+      "abbreviation": "BIH"
+    },
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "390670",
+        "playerName": "Cyle LARIN",
+        "minute": "78'",
+        "type": 2,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "519954",
+        "playerName": "Jovo LUKIC",
+        "minute": "21'",
+        "type": 2,
+        "teamId": "44037"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "441252",
+        "playerName": "Alistair JOHNSTON",
+        "minute": "11'",
+        "card": 1,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "480322",
+        "playerName": "Luc DE FOUGEROLLES",
+        "minute": "53'",
+        "card": 1,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "436743",
+        "playerName": "Ermedin DEMIROVIC",
+        "minute": "44'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "519954",
+        "playerName": "Jovo LUKIC",
+        "minute": "45'+1'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "489520",
+        "playerName": "Nikola KATIC",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "44037"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021458",
+    "idIFES": "151625",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-13T01:00:00Z",
+    "homeTeam": {
+      "id": "43921",
+      "name": "USA",
+      "abbreviation": "USA"
+    },
+    "awayTeam": {
+      "id": "43928",
+      "name": "Paraguay",
+      "abbreviation": "PAR"
+    },
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "476348",
+        "playerName": "",
+        "minute": "7'",
+        "type": 3,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "466624",
+        "playerName": "Folarin BALOGUN",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "466624",
+        "playerName": "Folarin BALOGUN",
+        "minute": "45'+5'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "419068",
+        "playerName": "Giovanni REYNA",
+        "minute": "90'+8'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "495046",
+        "playerName": "MAURICIO",
+        "minute": "73'",
+        "type": 2,
+        "teamId": "43928"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "390238",
+        "playerName": "Tyler ADAMS",
+        "minute": "59'",
+        "card": 1,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "479601",
+        "playerName": "Juan Jose CACERES",
+        "minute": "9'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "369761",
+        "playerName": "Miguel ALMIRON",
+        "minute": "53'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "463128",
+        "playerName": "Diego GOMEZ",
+        "minute": "79'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "485802",
+        "playerName": "Alex ARCE",
+        "minute": "88'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "369749",
+        "playerName": "Junior ALONSO",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43928"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021447",
+    "idIFES": "151613",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-13T19:00:00Z",
+    "homeTeam": {
+      "id": "43834",
+      "name": "Qatar",
+      "abbreviation": "QAT"
+    },
+    "awayTeam": {
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
+    },
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "493221",
+        "playerName": "",
+        "minute": "90'+4'",
+        "type": 3,
+        "teamId": "43834"
+      },
+      {
+        "playerId": "393480",
+        "playerName": "Breel EMBOLO",
+        "minute": "17'",
+        "type": 1,
+        "teamId": "43971"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "419459",
+        "playerName": "MAHMOUD ABUNADA",
+        "minute": "13'",
+        "card": 1,
+        "teamId": "43834"
+      },
+      {
+        "playerId": "419473",
+        "playerName": "JASSEM GABER",
+        "minute": "23'",
+        "card": 1,
+        "teamId": "43834"
+      },
+      {
+        "playerId": "401448",
+        "playerName": "Denis ZAKARIA",
+        "minute": "42'",
+        "card": 1,
+        "teamId": "43971"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021456",
+    "idIFES": "151620",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-13T22:00:00Z",
+    "homeTeam": {
+      "id": "43924",
+      "name": "Brazil",
+      "abbreviation": "BRA"
+    },
+    "awayTeam": {
+      "id": "43872",
+      "name": "Morocco",
+      "abbreviation": "MAR"
+    },
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "405742",
+        "playerName": "VINICIUS JUNIOR",
+        "minute": "32'",
+        "type": 2,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "448598",
+        "playerName": "Ismael SAIBARI",
+        "minute": "21'",
+        "type": 2,
+        "teamId": "43872"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "308386",
+        "playerName": "CASEMIRO",
+        "minute": "37'",
+        "card": 1,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "430594",
+        "playerName": "ROGER IBANEZ",
+        "minute": "43'",
+        "card": 1,
+        "teamId": "43924"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021453",
+    "idIFES": "151619",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-14T01:00:00Z",
+    "homeTeam": {
+      "id": "43908",
+      "name": "Haiti",
+      "abbreviation": "HAI"
+    },
+    "awayTeam": {
+      "id": "43967",
+      "name": "Scotland",
+      "abbreviation": "SCO"
+    },
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "401334",
+        "playerName": "John McGinn",
+        "minute": "28'",
+        "type": 2,
+        "teamId": "43967"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "430697",
+        "playerName": "Jean-Ricner Bellegarde",
+        "minute": "39'",
+        "card": 1,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "442428",
+        "playerName": "Aaron HICKEY",
+        "minute": "46'",
+        "card": 1,
+        "teamId": "43967"
+      },
+      {
+        "playerId": "520217",
+        "playerName": "Findlay CURTIS",
+        "minute": "90'+1'",
+        "card": 1,
+        "teamId": "43967"
+      },
+      {
+        "playerId": "484051",
+        "playerName": "Kenny McLEAN",
+        "minute": "90'+5'",
+        "card": 1,
+        "teamId": "43967"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021463",
+    "idIFES": "151626",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-14T04:00:00Z",
+    "homeTeam": {
+      "id": "43976",
+      "name": "Australia",
+      "abbreviation": "AUS"
+    },
+    "awayTeam": {
+      "id": "43972",
+      "name": "Türkiye",
+      "abbreviation": "TUR"
+    },
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "486306",
+        "playerName": "Nestory IRANKUNDA",
+        "minute": "27'",
+        "type": 2,
+        "teamId": "43976"
+      },
+      {
+        "playerId": "430452",
+        "playerName": "Connor METCALFE",
+        "minute": "75'",
+        "type": 2,
+        "teamId": "43976"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "406231",
+        "playerName": "Yunus AKGUN",
+        "minute": "86'",
+        "card": 1,
+        "teamId": "43972"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021464",
+    "idIFES": "151631",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-14T17:00:00Z",
+    "homeTeam": {
+      "id": "43948",
+      "name": "Germany",
+      "abbreviation": "GER"
+    },
+    "awayTeam": {
+      "id": "1895293",
+      "name": "Curaçao",
+      "abbreviation": "CUW"
+    },
+    "homeScore": 7,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "492363",
+        "playerName": "Felix NMECHA",
+        "minute": "6'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "430667",
+        "playerName": "Nico SCHLOTTERBECK",
+        "minute": "38'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "411367",
+        "playerName": "Kai HAVERTZ",
+        "minute": "45'+5'",
+        "type": 1,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "429642",
+        "playerName": "Jamal MUSIALA",
+        "minute": "47'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "511015",
+        "playerName": "Nathaniel BROWN",
+        "minute": "68'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "484851",
+        "playerName": "Deniz UNDAV",
+        "minute": "78'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "411367",
+        "playerName": "Kai HAVERTZ",
+        "minute": "88'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "494989",
+        "playerName": "Livano COMENENCIA",
+        "minute": "21'",
+        "type": 2,
+        "teamId": "1895293"
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021470",
+    "idIFES": "151638",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-14T20:00:00Z",
+    "homeTeam": {
+      "id": "43960",
+      "name": "Netherlands",
+      "abbreviation": "NED"
+    },
+    "awayTeam": {
+      "id": "43819",
+      "name": "Japan",
+      "abbreviation": "JPN"
+    },
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "397786",
+        "playerName": "Virgil VAN DIJK",
+        "minute": "50'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "489518",
+        "playerName": "Crysencio SUMMERVILLE",
+        "minute": "64'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "405522",
+        "playerName": "Keito Nakamura",
+        "minute": "57'",
+        "type": 2,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "448557",
+        "playerName": "Daichi KAMADA",
+        "minute": "88'",
+        "type": 2,
+        "teamId": "43819"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "489518",
+        "playerName": "Crysencio SUMMERVILLE",
+        "minute": "61'",
+        "card": 1,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "336098",
+        "playerName": "Memphis DEPAY",
+        "minute": "83'",
+        "card": 1,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "448140",
+        "playerName": "Micky VAN DE VEN",
+        "minute": "90'+1'",
+        "card": 1,
+        "teamId": "43960"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021467",
+    "idIFES": "151632",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-14T23:00:00Z",
+    "homeTeam": {
+      "id": "43854",
+      "name": "Côte d'Ivoire",
+      "abbreviation": "CIV"
+    },
+    "awayTeam": {
+      "id": "43927",
+      "name": "Ecuador",
+      "abbreviation": "ECU"
+    },
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430822",
+        "playerName": "Amad DIALLO",
+        "minute": "90'",
+        "type": 2,
+        "teamId": "43854"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "405175",
+        "playerName": "Seko Fofana",
+        "minute": "28'",
+        "card": 1,
+        "teamId": "43854"
+      },
+      {
+        "playerId": "371609",
+        "playerName": "Franck KESSIE",
+        "minute": "38'",
+        "card": 1,
+        "teamId": "43854"
+      },
+      {
+        "playerId": "486317",
+        "playerName": "Guela DOUE",
+        "minute": "40'",
+        "card": 1,
+        "teamId": "43854"
+      },
+      {
+        "playerId": "419003",
+        "playerName": "Jackson POROZO",
+        "minute": "73'",
+        "card": 1,
+        "teamId": "43927"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021474",
+    "idIFES": "151637",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-15T02:00:00Z",
+    "homeTeam": {
+      "id": "43970",
+      "name": "Sweden",
+      "abbreviation": "SWE"
+    },
+    "awayTeam": {
+      "id": "43888",
+      "name": "Tunisia",
+      "abbreviation": "TUN"
+    },
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "489688",
+        "playerName": "Yasin AYARI",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "430150",
+        "playerName": "Alexander Isak",
+        "minute": "30'",
+        "type": 2,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "483327",
+        "playerName": "Viktor GYOKERES",
+        "minute": "59'",
+        "type": 2,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "433795",
+        "playerName": "Mattias SVANBERG",
+        "minute": "84'",
+        "type": 2,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "489688",
+        "playerName": "Yasin AYARI",
+        "minute": "90'+6'",
+        "type": 2,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "433367",
+        "playerName": "Omar Rekik",
+        "minute": "43'",
+        "type": 2,
+        "teamId": "43888"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "336459",
+        "playerName": "Rani Khedira",
+        "minute": "54'",
+        "card": 1,
+        "teamId": "43888"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021482",
+    "idIFES": "151649",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-15T16:00:00Z",
+    "homeTeam": {
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
+    },
+    "awayTeam": {
+      "id": "43850",
+      "name": "Cabo Verde",
+      "abbreviation": "CPV"
+    },
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [],
+    "bookings": [
+      {
+        "playerId": "423646",
+        "playerName": "PEDRI",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "477832",
+        "playerName": "SIDNY LOPES CABRAL",
+        "minute": "16'",
+        "card": 1,
+        "teamId": "43850"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021478",
+    "idIFES": "151643",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-15T19:00:00Z",
+    "homeTeam": {
+      "id": "43935",
+      "name": "Belgium",
+      "abbreviation": "BEL"
+    },
+    "awayTeam": {
+      "id": "43855",
+      "name": "Egypt",
+      "abbreviation": "EGY"
+    },
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "408950",
+        "playerName": "",
+        "minute": "66'",
+        "type": 3,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "430482",
+        "playerName": "EMAM ASHOUR",
+        "minute": "19'",
+        "type": 2,
+        "teamId": "43855"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "411443",
+        "playerName": "Timothy CASTAGNE",
+        "minute": "14'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "448373",
+        "playerName": "Maxim DE CUYPER",
+        "minute": "75'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "461788",
+        "playerName": "MARAWAN ATTIA",
+        "minute": "13'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "430477",
+        "playerName": "AHMED FATOUH",
+        "minute": "34'",
+        "card": 1,
+        "teamId": "43855"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021486",
+    "idIFES": "151650",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-15T22:00:00Z",
+    "homeTeam": {
+      "id": "43835",
+      "name": "Saudi Arabia",
+      "abbreviation": "KSA"
+    },
+    "awayTeam": {
+      "id": "43930",
+      "name": "Uruguay",
+      "abbreviation": "URU"
+    },
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "403312",
+        "playerName": "Abdulelah ALAMRI",
+        "minute": "41'",
+        "type": 2,
+        "teamId": "43835"
+      },
+      {
+        "playerId": "419100",
+        "playerName": "Maxi ARAUJO",
+        "minute": "80'",
+        "type": 2,
+        "teamId": "43930"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "403312",
+        "playerName": "Abdulelah ALAMRI",
+        "minute": "44'",
+        "card": 1,
+        "teamId": "43835"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021476",
+    "idIFES": "151644",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-16T01:00:00Z",
+    "homeTeam": {
+      "id": "43817",
+      "name": "IR Iran",
+      "abbreviation": "IRN"
+    },
+    "awayTeam": {
+      "id": "43978",
+      "name": "New Zealand",
+      "abbreviation": "NZL"
+    },
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "384797",
+        "playerName": "Ramin REZAEIAN",
+        "minute": "32'",
+        "type": 2,
+        "teamId": "43817"
+      },
+      {
+        "playerId": "448497",
+        "playerName": "Mohammad MOHEBBI",
+        "minute": "64'",
+        "type": 2,
+        "teamId": "43817"
+      },
+      {
+        "playerId": "405454",
+        "playerName": "Elijah JUST",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "43978"
+      },
+      {
+        "playerId": "405454",
+        "playerName": "Elijah JUST",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43978"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "288961",
+        "playerName": "Ehsan HAJISAFI",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43817"
+      }
+    ]
+  },
+  {
+    "idMatch": "400021490",
+    "idIFES": "151656",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-16T19:00:00Z",
+    "homeTeam": {
+      "id": "43946",
+      "name": "France",
+      "abbreviation": "FRA"
+    },
+    "awayTeam": {
+      "id": "43879",
+      "name": "Senegal",
+      "abbreviation": "SEN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021488",
+    "idIFES": "151655",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-16T22:00:00Z",
+    "homeTeam": {
+      "id": "43818",
+      "name": "Iraq",
+      "abbreviation": "IRQ"
+    },
+    "awayTeam": {
+      "id": "43961",
+      "name": "Norway",
+      "abbreviation": "NOR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021496",
+    "idIFES": "151662",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-17T01:00:00Z",
+    "homeTeam": {
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
+    },
+    "awayTeam": {
+      "id": "43843",
+      "name": "Algeria",
+      "abbreviation": "ALG"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021498",
+    "idIFES": "151661",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-17T04:00:00Z",
+    "homeTeam": {
+      "id": "43934",
+      "name": "Austria",
+      "abbreviation": "AUT"
+    },
+    "awayTeam": {
+      "id": "43820",
+      "name": "Jordan",
+      "abbreviation": "JOR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021502",
+    "idIFES": "151668",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-17T17:00:00Z",
+    "homeTeam": {
+      "id": "43963",
+      "name": "Portugal",
+      "abbreviation": "POR"
+    },
+    "awayTeam": {
+      "id": "20014",
+      "name": "Congo DR",
+      "abbreviation": "COD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021507",
+    "idIFES": "151673",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-17T20:00:00Z",
+    "homeTeam": {
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
+    },
+    "awayTeam": {
+      "id": "43938",
+      "name": "Croatia",
+      "abbreviation": "CRO"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021510",
+    "idIFES": "151674",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-17T23:00:00Z",
+    "homeTeam": {
+      "id": "43860",
+      "name": "Ghana",
+      "abbreviation": "GHA"
+    },
+    "awayTeam": {
+      "id": "43914",
+      "name": "Panama",
+      "abbreviation": "PAN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021504",
+    "idIFES": "151667",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-18T02:00:00Z",
+    "homeTeam": {
+      "id": "44005",
+      "name": "Uzbekistan",
+      "abbreviation": "UZB"
+    },
+    "awayTeam": {
+      "id": "43926",
+      "name": "Colombia",
+      "abbreviation": "COL"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021440",
+    "idIFES": "151610",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-18T16:00:00Z",
+    "homeTeam": {
+      "id": "43995",
+      "name": "Czechia",
+      "abbreviation": "CZE"
+    },
+    "awayTeam": {
+      "id": "43883",
+      "name": "South Africa",
+      "abbreviation": "RSA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021446",
+    "idIFES": "151616",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-18T19:00:00Z",
+    "homeTeam": {
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
+    },
+    "awayTeam": {
+      "id": "44037",
+      "name": "Bosnia and Herzegovina",
+      "abbreviation": "BIH"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021450",
+    "idIFES": "151615",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-18T22:00:00Z",
+    "homeTeam": {
+      "id": "43899",
+      "name": "Canada",
+      "abbreviation": "CAN"
+    },
+    "awayTeam": {
+      "id": "43834",
+      "name": "Qatar",
+      "abbreviation": "QAT"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021442",
+    "idIFES": "151609",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-19T01:00:00Z",
+    "homeTeam": {
+      "id": "43911",
+      "name": "Mexico",
+      "abbreviation": "MEX"
+    },
+    "awayTeam": {
+      "id": "43822",
+      "name": "Korea Republic",
+      "abbreviation": "KOR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021462",
+    "idIFES": "151627",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-19T19:00:00Z",
+    "homeTeam": {
+      "id": "43921",
+      "name": "USA",
+      "abbreviation": "USA"
+    },
+    "awayTeam": {
+      "id": "43976",
+      "name": "Australia",
+      "abbreviation": "AUS"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021454",
+    "idIFES": "151621",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-19T22:00:00Z",
+    "homeTeam": {
+      "id": "43967",
+      "name": "Scotland",
+      "abbreviation": "SCO"
+    },
+    "awayTeam": {
+      "id": "43872",
+      "name": "Morocco",
+      "abbreviation": "MAR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021457",
+    "idIFES": "151622",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-20T00:30:00Z",
+    "homeTeam": {
+      "id": "43924",
+      "name": "Brazil",
+      "abbreviation": "BRA"
+    },
+    "awayTeam": {
+      "id": "43908",
+      "name": "Haiti",
+      "abbreviation": "HAI"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021460",
+    "idIFES": "151628",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-20T03:00:00Z",
+    "homeTeam": {
+      "id": "43972",
+      "name": "Türkiye",
+      "abbreviation": "TUR"
+    },
+    "awayTeam": {
+      "id": "43928",
+      "name": "Paraguay",
+      "abbreviation": "PAR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021472",
+    "idIFES": "151640",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-20T17:00:00Z",
+    "homeTeam": {
+      "id": "43960",
+      "name": "Netherlands",
+      "abbreviation": "NED"
+    },
+    "awayTeam": {
+      "id": "43970",
+      "name": "Sweden",
+      "abbreviation": "SWE"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021469",
+    "idIFES": "151634",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-20T20:00:00Z",
+    "homeTeam": {
+      "id": "43948",
+      "name": "Germany",
+      "abbreviation": "GER"
+    },
+    "awayTeam": {
+      "id": "43854",
+      "name": "Côte d'Ivoire",
+      "abbreviation": "CIV"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021465",
+    "idIFES": "151633",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-21T00:00:00Z",
+    "homeTeam": {
+      "id": "43927",
+      "name": "Ecuador",
+      "abbreviation": "ECU"
+    },
+    "awayTeam": {
+      "id": "1895293",
+      "name": "Curaçao",
+      "abbreviation": "CUW"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021475",
+    "idIFES": "151639",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-21T04:00:00Z",
+    "homeTeam": {
+      "id": "43888",
+      "name": "Tunisia",
+      "abbreviation": "TUN"
+    },
+    "awayTeam": {
+      "id": "43819",
+      "name": "Japan",
+      "abbreviation": "JPN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021483",
+    "idIFES": "151651",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-21T16:00:00Z",
+    "homeTeam": {
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
+    },
+    "awayTeam": {
+      "id": "43835",
+      "name": "Saudi Arabia",
+      "abbreviation": "KSA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021477",
+    "idIFES": "151646",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-21T19:00:00Z",
+    "homeTeam": {
+      "id": "43935",
+      "name": "Belgium",
+      "abbreviation": "BEL"
+    },
+    "awayTeam": {
+      "id": "43817",
+      "name": "IR Iran",
+      "abbreviation": "IRN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021487",
+    "idIFES": "151652",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-21T22:00:00Z",
+    "homeTeam": {
+      "id": "43930",
+      "name": "Uruguay",
+      "abbreviation": "URU"
+    },
+    "awayTeam": {
+      "id": "43850",
+      "name": "Cabo Verde",
+      "abbreviation": "CPV"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021480",
+    "idIFES": "151645",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-22T01:00:00Z",
+    "homeTeam": {
+      "id": "43978",
+      "name": "New Zealand",
+      "abbreviation": "NZL"
+    },
+    "awayTeam": {
+      "id": "43855",
+      "name": "Egypt",
+      "abbreviation": "EGY"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021494",
+    "idIFES": "151664",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-22T17:00:00Z",
+    "homeTeam": {
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
+    },
+    "awayTeam": {
+      "id": "43934",
+      "name": "Austria",
+      "abbreviation": "AUT"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021492",
+    "idIFES": "151657",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-22T21:00:00Z",
+    "homeTeam": {
+      "id": "43946",
+      "name": "France",
+      "abbreviation": "FRA"
+    },
+    "awayTeam": {
+      "id": "43818",
+      "name": "Iraq",
+      "abbreviation": "IRQ"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021491",
+    "idIFES": "151658",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-23T00:00:00Z",
+    "homeTeam": {
+      "id": "43961",
+      "name": "Norway",
+      "abbreviation": "NOR"
+    },
+    "awayTeam": {
+      "id": "43879",
+      "name": "Senegal",
+      "abbreviation": "SEN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021499",
+    "idIFES": "151663",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-23T03:00:00Z",
+    "homeTeam": {
+      "id": "43820",
+      "name": "Jordan",
+      "abbreviation": "JOR"
+    },
+    "awayTeam": {
+      "id": "43843",
+      "name": "Algeria",
+      "abbreviation": "ALG"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021503",
+    "idIFES": "151670",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-23T17:00:00Z",
+    "homeTeam": {
+      "id": "43963",
+      "name": "Portugal",
+      "abbreviation": "POR"
+    },
+    "awayTeam": {
+      "id": "44005",
+      "name": "Uzbekistan",
+      "abbreviation": "UZB"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021506",
+    "idIFES": "151676",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-23T20:00:00Z",
+    "homeTeam": {
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
+    },
+    "awayTeam": {
+      "id": "43860",
+      "name": "Ghana",
+      "abbreviation": "GHA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021511",
+    "idIFES": "151675",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-23T23:00:00Z",
+    "homeTeam": {
+      "id": "43914",
+      "name": "Panama",
+      "abbreviation": "PAN"
+    },
+    "awayTeam": {
+      "id": "43938",
+      "name": "Croatia",
+      "abbreviation": "CRO"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021501",
+    "idIFES": "151669",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-24T02:00:00Z",
+    "homeTeam": {
+      "id": "43926",
+      "name": "Colombia",
+      "abbreviation": "COL"
+    },
+    "awayTeam": {
+      "id": "20014",
+      "name": "Congo DR",
+      "abbreviation": "COD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021448",
+    "idIFES": "151618",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-24T19:00:00Z",
+    "homeTeam": {
+      "id": "44037",
+      "name": "Bosnia and Herzegovina",
+      "abbreviation": "BIH"
+    },
+    "awayTeam": {
+      "id": "43834",
+      "name": "Qatar",
+      "abbreviation": "QAT"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021451",
+    "idIFES": "151617",
+    "idGroup": "289276",
+    "groupName": "Group B",
+    "stageName": "First Stage",
+    "date": "2026-06-24T19:00:00Z",
+    "homeTeam": {
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
+    },
+    "awayTeam": {
+      "id": "43899",
+      "name": "Canada",
+      "abbreviation": "CAN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021452",
+    "idIFES": "151623",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-24T22:00:00Z",
+    "homeTeam": {
+      "id": "43872",
+      "name": "Morocco",
+      "abbreviation": "MAR"
+    },
+    "awayTeam": {
+      "id": "43908",
+      "name": "Haiti",
+      "abbreviation": "HAI"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021455",
+    "idIFES": "151624",
+    "idGroup": "289277",
+    "groupName": "Group C",
+    "stageName": "First Stage",
+    "date": "2026-06-24T22:00:00Z",
+    "homeTeam": {
+      "id": "43967",
+      "name": "Scotland",
+      "abbreviation": "SCO"
+    },
+    "awayTeam": {
+      "id": "43924",
+      "name": "Brazil",
+      "abbreviation": "BRA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021445",
+    "idIFES": "151612",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-25T01:00:00Z",
+    "homeTeam": {
+      "id": "43883",
+      "name": "South Africa",
+      "abbreviation": "RSA"
+    },
+    "awayTeam": {
+      "id": "43822",
+      "name": "Korea Republic",
+      "abbreviation": "KOR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021444",
+    "idIFES": "151611",
+    "idGroup": "289275",
+    "groupName": "Group A",
+    "stageName": "First Stage",
+    "date": "2026-06-25T01:00:00Z",
+    "homeTeam": {
+      "id": "43995",
+      "name": "Czechia",
+      "abbreviation": "CZE"
+    },
+    "awayTeam": {
+      "id": "43911",
+      "name": "Mexico",
+      "abbreviation": "MEX"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021468",
+    "idIFES": "151635",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-25T20:00:00Z",
+    "homeTeam": {
+      "id": "1895293",
+      "name": "Curaçao",
+      "abbreviation": "CUW"
+    },
+    "awayTeam": {
+      "id": "43854",
+      "name": "Côte d'Ivoire",
+      "abbreviation": "CIV"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021466",
+    "idIFES": "151636",
+    "idGroup": "289279",
+    "groupName": "Group E",
+    "stageName": "First Stage",
+    "date": "2026-06-25T20:00:00Z",
+    "homeTeam": {
+      "id": "43927",
+      "name": "Ecuador",
+      "abbreviation": "ECU"
+    },
+    "awayTeam": {
+      "id": "43948",
+      "name": "Germany",
+      "abbreviation": "GER"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021473",
+    "idIFES": "151642",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-25T23:00:00Z",
+    "homeTeam": {
+      "id": "43888",
+      "name": "Tunisia",
+      "abbreviation": "TUN"
+    },
+    "awayTeam": {
+      "id": "43960",
+      "name": "Netherlands",
+      "abbreviation": "NED"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021471",
+    "idIFES": "151641",
+    "idGroup": "289280",
+    "groupName": "Group F",
+    "stageName": "First Stage",
+    "date": "2026-06-25T23:00:00Z",
+    "homeTeam": {
+      "id": "43819",
+      "name": "Japan",
+      "abbreviation": "JPN"
+    },
+    "awayTeam": {
+      "id": "43970",
+      "name": "Sweden",
+      "abbreviation": "SWE"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021461",
+    "idIFES": "151629",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-26T02:00:00Z",
+    "homeTeam": {
+      "id": "43928",
+      "name": "Paraguay",
+      "abbreviation": "PAR"
+    },
+    "awayTeam": {
+      "id": "43976",
+      "name": "Australia",
+      "abbreviation": "AUS"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021459",
+    "idIFES": "151630",
+    "idGroup": "289278",
+    "groupName": "Group D",
+    "stageName": "First Stage",
+    "date": "2026-06-26T02:00:00Z",
+    "homeTeam": {
+      "id": "43972",
+      "name": "Türkiye",
+      "abbreviation": "TUR"
+    },
+    "awayTeam": {
+      "id": "43921",
+      "name": "USA",
+      "abbreviation": "USA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021493",
+    "idIFES": "151659",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-26T19:00:00Z",
+    "homeTeam": {
+      "id": "43879",
+      "name": "Senegal",
+      "abbreviation": "SEN"
+    },
+    "awayTeam": {
+      "id": "43818",
+      "name": "Iraq",
+      "abbreviation": "IRQ"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021489",
+    "idIFES": "151660",
+    "idGroup": "289283",
+    "groupName": "Group I",
+    "stageName": "First Stage",
+    "date": "2026-06-26T19:00:00Z",
+    "homeTeam": {
+      "id": "43961",
+      "name": "Norway",
+      "abbreviation": "NOR"
+    },
+    "awayTeam": {
+      "id": "43946",
+      "name": "France",
+      "abbreviation": "FRA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021484",
+    "idIFES": "151653",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-27T00:00:00Z",
+    "homeTeam": {
+      "id": "43930",
+      "name": "Uruguay",
+      "abbreviation": "URU"
+    },
+    "awayTeam": {
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021485",
+    "idIFES": "151654",
+    "idGroup": "289282",
+    "groupName": "Group H",
+    "stageName": "First Stage",
+    "date": "2026-06-27T00:00:00Z",
+    "homeTeam": {
+      "id": "43850",
+      "name": "Cabo Verde",
+      "abbreviation": "CPV"
+    },
+    "awayTeam": {
+      "id": "43835",
+      "name": "Saudi Arabia",
+      "abbreviation": "KSA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021481",
+    "idIFES": "151647",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-27T03:00:00Z",
+    "homeTeam": {
+      "id": "43978",
+      "name": "New Zealand",
+      "abbreviation": "NZL"
+    },
+    "awayTeam": {
+      "id": "43935",
+      "name": "Belgium",
+      "abbreviation": "BEL"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021479",
+    "idIFES": "151648",
+    "idGroup": "289281",
+    "groupName": "Group G",
+    "stageName": "First Stage",
+    "date": "2026-06-27T03:00:00Z",
+    "homeTeam": {
+      "id": "43855",
+      "name": "Egypt",
+      "abbreviation": "EGY"
+    },
+    "awayTeam": {
+      "id": "43817",
+      "name": "IR Iran",
+      "abbreviation": "IRN"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021508",
+    "idIFES": "151678",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-27T21:00:00Z",
+    "homeTeam": {
+      "id": "43914",
+      "name": "Panama",
+      "abbreviation": "PAN"
+    },
+    "awayTeam": {
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021509",
+    "idIFES": "151677",
+    "idGroup": "289286",
+    "groupName": "Group L",
+    "stageName": "First Stage",
+    "date": "2026-06-27T21:00:00Z",
+    "homeTeam": {
+      "id": "43938",
+      "name": "Croatia",
+      "abbreviation": "CRO"
+    },
+    "awayTeam": {
+      "id": "43860",
+      "name": "Ghana",
+      "abbreviation": "GHA"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021500",
+    "idIFES": "151671",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-27T23:30:00Z",
+    "homeTeam": {
+      "id": "20014",
+      "name": "Congo DR",
+      "abbreviation": "COD"
+    },
+    "awayTeam": {
+      "id": "44005",
+      "name": "Uzbekistan",
+      "abbreviation": "UZB"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021505",
+    "idIFES": "151672",
+    "idGroup": "289285",
+    "groupName": "Group K",
+    "stageName": "First Stage",
+    "date": "2026-06-27T23:30:00Z",
+    "homeTeam": {
+      "id": "43926",
+      "name": "Colombia",
+      "abbreviation": "COL"
+    },
+    "awayTeam": {
+      "id": "43963",
+      "name": "Portugal",
+      "abbreviation": "POR"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021497",
+    "idIFES": "151666",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-28T02:00:00Z",
+    "homeTeam": {
+      "id": "43843",
+      "name": "Algeria",
+      "abbreviation": "ALG"
+    },
+    "awayTeam": {
+      "id": "43934",
+      "name": "Austria",
+      "abbreviation": "AUT"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021495",
+    "idIFES": "151665",
+    "idGroup": "289284",
+    "groupName": "Group J",
+    "stageName": "First Stage",
+    "date": "2026-06-28T02:00:00Z",
+    "homeTeam": {
+      "id": "43820",
+      "name": "Jordan",
+      "abbreviation": "JOR"
+    },
+    "awayTeam": {
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021518",
+    "idIFES": "151679",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-28T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021516",
+    "idIFES": "151681",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-29T17:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021513",
+    "idIFES": "151682",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-29T20:30:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021522",
+    "idIFES": "151680",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-30T01:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021514",
+    "idIFES": "151684",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-30T17:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021523",
+    "idIFES": "151685",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-06-30T21:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021520",
+    "idIFES": "151683",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-01T01:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021512",
+    "idIFES": "151688",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-01T16:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021525",
+    "idIFES": "151686",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-01T20:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021524",
+    "idIFES": "151687",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-02T00:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021519",
+    "idIFES": "151690",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-02T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021526",
+    "idIFES": "151691",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-02T23:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021527",
+    "idIFES": "151689",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-03T03:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021515",
+    "idIFES": "151692",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-03T18:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021521",
+    "idIFES": "151694",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-03T22:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021517",
+    "idIFES": "151693",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 32",
+    "date": "2026-07-04T01:30:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021530",
+    "idIFES": "151695",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-04T17:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021533",
+    "idIFES": "151696",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-04T21:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021532",
+    "idIFES": "151698",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-05T20:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021531",
+    "idIFES": "151697",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-06T00:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021529",
+    "idIFES": "151700",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-06T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021534",
+    "idIFES": "151699",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-07T00:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021528",
+    "idIFES": "151702",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-07T16:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021535",
+    "idIFES": "151701",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Round of 16",
+    "date": "2026-07-07T20:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021536",
+    "idIFES": "151703",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Quarter-final",
+    "date": "2026-07-09T20:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021538",
+    "idIFES": "151704",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Quarter-final",
+    "date": "2026-07-10T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021539",
+    "idIFES": "151706",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Quarter-final",
+    "date": "2026-07-11T21:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021537",
+    "idIFES": "151705",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Quarter-final",
+    "date": "2026-07-12T01:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021541",
+    "idIFES": "151707",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Semi-final",
+    "date": "2026-07-14T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021540",
+    "idIFES": "151708",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Semi-final",
+    "date": "2026-07-15T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021542",
+    "idIFES": "151709",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Play-off for third place",
+    "date": "2026-07-18T21:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  },
+  {
+    "idMatch": "400021543",
+    "idIFES": "151710",
+    "idGroup": null,
+    "groupName": null,
+    "stageName": "Final",
+    "date": "2026-07-19T19:00:00Z",
+    "homeTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "awayTeam": {
+      "id": "",
+      "name": "TBD",
+      "abbreviation": "TBD"
+    },
+    "homeScore": null,
+    "awayScore": null,
+    "status": 1,
+    "goals": [],
+    "bookings": []
+  }
+]

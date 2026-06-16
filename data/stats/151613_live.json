@@ -1,0 +1,470 @@
+{
+  "419459": {
+    "playerId": "419459",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MAHMOUD ABUNADA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "416051": {
+    "playerId": "416051",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "PEDRO MIGUEL",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "512791": {
+    "playerId": "512791",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ISSA LAYE",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419473": {
+    "playerId": "419473",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "JASSEM GABER",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "510991": {
+    "playerId": "510991",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AYOUB ALOUI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419441": {
+    "playerId": "419441",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "HOMAM AHMED",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385067": {
+    "playerId": "385067",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "BOUALEM KHOUKHI",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "386348": {
+    "playerId": "386348",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ASSIM MADIBO",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429063": {
+    "playerId": "429063",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "EDMILSON JUNIOR",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386347": {
+    "playerId": "386347",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AKRAM AFIF",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419463": {
+    "playerId": "419463",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "YUSUF ABDURISAG",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419461": {
+    "playerId": "419461",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "SALAH ZAKARIA",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "416056": {
+    "playerId": "416056",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MESHAAL BARSHAM",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "356673": {
+    "playerId": "356673",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "LUCAS MENDES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "386387": {
+    "playerId": "386387",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "SULTAN ALBRAKE",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486614": {
+    "playerId": "486614",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ALHASHMI ALHUSSEIN",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "345059": {
+    "playerId": "345059",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ABDULAZIZ HATEM",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "354861": {
+    "playerId": "354861",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "KARIM BOUDIAF",
+    "shirtNumber": 12,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419436": {
+    "playerId": "419436",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED ALGANEHI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433394": {
+    "playerId": "433394",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED FATHY",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "353251": {
+    "playerId": "353251",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED ALAAELDIN",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "385070": {
+    "playerId": "385070",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MOHAMMED MUNTARI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "284190": {
+    "playerId": "284190",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "HASSAN ALHAYDOS",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386366": {
+    "playerId": "386366",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ALMOEZ ALI",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486639": {
+    "playerId": "486639",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "TAHSIN MOHAMMED",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "498458": {
+    "playerId": "498458",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MOHAMED MANAI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448107": {
+    "playerId": "448107",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Gregor KOBEL",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "398509": {
+    "playerId": "398509",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Nico ELVEDI",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405178": {
+    "playerId": "405178",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Manuel AKANJI",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "313559": {
+    "playerId": "313559",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ricardo RODRIGUEZ",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401448": {
+    "playerId": "401448",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Denis ZAKARIA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402021": {
+    "playerId": "402021",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Remo FREULER",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "311558": {
+    "playerId": "311558",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Granit XHAKA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433147": {
+    "playerId": "433147",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Michel AEBISCHER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "393480": {
+    "playerId": "393480",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Breel EMBOLO",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448114": {
+    "playerId": "448114",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Dan NDOYE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448131": {
+    "playerId": "448131",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ruben VARGAS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402022": {
+    "playerId": "402022",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Yvon MVOGO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "484862": {
+    "playerId": "484862",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Marvin KELLER",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "493221": {
+    "playerId": "493221",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Miro MUHEIM",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "356412": {
+    "playerId": "356412",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Silvan WIDMER",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448136": {
+    "playerId": "448136",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Eray COEMERT",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484864": {
+    "playerId": "484864",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Aurele AMENDA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "510908": {
+    "playerId": "510908",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Luca JAQUEZ",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502727": {
+    "playerId": "502727",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Johan MANZAMBI",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448120": {
+    "playerId": "448120",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ardon JASHARI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411226": {
+    "playerId": "411226",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Djibril SOW",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448103": {
+    "playerId": "448103",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Fabian RIEDER",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448124": {
+    "playerId": "448124",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Christian FASSNACHT",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448127": {
+    "playerId": "448127",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Noah OKAFOR",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448112": {
+    "playerId": "448112",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Zeki AMDOUNI",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448104": {
+    "playerId": "448104",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Cedric ITTEN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
