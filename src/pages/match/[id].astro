@@ -9,7 +9,7 @@ export function getStaticPaths() {
   try {
     const matches: Match[] = JSON.parse(readFileSync(resolve('data/matches.json'), 'utf-8'));
     return matches
-      .filter(m => m.status === 1)
+      .filter(m => m.homeScore !== null && m.homeScore !== undefined)
       .map(m => ({ params: { id: m.idMatch } }));
   } catch {
     return [];

@@ -21,12 +21,12 @@ const yesterday = new Date(now); yesterday.setDate(yesterday.getDate() - 1);
 const tomorrow = new Date(now); tomorrow.setDate(tomorrow.getDate() + 1);
 
 const recent = matches
-  .filter(m => m.status === 1)
+  .filter(m => m.homeScore !== null && m.homeScore !== undefined)
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
   .slice(0, 8);
 
 const upcoming = matches
-  .filter(m => m.status === 0 && new Date(m.date) >= now)
+  .filter(m => (m.homeScore === null || m.homeScore === undefined) && new Date(m.date) >= now)
   .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
   .slice(0, 6);
 

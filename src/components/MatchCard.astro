@@ -9,8 +9,8 @@ interface Props {
 const { match, compact = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 
-const isFinished = match.status === 1;
-const isScheduled = match.status === 0;
+const isFinished = match.homeScore !== null && match.homeScore !== undefined;
+const isScheduled = !isFinished;
 
 const dateObj = new Date(match.date);
 const dateFmt = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
