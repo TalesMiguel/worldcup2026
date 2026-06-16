@@ -53,11 +53,25 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           </span>
           <button
             id="lang-toggle"
-            class="text-base border border-night-600 rounded px-2 py-1 leading-none hover:border-night-500 transition-colors"
+            class="flex items-center border border-night-600 rounded px-1.5 py-1 leading-none hover:border-night-500 transition-colors"
             title="Mudar idioma / Switch language"
           >
-            <span class="lang-en">🇧🇷</span>
-            <span class="lang-pt">🇺🇸</span>
+            <svg class="lang-en w-5 h-3.5 rounded-sm" viewBox="0 0 28 20" xmlns="http://www.w3.org/2000/svg">
+              <rect width="28" height="20" fill="#009c3b"/>
+              <polygon points="14,2 26,10 14,18 2,10" fill="#ffdf00"/>
+              <circle cx="14" cy="10" r="5" fill="#002776"/>
+            </svg>
+            <svg class="lang-pt w-5 h-3.5 rounded-sm" viewBox="0 0 28 20" xmlns="http://www.w3.org/2000/svg">
+              <rect width="28" height="20" fill="#fff"/>
+              <rect width="28" height="1.54" y="0" fill="#b22234"/>
+              <rect width="28" height="1.54" y="3.08" fill="#b22234"/>
+              <rect width="28" height="1.54" y="6.15" fill="#b22234"/>
+              <rect width="28" height="1.54" y="9.23" fill="#b22234"/>
+              <rect width="28" height="1.54" y="12.31" fill="#b22234"/>
+              <rect width="28" height="1.54" y="15.38" fill="#b22234"/>
+              <rect width="28" height="1.54" y="18.46" fill="#b22234"/>
+              <rect width="11.2" height="10.77" fill="#3c3b6e"/>
+            </svg>
           </button>
           <a href="https://talesmiguel.dev/" target="_blank" rel="noopener noreferrer" class="nav-link">Portfolio</a>
         </div>
