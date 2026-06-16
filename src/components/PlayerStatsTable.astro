@@ -36,10 +36,23 @@ function fmtDist(m: number | undefined | null) {
   <div class="mb-6">
     <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">{label}</h4>
     <div class="overflow-x-auto">
-      <table class="w-full text-xs">
+      <table class="w-full text-xs" style="table-layout: fixed">
+        <colgroup>
+          <col style="width: 1.5rem" />
+          <col />
+          <col style="width: 2.75rem" />
+          <col style="width: 2.75rem" />
+          <col style="width: 1.75rem" />
+          <col style="width: 1.75rem" />
+          <col style="width: 3rem" />
+          <col style="width: 2.5rem" />
+          <col style="width: 3.25rem" />
+          <col style="width: 3.75rem" />
+          <col style="width: 2.5rem" />
+        </colgroup>
         <thead>
           <tr class="text-gray-500 border-b border-night-700">
-            <th class="text-left pb-2 pr-3 font-medium w-6">#</th>
+            <th class="text-left pb-2 pr-3 font-medium">#</th>
             <th class="text-left pb-2 pr-3 font-medium">Player</th>
             <th class="text-left pb-2 pr-3 font-medium">Pos</th>
             <th class="text-right pb-2 pr-3 font-medium">Min</th>
