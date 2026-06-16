@@ -92,19 +92,20 @@ def fetch_fdh_teams(id_ifes: str) -> dict | None:
 
 def parse_match(r: dict) -> dict:
     """Parse calendar API result into our Match shape."""
-    home = r.get("Home", {})
-    away = r.get("Away", {})
+    home = r.get("Home") or {}
+    away = r.get("Away") or {}
 
     def team(t: dict) -> dict:
-        names = t.get("TeamName", [{}])
-        abbr = t.get("Abbreviation", "")
-        # Abbreviation can be a plain string or a list of locale objects
+        if not t:
+            return {"id": "", "name": "TBD", "abbreviation": "TBD"}
+        names = t.get("TeamName") or [{}]
+        abbr = t.get("Abbreviation") or ""
         if isinstance(abbr, list):
             abbr = player_name(abbr)
         return {
-            "id": t.get("IdTeam", ""),
+            "id": str(t.get("IdTeam") or ""),
             "name": player_name(names),
-            "abbreviation": abbr or player_name(names)[:3].upper(),
+            "abbreviation": abbr or player_name(names)[:3].upper() or "TBD",
         }
 
     return {
