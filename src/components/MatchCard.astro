@@ -14,8 +14,8 @@ const isFinished = match.homeScore !== null && match.homeScore !== undefined;
 const isScheduled = !isFinished;
 
 const dateObj = new Date(match.date);
-const dateFmtEN = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
-const dateFmtPT = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
+const dateFmtEN = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', timeZone: 'America/Sao_Paulo' });
+const dateFmtPT = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', timeZone: 'America/Sao_Paulo' });
 const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' });
 
 const homeNamePt = teamNames[match.homeTeam.name] ?? match.homeTeam.name;
