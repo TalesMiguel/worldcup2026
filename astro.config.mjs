@@ -2,8 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://talesmiguel.dev',
-  base: '/worldcup2026',
+  site: 'https://wc26.talesmiguel.dev',
   integrations: [tailwind()],
   output: 'static',
 });
