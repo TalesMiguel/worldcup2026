@@ -66,20 +66,39 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
     const parseMin = (m: string) => parseInt(m.replace(/\D/g, '')) || 0;
     const homeGoals = match.goals.filter(g => g.teamId === match.homeTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
     const awayGoals = match.goals.filter(g => g.teamId === match.awayTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
+
+    // Merge home and away goals chronologically into rows
+    type GoalRow = { home: typeof homeGoals[0] | null; away: typeof awayGoals[0] | null };
+    const rows: GoalRow[] = [];
+    let hi = 0, ai = 0;
+    while (hi < homeGoals.length || ai < awayGoals.length) {
+      const h = homeGoals[hi];
+      const a = awayGoals[ai];
+      if (h && a && parseMin(h.minute) === parseMin(a.minute)) {
+        rows.push({ home: h, away: a }); hi++; ai++;
+      } else if (!a || (h && parseMin(h.minute) < parseMin(a.minute))) {
+        rows.push({ home: h, away: null }); hi++;
+      } else {
+        rows.push({ home: null, away: a }); ai++;
+      }
+    }
+
     return (
       <div class="mt-2 pt-2 border-t border-night-700 text-xs text-gray-500">
-        <div class="flex gap-4">
-          <div class="flex-1 space-y-0.5 text-right">
-            {homeGoals.map(g => (
-              <div>{g.playerName} <span class="font-mono text-gray-600">{g.minute}</span></div>
-            ))}
+        {rows.map(row => (
+          <div class="flex gap-4">
+            <div class="flex-1 text-right">
+              {row.home
+                ? <span>{row.home.playerName} <span class="font-mono text-gray-600">{row.home.minute}</span></span>
+                : null}
+            </div>
+            <div class="flex-1">
+              {row.away
+                ? <span><span class="font-mono text-gray-600">{row.away.minute}</span> {row.away.playerName}</span>
+                : null}
+            </div>
           </div>
-          <div class="flex-1 space-y-0.5">
-            {awayGoals.map(g => (
-              <div><span class="font-mono text-gray-600">{g.minute}</span> {g.playerName}</div>
-            ))}
-          </div>
-        </div>
+        ))}
       </div>
     );
   })()}
