@@ -101,17 +101,22 @@ function pct(a: number, b: number) {
       <!-- Goals timeline -->
       {match.goals.length > 0 && (
         <div class="mt-6 pt-4 border-t border-night-700">
-          <div class="space-y-1 max-w-xs mx-auto text-sm">
-            {match.goals.map(g => {
-              const isHome = g.teamId === match.homeTeam.id;
-              return (
-                <div class:list={['flex items-center gap-2', isHome ? '' : 'flex-row-reverse']}>
-                  <span class="text-fifa-green text-xs">⚽</span>
-                  <span class="font-medium">{g.playerName}{g.type === 2 ? ' (P)' : g.type === 3 ? ' (OG)' : ''}</span>
-                  <span class="text-gray-500 text-xs font-mono">{g.minute}</span>
+          <div class="flex gap-4 text-sm">
+            <div class="flex-1 space-y-1 text-right">
+              {match.goals.filter(g => g.teamId === match.homeTeam.id).map(g => (
+                <div class="text-gray-300">
+                  {g.playerName} <span class="text-gray-500 font-mono text-xs">{g.minute}</span>
                 </div>
-              );
-            })}
+              ))}
+            </div>
+            <div class="text-gray-600 pt-0.5 shrink-0">⚽</div>
+            <div class="flex-1 space-y-1">
+              {match.goals.filter(g => g.teamId === match.awayTeam.id).map(g => (
+                <div class="text-gray-300">
+                  <span class="text-gray-500 font-mono text-xs">{g.minute}</span> {g.playerName}
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       )}

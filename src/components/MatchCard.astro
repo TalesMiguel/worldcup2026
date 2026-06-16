@@ -63,16 +63,20 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
   </div>
 
   {!compact && isFinished && match.goals.length > 0 && (
-    <div class="mt-2 pt-2 border-t border-night-700 text-xs text-gray-500 space-y-0.5">
-      {match.goals.slice(0, 4).map(g => (
-        <div class="flex justify-between">
-          <span>{g.playerName} {g.type === 2 ? '(P)' : g.type === 3 ? '(OG)' : ''}</span>
-          <span class="font-mono">{g.minute}</span>
+    <div class="mt-2 pt-2 border-t border-night-700 text-xs text-gray-500">
+      <div class="flex gap-2">
+        <div class="flex-1 space-y-0.5 text-right">
+          {match.goals.filter(g => g.teamId === match.homeTeam.id).map(g => (
+            <div>{g.playerName} <span class="font-mono text-gray-600">{g.minute}</span></div>
+          ))}
         </div>
-      ))}
-      {match.goals.length > 4 && (
-        <div class="text-gray-600">+{match.goals.length - 4} more</div>
-      )}
+        <div class="text-gray-700 pt-0.5">⚽</div>
+        <div class="flex-1 space-y-0.5">
+          {match.goals.filter(g => g.teamId === match.awayTeam.id).map(g => (
+            <div><span class="font-mono text-gray-600">{g.minute}</span> {g.playerName}</div>
+          ))}
+        </div>
+      </div>
     </div>
   )}
 
