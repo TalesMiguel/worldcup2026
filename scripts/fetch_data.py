@@ -58,6 +58,17 @@ def player_name(names: list) -> str:
     return names[0].get("Description", "")
 
 
+def locale_str(value) -> str:
+    """Handle fields that can be a plain string or a list of locale objects."""
+    if not value:
+        return ""
+    if isinstance(value, str):
+        return value
+    if isinstance(value, list):
+        return player_name(value)
+    return str(value)
+
+
 def fetch_calendar() -> list[dict]:
     data = get(FIFA_CALENDAR)
     if not data:
@@ -86,19 +97,22 @@ def parse_match(r: dict) -> dict:
 
     def team(t: dict) -> dict:
         names = t.get("TeamName", [{}])
-        abbr = t.get("Abbreviation", [{}])
+        abbr = t.get("Abbreviation", "")
+        # Abbreviation can be a plain string or a list of locale objects
+        if isinstance(abbr, list):
+            abbr = player_name(abbr)
         return {
             "id": t.get("IdTeam", ""),
             "name": player_name(names),
-            "abbreviation": player_name(abbr) if abbr else player_name(names)[:3].upper(),
+            "abbreviation": abbr or player_name(names)[:3].upper(),
         }
 
     return {
         "idMatch": str(r.get("IdMatch", "")),
         "idIFES": str(r.get("Properties", {}).get("IdIFES", "")),
         "idGroup": str(r.get("IdGroup", "")) if r.get("IdGroup") else None,
-        "groupName": player_name(r.get("GroupName", [])) or None,
-        "stageName": player_name(r.get("StageName", [])) or r.get("StageName", ""),
+        "groupName": locale_str(r.get("GroupName")) or None,
+        "stageName": locale_str(r.get("StageName")) or "",
         "date": r.get("Date", ""),
         "homeTeam": team(home),
         "awayTeam": team(away),
