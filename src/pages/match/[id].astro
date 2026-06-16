@@ -153,27 +153,45 @@ const tacticalRows = homeTeamStat && awayTeamStat ? [
       </div>
 
       <!-- Goals timeline -->
-      {match.goals.length > 0 && (
-        <div class="mt-6 pt-4 border-t border-night-700">
-          <div class="flex gap-4 text-sm">
-            <div class="flex-1 space-y-1 text-right">
-              {match.goals.filter(g => g.teamId === match.homeTeam.id).map(g => (
-                <div class="text-gray-300">
-                  {g.playerName} <span class="text-gray-500 font-mono text-xs">{g.minute}</span>
+      {match.goals.length > 0 && (() => {
+        const parseMin = (m: string) => parseInt(m.replace(/\D/g, '')) || 0;
+        const homeGoals = match.goals.filter(g => g.teamId === match.homeTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
+        const awayGoals = match.goals.filter(g => g.teamId === match.awayTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
+
+        type GoalRow = { home: typeof homeGoals[0] | null; away: typeof awayGoals[0] | null };
+        const rows: GoalRow[] = [];
+        let hi = 0, ai = 0;
+        while (hi < homeGoals.length || ai < awayGoals.length) {
+          const h = homeGoals[hi];
+          const a = awayGoals[ai];
+          if (h && a && parseMin(h.minute) === parseMin(a.minute)) {
+            rows.push({ home: h, away: a }); hi++; ai++;
+          } else if (!a || (h && parseMin(h.minute) < parseMin(a.minute))) {
+            rows.push({ home: h, away: null }); hi++;
+          } else {
+            rows.push({ home: null, away: a }); ai++;
+          }
+        }
+
+        return (
+          <div class="mt-6 pt-4 border-t border-night-700 text-sm">
+            {rows.map(row => (
+              <div class="flex gap-4">
+                <div class="flex-1 text-right">
+                  {row.home
+                    ? <span class="text-gray-300">{row.home.playerName} <span class="text-gray-500 font-mono text-xs">{row.home.minute}</span></span>
+                    : null}
                 </div>
-              ))}
-            </div>
-            <div class="text-gray-600 pt-0.5 shrink-0">⚽</div>
-            <div class="flex-1 space-y-1">
-              {match.goals.filter(g => g.teamId === match.awayTeam.id).map(g => (
-                <div class="text-gray-300">
-                  <span class="text-gray-500 font-mono text-xs">{g.minute}</span> {g.playerName}
+                <div class="flex-1">
+                  {row.away
+                    ? <span class="text-gray-300"><span class="text-gray-500 font-mono text-xs">{row.away.minute}</span> {row.away.playerName}</span>
+                    : null}
                 </div>
-              ))}
-            </div>
+              </div>
+            ))}
           </div>
-        </div>
-      )}
+        );
+      })()}
     </div>
 
     <!-- Team stats comparison -->
@@ -218,7 +236,7 @@ const tacticalRows = homeTeamStat && awayTeamStat ? [
               </div>
               <div class="flex h-1.5 rounded-full overflow-hidden bg-night-700">
                 <div class="bg-fifa-green" style={`width: ${barPct(home, away)}%`}></div>
-                <div class="bg-orange-500" style={`width: ${100 - barPct(home, away)}%`}></div>
+                <div class="bg-[#E6004C]" style={`width: ${100 - barPct(home, away)}%`}></div>
               </div>
             </div>
           ))}
