@@ -2,42 +2,42 @@
 
 **https://wc26.talesmiguel.dev**
 
-Site para acompanhar a Copa do Mundo FIFA 2026: resultados em tempo real, calendário completo, tabelas de grupos e estatísticas detalhadas de cada partida (time e jogador), em português e inglês.
+A site for following the FIFA World Cup 2026: live results, full schedule, group standings, and detailed match stats (team and player), in English and Portuguese.
 
-## O que tem
+## What it has
 
-- Placares e calendário das 104 partidas, com filtro por resultados/agenda
-- Tabelas de grupos calculadas automaticamente
-- Detalhe de cada partida: gols, cartões, escalações
-- Estatísticas de time: posse de bola, chutes, passes, escanteios
-- Estatísticas táticas de time: progressões de bola, mudanças de lado, cruzamentos, quebras de linha por terço (ataque/meio/defesa), pressões defensivas, posses forçadas
-- Estatísticas por jogador: minutos, gols, assistências, passes, chutes, distância percorrida, velocidade máxima, xG
+- Scores and schedule for all 104 matches, with a results/upcoming filter
+- Group standings, computed automatically
+- Match detail: goals, bookings, lineups
+- Team stats: possession, shots, passes, corners
+- Tactical team stats: ball progressions, switches of play, crosses, line breaks by third (attacking/midfield/defensive), defensive pressures, forced turnovers
+- Player stats: minutes played, goals, assists, passes, shots, distance covered, top speed, xG
 
-## Fontes de dados
+## Data sources
 
-Todos os dados vêm de APIs públicas da FIFA, sem autenticação:
+All data comes from FIFA's public APIs, no authentication required:
 
-| Endpoint | Dados |
+| Endpoint | Data |
 |---|---|
-| `api.fifa.com/api/v3/calendar/matches` | Lista das 104 partidas, placares e metadados |
-| `api.fifa.com/api/v3/live/football/{IdMatch}` | Gols, cartões, escalações e nomes dos jogadores |
-| `fdh-api.fifa.com/v1/stats/match/{IdIFES}/players.json` | Estatísticas por jogador |
-| `fdh-api.fifa.com/v1/stats/match/{IdIFES}/teams.json` | Estatísticas por time, incluindo as métricas táticas |
+| `api.fifa.com/api/v3/calendar/matches` | List of all 104 matches, scores, and metadata |
+| `api.fifa.com/api/v3/live/football/{IdMatch}` | Goals, bookings, lineups, and player names |
+| `fdh-api.fifa.com/v1/stats/match/{IdIFES}/players.json` | Per-player stats |
+| `fdh-api.fifa.com/v1/stats/match/{IdIFES}/teams.json` | Per-team stats, including the tactical metrics |
 
-O script `scripts/fetch_data.py` busca essas APIs, processa os dados e grava os arquivos em `data/`:
+`scripts/fetch_data.py` fetches these APIs, processes the data, and writes the files in `data/`:
 
-- `data/matches.json` — todas as partidas com gols e cartões
-- `data/standings.json` — tabela de grupos calculada localmente
-- `data/players.json` — registro de jogadores encontrados nas partidas
-- `data/stats/` — estatísticas de time e jogador por partida, cacheadas para evitar re-fetches
+- `data/matches.json` — every match with its goals and bookings
+- `data/standings.json` — group standings, computed locally
+- `data/players.json` — registry of players found across matches
+- `data/stats/` — per-match team and player stats, cached to avoid unnecessary re-fetches
 
 ## Stack
 
-- Astro (geração de páginas estáticas)
+- Astro (static site generation)
 - Tailwind CSS
-- Python (pipeline de dados)
+- Python (data pipeline)
 
-## Rodar localmente
+## Run locally
 
 ```bash
 npm install
@@ -48,9 +48,9 @@ python scripts/fetch_data.py
 npm run dev
 ```
 
-## Páginas
+## Pages
 
-- `/` — partidas recentes e próximas
-- `/groups` — tabela de todos os grupos
-- `/matches` — calendário completo (resultados e agenda)
-- `/match/[id]` — detalhe de uma partida com estatísticas de time e jogador
+- `/` — recent and upcoming matches
+- `/groups` — all group standings
+- `/matches` — full schedule (results and upcoming)
+- `/match/[id]` — match detail with team and player stats
