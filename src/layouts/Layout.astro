@@ -18,6 +18,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <title>{title} · WC 2026</title>
+    <script is:inline>
+      (function() {
+        var lang = localStorage.getItem('lang') || 'en';
+        document.documentElement.setAttribute('data-lang', lang);
+      })();
+    </script>
   </head>
   <body class="bg-night-900 text-white min-h-screen font-sans antialiased">
     <header class="border-b border-night-700 bg-night-800/80 backdrop-blur-sm sticky top-0 z-50">
@@ -27,12 +33,32 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           <span class="text-sm tracking-wide uppercase">WC 2026</span>
         </a>
         <div class="flex items-center gap-1 ml-2">
-          <a href={`${base}/`} class="nav-link">Dashboard</a>
-          <a href={`${base}/groups`} class="nav-link">Groups</a>
-          <a href={`${base}/matches`} class="nav-link">Matches</a>
+          <a href={`${base}/`} class="nav-link">
+            <span class="lang-en">Dashboard</span>
+            <span class="lang-pt">Início</span>
+          </a>
+          <a href={`${base}/groups`} class="nav-link">
+            <span class="lang-en">Groups</span>
+            <span class="lang-pt">Grupos</span>
+          </a>
+          <a href={`${base}/matches`} class="nav-link">
+            <span class="lang-en">Matches</span>
+            <span class="lang-pt">Partidas</span>
+          </a>
         </div>
         <div class="ml-auto flex items-center gap-4">
-          <span class="text-xs text-gray-500 hidden sm:block">Data updated daily · 10:00 BRT</span>
+          <span class="text-xs text-gray-500 hidden sm:block">
+            <span class="lang-en">Data updated daily · 10:00 BRT</span>
+            <span class="lang-pt">Dados atualizados diariamente · 10:00 BRT</span>
+          </span>
+          <button
+            id="lang-toggle"
+            class="text-xs border border-night-600 rounded px-2 py-1 text-gray-400 hover:text-white hover:border-night-500 transition-colors font-mono"
+            title="Mudar idioma / Switch language"
+          >
+            <span class="lang-en">PT-BR</span>
+            <span class="lang-pt">EN</span>
+          </button>
           <a href="https://talesmiguel.dev/" target="_blank" rel="noopener noreferrer" class="nav-link">Portfolio</a>
         </div>
       </nav>
@@ -43,8 +69,21 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     </main>
 
     <footer class="border-t border-night-700 mt-16 py-6 text-center text-xs text-gray-600">
-      <p>Data sourced from FIFA APIs · Built by <a href="https://talesmiguel.dev" class="text-fifa-green hover:underline">TalesMiguel</a></p>
+      <p>
+        <span class="lang-en">Data sourced from FIFA APIs · Built by</span>
+        <span class="lang-pt">Dados da API da FIFA · Desenvolvido por</span>
+        {' '}<a href="https://talesmiguel.dev" class="text-fifa-green hover:underline">TalesMiguel</a>
+      </p>
     </footer>
+
+    <script is:inline>
+      document.getElementById('lang-toggle').addEventListener('click', function() {
+        var html = document.documentElement;
+        var next = (html.getAttribute('data-lang') || 'en') === 'en' ? 'pt' : 'en';
+        html.setAttribute('data-lang', next);
+        localStorage.setItem('lang', next);
+      });
+    </script>
   </body>
 </html>
 
@@ -52,4 +91,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   .nav-link {
     @apply text-sm text-gray-400 hover:text-white px-3 py-1.5 rounded-md hover:bg-night-700 transition-colors;
   }
+
+  .lang-pt { display: none; }
+  [data-lang="pt"] .lang-en { display: none; }
+  [data-lang="pt"] .lang-pt { display: inline; }
 </style>
