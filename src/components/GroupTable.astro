@@ -1,5 +1,6 @@
 ---
 import type { GroupStanding } from '../types';
+import { teamNames, groupNamePt } from '../i18n/maps';
 
 interface Props {
   group: GroupStanding;
@@ -12,11 +13,18 @@ const { group, compact = false } = Astro.props;
 <div class="rounded-xl border border-night-600 bg-night-800 overflow-hidden">
   <div class="px-4 py-2.5 bg-night-700 flex items-center justify-between">
     <h3 class="font-semibold text-sm tracking-wide text-fifa-green uppercase">
-      {group.groupName}
+      <span class="lang-en">{group.groupName}</span>
+      <span class="lang-pt">{groupNamePt(group.groupName)}</span>
     </h3>
     {!compact && (
       <div class="text-xs text-gray-500 flex gap-3">
-        <span>P</span><span>W</span><span>D</span><span>L</span><span>GF</span><span>GA</span><span>GD</span><span class="font-bold text-white">Pts</span>
+        <span>P</span><span>
+          <span class="lang-en">W</span><span class="lang-pt">V</span>
+        </span><span>
+          <span class="lang-en">D</span><span class="lang-pt">E</span>
+        </span><span>
+          <span class="lang-en">L</span><span class="lang-pt">D</span>
+        </span><span>GF</span><span>GA</span><span>GD</span><span class="font-bold text-white">Pts</span>
       </div>
     )}
   </div>
@@ -34,7 +42,10 @@ const { group, compact = false } = Astro.props;
           {i + 1}
         </span>
 
-        <span class="flex-1 font-medium truncate">{row.teamName}</span>
+        <span class="flex-1 font-medium truncate">
+          <span class="lang-en">{row.teamName}</span>
+          <span class="lang-pt">{teamNames[row.teamName] ?? row.teamName}</span>
+        </span>
 
         {compact ? (
           <span class="font-bold text-fifa-gold tabular-nums">{row.points}</span>

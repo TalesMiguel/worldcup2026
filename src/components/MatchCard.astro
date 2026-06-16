@@ -1,5 +1,6 @@
 ---
 import type { Match } from '../types';
+import { stageNames, teamNames } from '../i18n/maps';
 
 interface Props {
   match: Match;
@@ -13,8 +14,13 @@ const isFinished = match.homeScore !== null && match.homeScore !== undefined;
 const isScheduled = !isFinished;
 
 const dateObj = new Date(match.date);
-const dateFmt = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
+const dateFmtEN = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' });
+const dateFmtPT = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
 const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' });
+
+const homeNamePt = teamNames[match.homeTeam.name] ?? match.homeTeam.name;
+const awayNamePt = teamNames[match.awayTeam.name] ?? match.awayTeam.name;
+const stageNamePt = stageNames[match.stageName] ?? match.stageName;
 ---
 
 <a
@@ -34,7 +40,10 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
         {match.homeTeam.abbreviation}
       </span>
       {!compact && (
-        <span class="text-xs text-gray-500 truncate">{match.homeTeam.name}</span>
+        <span class="text-xs text-gray-500 truncate">
+          <span class="lang-en">{match.homeTeam.name}</span>
+          <span class="lang-pt">{homeNamePt}</span>
+        </span>
       )}
     </div>
 
@@ -53,7 +62,10 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
         </div>
       )}
       {!compact && (
-        <div class="text-xs text-gray-600 mt-0.5">{dateFmt}</div>
+        <div class="text-xs text-gray-600 mt-0.5">
+          <span class="lang-en">{dateFmtEN}</span>
+          <span class="lang-pt">{dateFmtPT}</span>
+        </div>
       )}
     </div>
 
@@ -63,7 +75,10 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
         {match.awayTeam.abbreviation}
       </span>
       {!compact && (
-        <span class="text-xs text-gray-500 truncate">{match.awayTeam.name}</span>
+        <span class="text-xs text-gray-500 truncate">
+          <span class="lang-en">{match.awayTeam.name}</span>
+          <span class="lang-pt">{awayNamePt}</span>
+        </span>
       )}
     </div>
   </div>
@@ -110,6 +125,9 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
   })()}
 
   {!compact && !isFinished && (
-    <div class="mt-1.5 text-xs text-gray-600 text-center">{match.stageName}</div>
+    <div class="mt-1.5 text-xs text-gray-600 text-center">
+      <span class="lang-en">{match.stageName}</span>
+      <span class="lang-pt">{stageNamePt}</span>
+    </div>
   )}
 </a>
