@@ -297,7 +297,7 @@ def main():
     print(f"  {len(calendar)} matches found")
 
     matches = [parse_match(r) for r in calendar]
-    completed = [m for m in matches if m["status"] == 1 and m["idIFES"]]
+    completed = [m for m in matches if m["homeScore"] is not None and m["idIFES"]]
     print(f"  {len(completed)} completed matches")
 
     # Load existing player registry to merge into
