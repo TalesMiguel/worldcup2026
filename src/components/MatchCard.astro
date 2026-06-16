@@ -62,23 +62,27 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
     </div>
   </div>
 
-  {!compact && isFinished && match.goals.length > 0 && (
-    <div class="mt-2 pt-2 border-t border-night-700 text-xs text-gray-500">
-      <div class="flex gap-2">
-        <div class="flex-1 space-y-0.5 text-right">
-          {match.goals.filter(g => g.teamId === match.homeTeam.id).map(g => (
-            <div>{g.playerName} <span class="font-mono text-gray-600">{g.minute}</span></div>
-          ))}
-        </div>
-        <div class="text-gray-700 pt-0.5">⚽</div>
-        <div class="flex-1 space-y-0.5">
-          {match.goals.filter(g => g.teamId === match.awayTeam.id).map(g => (
-            <div><span class="font-mono text-gray-600">{g.minute}</span> {g.playerName}</div>
-          ))}
+  {!compact && isFinished && match.goals.length > 0 && (() => {
+    const parseMin = (m: string) => parseInt(m.replace(/\D/g, '')) || 0;
+    const homeGoals = match.goals.filter(g => g.teamId === match.homeTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
+    const awayGoals = match.goals.filter(g => g.teamId === match.awayTeam.id).sort((a, b) => parseMin(a.minute) - parseMin(b.minute));
+    return (
+      <div class="mt-2 pt-2 border-t border-night-700 text-xs text-gray-500">
+        <div class="flex gap-4">
+          <div class="flex-1 space-y-0.5 text-right">
+            {homeGoals.map(g => (
+              <div>{g.playerName} <span class="font-mono text-gray-600">{g.minute}</span></div>
+            ))}
+          </div>
+          <div class="flex-1 space-y-0.5">
+            {awayGoals.map(g => (
+              <div><span class="font-mono text-gray-600">{g.minute}</span> {g.playerName}</div>
+            ))}
+          </div>
         </div>
       </div>
-    </div>
-  )}
+    );
+  })()}
 
   {!compact && !isFinished && (
     <div class="mt-1.5 text-xs text-gray-600 text-center">{match.stageName}</div>
