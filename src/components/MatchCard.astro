@@ -29,10 +29,13 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
 >
   <div class="flex items-center justify-between gap-3">
     <!-- Home team -->
-    <div class="flex items-center gap-2 flex-1 min-w-0">
+    <div class="flex flex-col flex-1 min-w-0">
       <span class:list={['font-semibold truncate', compact ? 'text-sm' : 'text-base']}>
         {match.homeTeam.abbreviation}
       </span>
+      {!compact && (
+        <span class="text-xs text-gray-500 truncate">{match.homeTeam.name}</span>
+      )}
     </div>
 
     <!-- Score / time -->
@@ -55,10 +58,13 @@ const timeFmt = dateObj.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '
     </div>
 
     <!-- Away team -->
-    <div class="flex items-center gap-2 flex-1 min-w-0 justify-end">
+    <div class="flex flex-col flex-1 min-w-0 items-end">
       <span class:list={['font-semibold truncate', compact ? 'text-sm' : 'text-base']}>
         {match.awayTeam.abbreviation}
       </span>
+      {!compact && (
+        <span class="text-xs text-gray-500 truncate">{match.awayTeam.name}</span>
+      )}
     </div>
   </div>
 
