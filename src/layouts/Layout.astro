@@ -5,7 +5,7 @@ interface Props {
 }
 
 const { title, description = 'FIFA World Cup 2026 stats tracker' } = Astro.props;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <!doctype html>
