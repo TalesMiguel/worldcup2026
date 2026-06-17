@@ -837,22 +837,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "423646",
-        "playerName": "PEDRI",
-        "minute": "90'+3'",
-        "card": 1,
-        "teamId": "43969"
-      },
-      {
-        "playerId": "477832",
-        "playerName": "SIDNY LOPES CABRAL",
-        "minute": "16'",
-        "card": 1,
-        "teamId": "43850"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021478",
@@ -1044,10 +1029,39 @@
       "name": "Senegal",
       "abbreviation": "SEN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "66'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "484860",
+        "playerName": "Bradley BARCOLA",
+        "minute": "82'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "90'+6'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "496358",
+        "playerName": "Ibrahim MBAYE",
+        "minute": "90'+5'",
+        "type": 2,
+        "teamId": "43879"
+      }
+    ],
     "bookings": []
   },
   {
@@ -1067,11 +1081,55 @@
       "name": "Norway",
       "abbreviation": "NOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "395186",
+        "playerName": "AYMEN HUSSEIN",
+        "minute": "39'",
+        "type": 2,
+        "teamId": "43818"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "29'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "43'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419672",
+        "playerName": "Leo OSTIGARD",
+        "minute": "76'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "395186",
+        "playerName": "AYMEN HUSSEIN",
+        "minute": "90'+6'",
+        "type": 3,
+        "teamId": "43961"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "434025",
+        "playerName": "ZAID TAHSEEN",
+        "minute": "86'",
+        "card": 1,
+        "teamId": "43818"
+      }
+    ]
   },
   {
     "idMatch": "400021496",
@@ -1090,10 +1148,32 @@
       "name": "Algeria",
       "abbreviation": "ALG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "229397",
+        "playerName": "Lionel MESSI",
+        "minute": "17'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "229397",
+        "playerName": "Lionel MESSI",
+        "minute": "60'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "229397",
+        "playerName": "Lionel MESSI",
+        "minute": "76'",
+        "type": 2,
+        "teamId": "43922"
+      }
+    ],
     "bookings": []
   },
   {
@@ -1113,11 +1193,48 @@
       "name": "Jordan",
       "abbreviation": "JOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "463283",
+        "playerName": "Romano SCHMID",
+        "minute": "20'",
+        "type": 2,
+        "teamId": "43934"
+      },
+      {
+        "playerId": "431225",
+        "playerName": "",
+        "minute": "76'",
+        "type": 3,
+        "teamId": "43934"
+      },
+      {
+        "playerId": "299200",
+        "playerName": "Marko ARNAUTOVIC",
+        "minute": "90'+12'",
+        "type": 1,
+        "teamId": "43934"
+      },
+      {
+        "playerId": "431212",
+        "playerName": "ALI OLWAN",
+        "minute": "50'",
+        "type": 2,
+        "teamId": "43820"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "358241",
+        "playerName": "Marcel SABITZER",
+        "minute": "77'",
+        "card": 1,
+        "teamId": "43934"
+      }
+    ]
   },
   {
     "idMatch": "400021502",

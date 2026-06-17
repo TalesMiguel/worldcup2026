@@ -430,5 +430,113 @@
         "points": 1
       }
     ]
+  },
+  {
+    "groupId": "289283",
+    "groupName": "Group I",
+    "rows": [
+      {
+        "teamId": "43961",
+        "teamName": "Norway",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
+        "goalDiff": 3,
+        "points": 3
+      },
+      {
+        "teamId": "43946",
+        "teamName": "France",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43879",
+        "teamName": "Senegal",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDiff": -2,
+        "points": 0
+      },
+      {
+        "teamId": "43818",
+        "teamName": "Iraq",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "goalDiff": -3,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289284",
+    "groupName": "Group J",
+    "rows": [
+      {
+        "teamId": "43922",
+        "teamName": "Argentina",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 0,
+        "goalDiff": 3,
+        "points": 3
+      },
+      {
+        "teamId": "43934",
+        "teamName": "Austria",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43820",
+        "teamName": "Jordan",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDiff": -2,
+        "points": 0
+      },
+      {
+        "teamId": "43843",
+        "teamName": "Algeria",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 3,
+        "goalDiff": -3,
+        "points": 0
+      }
+    ]
   }
 ]

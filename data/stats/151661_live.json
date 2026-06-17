@@ -1,0 +1,470 @@
+{
+  "371739": {
+    "playerId": "371739",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alexander SCHLAGER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441067": {
+    "playerId": "441067",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Stefan POSCH",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "316002": {
+    "playerId": "316002",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "David ALABA",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "372243": {
+    "playerId": "372243",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Philipp Lienhart",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463288": {
+    "playerId": "463288",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Phillip MWENE",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385531": {
+    "playerId": "385531",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Xaver Schlager",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441088": {
+    "playerId": "441088",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Nicolas SEIWALD",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "358241": {
+    "playerId": "358241",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marcel SABITZER",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463283": {
+    "playerId": "463283",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Romano SCHMID",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "385259": {
+    "playerId": "385259",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Konrad LAIMER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430100": {
+    "playerId": "430100",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Sasa KALAJDZIC",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520034": {
+    "playerId": "520034",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Florian WIEGELE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441065": {
+    "playerId": "441065",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Patrick PENTZ",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "520035": {
+    "playerId": "520035",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "David AFFENGRUBER",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405263": {
+    "playerId": "405263",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Kevin Danso",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463287": {
+    "playerId": "463287",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marco FRIEDL",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491269": {
+    "playerId": "491269",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Michael SVOBODA",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385248": {
+    "playerId": "385248",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Florian GRILLITSCH",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463800": {
+    "playerId": "463800",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Carney CHUKWUEMEKA",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441068": {
+    "playerId": "441068",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Dejan LJUBICIC",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463282": {
+    "playerId": "463282",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alexander PRASS",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "520036": {
+    "playerId": "520036",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Paul WANNER",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "375600": {
+    "playerId": "375600",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alessandro SCHOEPF",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "299200": {
+    "playerId": "299200",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marko ARNAUTOVIC",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "401131": {
+    "playerId": "401131",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Michael Gregoritsch",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463286": {
+    "playerId": "463286",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Patrick WIMMER",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "397894": {
+    "playerId": "397894",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "YAZEED ABULAILA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433527": {
+    "playerId": "433527",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ABDALLAH NASIB",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431225": {
+    "playerId": "431225",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "YAZAN ALARAB",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489551": {
+    "playerId": "489551",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHAMMAD ABUALNADI",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389437": {
+    "playerId": "389437",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "EHSAN HADDAD",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431230": {
+    "playerId": "431230",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "NOOR ALRAWABDEH",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479389": {
+    "playerId": "479389",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHANNAD ABUTAHA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433534": {
+    "playerId": "433534",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "NIZAR ALRASHDAN",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431212": {
+    "playerId": "431212",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ALI OLWAN",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "431211": {
+    "playerId": "431211",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOUSA ALTAMARI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "511875": {
+    "playerId": "511875",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ODEH FAKHOURY",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483127": {
+    "playerId": "483127",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "NOUR BANIATEYAH",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "431223": {
+    "playerId": "431223",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ABDALLAH ALFAKHORI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433526": {
+    "playerId": "433526",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHAMMAD ABUHASHEESH",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489550": {
+    "playerId": "489550",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "HUSAM ABUDAHAB",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "499102": {
+    "playerId": "499102",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "SALEEM OBAID",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431219": {
+    "playerId": "431219",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "SAED ALROSAN",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511889": {
+    "playerId": "511889",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ANAS BADAWI",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491167": {
+    "playerId": "491167",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "AMER JAMOUS",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "384850": {
+    "playerId": "384850",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "RAJAEI AYED",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431209": {
+    "playerId": "431209",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "IBRAHIM SADEH",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "520068": {
+    "playerId": "520068",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHAMMAD ABUGHOUSH",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "45191": {
+    "playerId": "45191",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHAMMAD ALDAOUD",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431208": {
+    "playerId": "431208",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MOHAMMAD ABUZRAIQ",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396950": {
+    "playerId": "396950",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "MAHMOUD ALMARDI",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "498514": {
+    "playerId": "498514",
+    "teamId": "43820",
+    "teamName": "Jordan",
+    "playerName": "ALI AZAIZEH",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "308300": {
+    "playerId": "308300",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Emiliano MARTINEZ",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402926": {
+    "playerId": "402926",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Gonzalo MONTIEL",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402921": {
+    "playerId": "402921",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lisandro MARTINEZ",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431196": {
+    "playerId": "431196",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Cristian ROMERO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "418963": {
+    "playerId": "418963",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Facundo MEDINA",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "428882": {
+    "playerId": "428882",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Rodrigo DE PAUL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430628": {
+    "playerId": "430628",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Alexis MAC ALLISTER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448252": {
+    "playerId": "448252",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Enzo FERNANDEZ",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "229397": {
+    "playerId": "229397",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lionel MESSI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418975": {
+    "playerId": "418975",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Thiago ALMADA",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402920": {
+    "playerId": "402920",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lautaro MARTINEZ",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430624": {
+    "playerId": "430624",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Juan MUSSO",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "394824": {
+    "playerId": "394824",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Geronimo RULLI",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "308322": {
+    "playerId": "308322",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nicolas TAGLIAFICO",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "310116": {
+    "playerId": "310116",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nicolas OTAMENDI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402925": {
+    "playerId": "402925",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nahuel MOLINA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402934": {
+    "playerId": "402934",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Marcos SENESI",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "332847": {
+    "playerId": "332847",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Leandro PAREDES",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463661": {
+    "playerId": "463661",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Valentin BARCO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395414": {
+    "playerId": "395414",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Giovani Lo Celso",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389485": {
+    "playerId": "389485",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Exequiel PALACIOS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430631": {
+    "playerId": "430631",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nico GONZALEZ",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "416081": {
+    "playerId": "416081",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Julian ALVAREZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485595": {
+    "playerId": "485595",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Giuliano SIMEONE",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441422": {
+    "playerId": "441422",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nico PAZ",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495054": {
+    "playerId": "495054",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Jose Manuel LOPEZ",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "389879": {
+    "playerId": "389879",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Luca ZIDANE",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "376285": {
+    "playerId": "376285",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Aissa MANDI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431858": {
+    "playerId": "431858",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Rayan AIT-NOURI",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511009": {
+    "playerId": "511009",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Rafik BELGHALI",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395113": {
+    "playerId": "395113",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Ramy BENSEBAINI",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477795": {
+    "playerId": "477795",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Fares CHAIBI",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441350": {
+    "playerId": "441350",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Hicham BOUDAOUI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "379939": {
+    "playerId": "379939",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Nabil Bentaleb",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494291": {
+    "playerId": "494291",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Ibrahim MAZA",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405877": {
+    "playerId": "405877",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Amine GOUIRI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "482874": {
+    "playerId": "482874",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Anis HADJ MOUSSA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520070": {
+    "playerId": "520070",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Melvin MASTIL",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "477817": {
+    "playerId": "477817",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Oussama BENBOT",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "512127": {
+    "playerId": "512127",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Achref ABADA",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433600": {
+    "playerId": "433600",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Mohamed Amine TOUGAI",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "480983": {
+    "playerId": "480983",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Zineddine BELAID",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482869": {
+    "playerId": "482869",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Jaouen HADJAM",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511010": {
+    "playerId": "511010",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Samir CHERGUI",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433679": {
+    "playerId": "433679",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Ramiz ZERROUKI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430698": {
+    "playerId": "430698",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Houssem Aouar",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433631": {
+    "playerId": "433631",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Yassine TITRAOUI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "379942": {
+    "playerId": "379942",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Riyad Mahrez",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520071": {
+    "playerId": "520071",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Nadhir BENBOUALI",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477790": {
+    "playerId": "477790",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Mohamed AMOURA",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "512132": {
+    "playerId": "512132",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Adil BOULBINA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520072": {
+    "playerId": "520072",
+    "teamId": "43843",
+    "teamName": "Algeria",
+    "playerName": "Fares GHEDJEMIS",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

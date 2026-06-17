@@ -1,0 +1,470 @@
+{
+  "347085": {
+    "playerId": "347085",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "JALAL HASSAN",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "479553": {
+    "playerId": "479553",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "Hussein Ali",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "434025": {
+    "playerId": "434025",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZAID TAHSEEN",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "481183": {
+    "playerId": "481183",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AKAM HASHIM",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479072": {
+    "playerId": "479072",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MERCHAS DOSKI",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433585": {
+    "playerId": "433585",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "IBRAHIM BAYESH",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433074": {
+    "playerId": "433074",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AMIR ALAMMARI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484270": {
+    "playerId": "484270",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZAID ISMAEL",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "436628": {
+    "playerId": "436628",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI ALHAMADI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464457": {
+    "playerId": "464457",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI JASIM",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395186": {
+    "playerId": "395186",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AYMEN HUSSEIN",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368744": {
+    "playerId": "368744",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "FAHAD TALIB",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433571": {
+    "playerId": "433571",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED BASIL",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "396158": {
+    "playerId": "396158",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "REBIN SULAKA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "434024": {
+    "playerId": "434024",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MUNAF YOUNUS",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484276": {
+    "playerId": "484276",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED MAKNAZI",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479056": {
+    "playerId": "479056",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MUSTAFA SAADOON",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436863": {
+    "playerId": "436863",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "FRANS PUTROS",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464458": {
+    "playerId": "464458",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "YOUSSEF AMYN",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "434026": {
+    "playerId": "434026",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZIDANE IQBAL",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "506069": {
+    "playerId": "506069",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "KEVIN YAKOB",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "493983": {
+    "playerId": "493983",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AIMAR SHER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "422968": {
+    "playerId": "422968",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MOHANAD ALI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "523236": {
+    "playerId": "523236",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED QASEM",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "434029": {
+    "playerId": "434029",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI YOUSIF",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484262": {
+    "playerId": "484262",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MARKO FARJI",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "373235": {
+    "playerId": "373235",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Orjan NYLAND",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483516": {
+    "playerId": "483516",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristoffer AJER",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483505": {
+    "playerId": "483505",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "David MOLLER WOLFE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491244": {
+    "playerId": "491244",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Torbjorn HEGGEM",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "404645": {
+    "playerId": "404645",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander BERGE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "400716": {
+    "playerId": "400716",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Martin ODEGAARD",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483497": {
+    "playerId": "483497",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik AURSNES",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398588": {
+    "playerId": "398588",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Alexander SORLOTH",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419652": {
+    "playerId": "419652",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Erling HAALAND",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483448": {
+    "playerId": "483448",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Antonio NUSA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483496": {
+    "playerId": "483496",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Julian RYERSON",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514479": {
+    "playerId": "514479",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander TANGVIK",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483535": {
+    "playerId": "483535",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Egil SELVIK",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419672": {
+    "playerId": "419672",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Leo OSTIGARD",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483530": {
+    "playerId": "483530",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik Andre BJORKAN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494625": {
+    "playerId": "494625",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Marcus HOLMGREN PEDERSEN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489696": {
+    "playerId": "489696",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sondre LANGAS",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520112": {
+    "playerId": "520112",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Henrik FALCHENER",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433067": {
+    "playerId": "433067",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Morten Thorsby",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483442": {
+    "playerId": "483442",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Patrick BERG",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419681": {
+    "playerId": "419681",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristian Thorstvedt",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494627": {
+    "playerId": "494627",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Thelo AASGAARD",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494626": {
+    "playerId": "494626",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Andreas SCHJELDERUP",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477470": {
+    "playerId": "477470",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Oscar BOBB",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419654": {
+    "playerId": "419654",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jens Petter HAUGE",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419662": {
+    "playerId": "419662",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jorgen STRAND LARSEN",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
