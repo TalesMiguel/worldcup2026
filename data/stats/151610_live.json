@@ -1,0 +1,443 @@
+{
+  "484012": {
+    "playerId": "484012",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Matej KOVAR",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441167": {
+    "playerId": "441167",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas HOLES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486080": {
+    "playerId": "486080",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Robin HRANAC",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "472908": {
+    "playerId": "472908",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Vladimir COUFAL",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441170": {
+    "playerId": "441170",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Ladislav KREJCI",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "358003": {
+    "playerId": "358003",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Vladimir DARIDA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486081": {
+    "playerId": "486081",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas CERV",
+    "shirtNumber": 12,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433668": {
+    "playerId": "433668",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Michal SADILEK",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523097": {
+    "playerId": "523097",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Alexandr SOJKA",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433754": {
+    "playerId": "433754",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Adam HLOZEK",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "401481": {
+    "playerId": "401481",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Patrik Schick",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441162": {
+    "playerId": "441162",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jindrich STANEK",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "511118": {
+    "playerId": "511118",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas HORNICEK",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433755": {
+    "playerId": "433755",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "David Zima",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "514334": {
+    "playerId": "514334",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Stepan CHALOUPEK",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441166": {
+    "playerId": "441166",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jaroslav ZELENY",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483936": {
+    "playerId": "483936",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "David DOUDERA",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484011": {
+    "playerId": "484011",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas PROVOD",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "404885": {
+    "playerId": "404885",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas SOUCEK",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "506775": {
+    "playerId": "506775",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Hugo SOCHUREK",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441171": {
+    "playerId": "441171",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jan KUCHTA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484003": {
+    "playerId": "484003",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Mojmir CHYTIL",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486082": {
+    "playerId": "486082",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Pavel SULC",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483961": {
+    "playerId": "483961",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas CHORY",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519985": {
+    "playerId": "519985",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Denis VISINSKY",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395986": {
+    "playerId": "395986",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ronwen WILLIAMS",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395050": {
+    "playerId": "395050",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Aubrey MODIBA",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504199": {
+    "playerId": "504199",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Mbekezeli MBOKAZI",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463218": {
+    "playerId": "463218",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Khuliso MUDAU",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506039": {
+    "playerId": "506039",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ime OKON",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403616": {
+    "playerId": "403616",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Teboho MOKOENA",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494248": {
+    "playerId": "494248",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thalente MBATHA",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463236": {
+    "playerId": "463236",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Jayden ADAMS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419223": {
+    "playerId": "419223",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Oswin APPOLLIS",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463234": {
+    "playerId": "463234",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thapelo MASEKO",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "481242": {
+    "playerId": "481242",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Iqraam RAYNERS",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494246": {
+    "playerId": "494246",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Sipho CHAINE",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395059": {
+    "playerId": "395059",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ricardo GOSS",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "510850": {
+    "playerId": "510850",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thabang MATULUDI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504192": {
+    "playerId": "504192",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Khulumani NDAMANE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504200": {
+    "playerId": "504200",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Samukele KABINI",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463221": {
+    "playerId": "463221",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Nkosinathi SIBISI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502245": {
+    "playerId": "502245",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Olwethu MAKHANYA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419225": {
+    "playerId": "419225",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Bradley Cross",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504193": {
+    "playerId": "504193",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Tshepang MOREMI",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419211": {
+    "playerId": "419211",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Lyle FOSTER",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486161": {
+    "playerId": "486161",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Relebohile MOFOKENG",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430917": {
+    "playerId": "430917",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Evidence MAKGOPA",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506038": {
+    "playerId": "506038",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Kamogelo SEBELEBELE",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

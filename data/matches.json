@@ -1253,11 +1253,55 @@
       "name": "Congo DR",
       "abbreviation": "COD"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "484141",
+        "playerName": "JOAO NEVES",
+        "minute": "6'",
+        "type": 2,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "441316",
+        "playerName": "Yoane WISSA",
+        "minute": "45'+5'",
+        "type": 2,
+        "teamId": "20014"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "395205",
+        "playerName": "BERNARDO SILVA",
+        "minute": "13'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "395212",
+        "playerName": "NELSON SEMEDO",
+        "minute": "88'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "492358",
+        "playerName": "TOMAS ARAUJO",
+        "minute": "90'+2'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "356532",
+        "playerName": "Chancel MBEMBA",
+        "minute": "32'",
+        "card": 1,
+        "teamId": "20014"
+      }
+    ]
   },
   {
     "idMatch": "400021507",
@@ -1276,10 +1320,53 @@
       "name": "Croatia",
       "abbreviation": "CRO"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 4,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "12'",
+        "type": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "42'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "47'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "401470",
+        "playerName": "Marcus RASHFORD",
+        "minute": "85'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "482774",
+        "playerName": "Martin BATURINA",
+        "minute": "36'",
+        "type": 2,
+        "teamId": "43938"
+      },
+      {
+        "playerId": "389754",
+        "playerName": "Petar Musa",
+        "minute": "45'+5'",
+        "type": 2,
+        "teamId": "43938"
+      }
+    ],
     "bookings": []
   },
   {
@@ -1299,11 +1386,41 @@
       "name": "Panama",
       "abbreviation": "PAN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "506279",
+        "playerName": "Caleb YIRENKYI",
+        "minute": "90'+5'",
+        "type": 2,
+        "teamId": "43860"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "506279",
+        "playerName": "Caleb YIRENKYI",
+        "minute": "16'",
+        "card": 1,
+        "teamId": "43860"
+      },
+      {
+        "playerId": "441242",
+        "playerName": "Cesar BLACKMAN",
+        "minute": "72'",
+        "card": 1,
+        "teamId": "43914"
+      },
+      {
+        "playerId": "418729",
+        "playerName": "Carlos HARVEY",
+        "minute": "90'+9'",
+        "card": 1,
+        "teamId": "43914"
+      }
+    ]
   },
   {
     "idMatch": "400021504",
@@ -1322,11 +1439,55 @@
       "name": "Colombia",
       "abbreviation": "COL"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "464933",
+        "playerName": "Abbosbek FAYZULLAEV",
+        "minute": "60'",
+        "type": 2,
+        "teamId": "44005"
+      },
+      {
+        "playerId": "431200",
+        "playerName": "Daniel MUNOZ",
+        "minute": "40'",
+        "type": 2,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "428886",
+        "playerName": "Luis DIAZ",
+        "minute": "65'",
+        "type": 2,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "405755",
+        "playerName": "Jaminton CAMPAZ",
+        "minute": "90'+9'",
+        "type": 2,
+        "teamId": "43926"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "464924",
+        "playerName": "Abdukodir KHUSANOV",
+        "minute": "34'",
+        "card": 1,
+        "teamId": "44005"
+      },
+      {
+        "playerId": "394500",
+        "playerName": "Johan MOJICA",
+        "minute": "7'",
+        "card": 1,
+        "teamId": "43926"
+      }
+    ]
   },
   {
     "idMatch": "400021440",
@@ -1345,10 +1506,18 @@
       "name": "South Africa",
       "abbreviation": "RSA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 3,
+    "goals": [
+      {
+        "playerId": "433668",
+        "playerName": "Michal SADILEK",
+        "minute": "6'",
+        "type": 2,
+        "teamId": "43995"
+      }
+    ],
     "bookings": []
   },
   {

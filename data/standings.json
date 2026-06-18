@@ -30,25 +30,25 @@
       {
         "teamId": "43995",
         "teamName": "Czechia",
-        "played": 1,
-        "won": 0,
+        "played": 2,
+        "won": 1,
         "drawn": 0,
         "lost": 1,
-        "goalsFor": 1,
+        "goalsFor": 2,
         "goalsAgainst": 2,
-        "goalDiff": -1,
-        "points": 0
+        "goalDiff": 0,
+        "points": 3
       },
       {
         "teamId": "43883",
         "teamName": "South Africa",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDiff": -2,
+        "goalsAgainst": 3,
+        "goalDiff": -3,
         "points": 0
       }
     ]
@@ -535,6 +535,114 @@
         "goalsFor": 0,
         "goalsAgainst": 3,
         "goalDiff": -3,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289285",
+    "groupName": "Group K",
+    "rows": [
+      {
+        "teamId": "43926",
+        "teamName": "Colombia",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43963",
+        "teamName": "Portugal",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "20014",
+        "teamName": "Congo DR",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDiff": 0,
+        "points": 1
+      },
+      {
+        "teamId": "44005",
+        "teamName": "Uzbekistan",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDiff": -2,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "groupId": "289286",
+    "groupName": "Group L",
+    "rows": [
+      {
+        "teamId": "43942",
+        "teamName": "England",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 2,
+        "goalDiff": 2,
+        "points": 3
+      },
+      {
+        "teamId": "43860",
+        "teamName": "Ghana",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "goalDiff": 1,
+        "points": 3
+      },
+      {
+        "teamId": "43914",
+        "teamName": "Panama",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 1,
+        "goalDiff": -1,
+        "points": 0
+      },
+      {
+        "teamId": "43938",
+        "teamName": "Croatia",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalDiff": -2,
         "points": 0
       }
     ]
