@@ -1507,8 +1507,8 @@
       "abbreviation": "RSA"
     },
     "homeScore": 1,
-    "awayScore": 0,
-    "status": 3,
+    "awayScore": 1,
+    "status": 0,
     "goals": [
       {
         "playerId": "433668",
@@ -1537,11 +1537,76 @@
       "name": "Bosnia and Herzegovina",
       "abbreviation": "BIH"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "502727",
+        "playerName": "Johan MANZAMBI",
+        "minute": "74'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "448131",
+        "playerName": "Ruben VARGAS",
+        "minute": "84'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "502727",
+        "playerName": "Johan MANZAMBI",
+        "minute": "90'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "311558",
+        "playerName": "Granit XHAKA",
+        "minute": "90'+7'",
+        "type": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "522846",
+        "playerName": "Ermin MAHMIC",
+        "minute": "90'+3'",
+        "type": 2,
+        "teamId": "44037"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "398509",
+        "playerName": "Nico ELVEDI",
+        "minute": "65'",
+        "card": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "482976",
+        "playerName": "Amar DEDIC",
+        "minute": "59'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "300409",
+        "playerName": "Edin DZEKO",
+        "minute": "61'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "484022",
+        "playerName": "Tarik MUHAREMOVIC",
+        "minute": "80'",
+        "card": 2,
+        "teamId": "44037"
+      }
+    ]
   },
   {
     "idMatch": "400021450",
@@ -1560,11 +1625,83 @@
       "name": "Qatar",
       "abbreviation": "QAT"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 6,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "390670",
+        "playerName": "Cyle LARIN",
+        "minute": "16'",
+        "type": 2,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "441257",
+        "playerName": "Jonathan DAVID",
+        "minute": "29'",
+        "type": 2,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "441257",
+        "playerName": "Jonathan DAVID",
+        "minute": "45'+3'",
+        "type": 2,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "423941",
+        "playerName": "Nathan SALIBA",
+        "minute": "64'",
+        "type": 2,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "498458",
+        "playerName": "",
+        "minute": "75'",
+        "type": 3,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "441257",
+        "playerName": "Jonathan DAVID",
+        "minute": "90'+2'",
+        "type": 2,
+        "teamId": "43899"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "371958",
+        "playerName": "Derek CORNELIUS",
+        "minute": "9'",
+        "card": 1,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "419441",
+        "playerName": "HOMAM AHMED",
+        "minute": "33'",
+        "card": 2,
+        "teamId": "43834"
+      },
+      {
+        "playerId": "386348",
+        "playerName": "ASSIM MADIBO",
+        "minute": "51'",
+        "card": 2,
+        "teamId": "43834"
+      },
+      {
+        "playerId": "433394",
+        "playerName": "AHMED FATHY",
+        "minute": "62'",
+        "card": 1,
+        "teamId": "43834"
+      }
+    ]
   },
   {
     "idMatch": "400021442",
@@ -1583,11 +1720,34 @@
       "name": "Korea Republic",
       "abbreviation": "KOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430763",
+        "playerName": "Luis ROMO",
+        "minute": "50'",
+        "type": 2,
+        "teamId": "43911"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "418490",
+        "playerName": "LEE Kangin",
+        "minute": "4'",
+        "card": 1,
+        "teamId": "43822"
+      },
+      {
+        "playerId": "402817",
+        "playerName": "PAIK Seungho",
+        "minute": "58'",
+        "card": 1,
+        "teamId": "43822"
+      }
+    ]
   },
   {
     "idMatch": "400021462",
@@ -2747,9 +2907,9 @@
     "stageName": "Round of 32",
     "date": "2026-07-01T01:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43911",
+      "name": "Mexico",
+      "abbreviation": "MEX"
     },
     "awayTeam": {
       "id": "",

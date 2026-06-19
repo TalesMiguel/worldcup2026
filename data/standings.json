@@ -6,30 +6,18 @@
       {
         "teamId": "43911",
         "teamName": "Mexico",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 2,
+        "goalsFor": 3,
         "goalsAgainst": 0,
-        "goalDiff": 2,
-        "points": 3
+        "goalDiff": 3,
+        "points": 6
       },
       {
         "teamId": "43822",
         "teamName": "Korea Republic",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 1,
-        "goalDiff": 1,
-        "points": 3
-      },
-      {
-        "teamId": "43995",
-        "teamName": "Czechia",
         "played": 2,
         "won": 1,
         "drawn": 0,
@@ -40,16 +28,28 @@
         "points": 3
       },
       {
+        "teamId": "43995",
+        "teamName": "Czechia",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "goalDiff": -1,
+        "points": 1
+      },
+      {
         "teamId": "43883",
         "teamName": "South Africa",
         "played": 2,
         "won": 0,
-        "drawn": 0,
-        "lost": 2,
-        "goalsFor": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 1,
         "goalsAgainst": 3,
-        "goalDiff": -3,
-        "points": 0
+        "goalDiff": -2,
+        "points": 1
       }
     ]
   },
@@ -60,49 +60,49 @@
       {
         "teamId": "43899",
         "teamName": "Canada",
-        "played": 1,
-        "won": 0,
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 1,
+        "goalsFor": 7,
         "goalsAgainst": 1,
-        "goalDiff": 0,
-        "points": 1
+        "goalDiff": 6,
+        "points": 4
+      },
+      {
+        "teamId": "43971",
+        "teamName": "Switzerland",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 2,
+        "goalDiff": 3,
+        "points": 4
       },
       {
         "teamId": "44037",
         "teamName": "Bosnia and Herzegovina",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDiff": 0,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 5,
+        "goalDiff": -3,
         "points": 1
       },
       {
         "teamId": "43834",
         "teamName": "Qatar",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
+        "lost": 1,
         "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDiff": 0,
-        "points": 1
-      },
-      {
-        "teamId": "43971",
-        "teamName": "Switzerland",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDiff": 0,
+        "goalsAgainst": 7,
+        "goalDiff": -6,
         "points": 1
       }
     ]
