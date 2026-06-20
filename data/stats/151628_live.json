@@ -1,0 +1,470 @@
+{
+  "441181": {
+    "playerId": "441181",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ugurcan CAKIR",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441179": {
+    "playerId": "441179",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Merih DEMIRAL",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484082": {
+    "playerId": "484082",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Abdulkerim BARDAKCI",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430120": {
+    "playerId": "430120",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Mert MULDUR",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484113": {
+    "playerId": "484113",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ferdi KADIOGLU",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369304": {
+    "playerId": "369304",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Hakan CALHANOGLU",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484092": {
+    "playerId": "484092",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ismail YUKSEK",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441188": {
+    "playerId": "441188",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kerem AKTURKOGLU",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484087": {
+    "playerId": "484087",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Arda GULER",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484112": {
+    "playerId": "484112",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kenan YILDIZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406231": {
+    "playerId": "406231",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Yunus AKGUN",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "360498": {
+    "playerId": "360498",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Mert GUNOK",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441180": {
+    "playerId": "441180",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Altay BAYINDIR",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433072": {
+    "playerId": "433072",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Zeki CELIK",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401167": {
+    "playerId": "401167",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Caglar SOYUNCU",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484065": {
+    "playerId": "484065",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Eren ELMALI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "406249": {
+    "playerId": "406249",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ozan KABAK",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484072": {
+    "playerId": "484072",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Samet AKAYDIN",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389907": {
+    "playerId": "389907",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Salih OZCAN",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433118": {
+    "playerId": "433118",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Orkun KOKCU",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336170": {
+    "playerId": "336170",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kaan Ayhan",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495347": {
+    "playerId": "495347",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Deniz GUL",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "472877": {
+    "playerId": "472877",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Irfan Can KAHVECI",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484139": {
+    "playerId": "484139",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Baris Alper YILMAZ",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486076": {
+    "playerId": "486076",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Oguz AYDIN",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486074": {
+    "playerId": "486074",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Can UZUN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494531": {
+    "playerId": "494531",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Orlando GILL",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "431202": {
+    "playerId": "431202",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Omar ALDERETE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479601": {
+    "playerId": "479601",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Juan Jose CACERES",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369749": {
+    "playerId": "369749",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Junior ALONSO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369744": {
+    "playerId": "369744",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo GOMEZ",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463128": {
+    "playerId": "463128",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Diego GOMEZ",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369761": {
+    "playerId": "369761",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Miguel ALMIRON",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "385306": {
+    "playerId": "385306",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Andres CUBAS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424422": {
+    "playerId": "424422",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Matias GALARZA",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441234": {
+    "playerId": "441234",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Julio ENCISO",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489417": {
+    "playerId": "489417",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Isidro PITTA",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "318647": {
+    "playerId": "318647",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gatito FERNANDEZ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "447991": {
+    "playerId": "447991",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gaston OLVEIRA",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "486875": {
+    "playerId": "486875",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo VELAZQUEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "394829": {
+    "playerId": "394829",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Fabian BALBUENA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520066": {
+    "playerId": "520066",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Jose CANALE",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "505495": {
+    "playerId": "505495",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alexandro MAIDANA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463125": {
+    "playerId": "463125",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Ramon SOSA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495046": {
+    "playerId": "495046",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "MAURICIO",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "476348": {
+    "playerId": "476348",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Damian BOBADILLA",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "406205": {
+    "playerId": "406205",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Braian OJEDA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485804": {
+    "playerId": "485804",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo CABALLERO",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369768": {
+    "playerId": "369768",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Antonio SANABRIA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386458": {
+    "playerId": "386458",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alejandro ROMERO GAMARRA",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485802": {
+    "playerId": "485802",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alex ARCE",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463127": {
+    "playerId": "463127",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gabriel AVALOS",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

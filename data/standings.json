@@ -112,51 +112,51 @@
     "groupName": "Group C",
     "rows": [
       {
-        "teamId": "43967",
-        "teamName": "Scotland",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 0,
-        "goalDiff": 1,
-        "points": 3
-      },
-      {
         "teamId": "43924",
         "teamName": "Brazil",
-        "played": 1,
-        "won": 0,
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 1,
+        "goalsFor": 4,
         "goalsAgainst": 1,
-        "goalDiff": 0,
-        "points": 1
+        "goalDiff": 3,
+        "points": 4
       },
       {
         "teamId": "43872",
         "teamName": "Morocco",
-        "played": 1,
-        "won": 0,
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 1,
+        "goalDiff": 1,
+        "points": 4
+      },
+      {
+        "teamId": "43967",
+        "teamName": "Scotland",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
         "goalsFor": 1,
         "goalsAgainst": 1,
         "goalDiff": 0,
-        "points": 1
+        "points": 3
       },
       {
         "teamId": "43908",
         "teamName": "Haiti",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 0,
-        "goalsAgainst": 1,
-        "goalDiff": -1,
+        "goalsAgainst": 4,
+        "goalDiff": -4,
         "points": 0
       }
     ]
@@ -168,48 +168,48 @@
       {
         "teamId": "43921",
         "teamName": "USA",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 4,
+        "goalsFor": 6,
         "goalsAgainst": 1,
-        "goalDiff": 3,
-        "points": 3
+        "goalDiff": 5,
+        "points": 6
       },
       {
         "teamId": "43976",
         "teamName": "Australia",
-        "played": 1,
+        "played": 2,
         "won": 1,
         "drawn": 0,
-        "lost": 0,
+        "lost": 1,
         "goalsFor": 2,
-        "goalsAgainst": 0,
-        "goalDiff": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 3
+      },
+      {
+        "teamId": "43928",
+        "teamName": "Paraguay",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalDiff": -2,
         "points": 3
       },
       {
         "teamId": "43972",
         "teamName": "Türkiye",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDiff": -2,
-        "points": 0
-      },
-      {
-        "teamId": "43928",
-        "teamName": "Paraguay",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 4,
+        "goalsAgainst": 3,
         "goalDiff": -3,
         "points": 0
       }

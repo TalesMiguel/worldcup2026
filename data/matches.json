@@ -1766,11 +1766,76 @@
       "name": "Australia",
       "abbreviation": "AUS"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "382312",
+        "playerName": "",
+        "minute": "11'",
+        "type": 3,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "464542",
+        "playerName": "Alex FREEMAN",
+        "minute": "43'",
+        "type": 2,
+        "teamId": "43921"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "441251",
+        "playerName": "Antonee ROBINSON",
+        "minute": "56'",
+        "card": 1,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "466624",
+        "playerName": "Folarin BALOGUN",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "419062",
+        "playerName": "Chris RICHARDS",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "423522",
+        "playerName": "Jordan BOS",
+        "minute": "16'",
+        "card": 1,
+        "teamId": "43976"
+      },
+      {
+        "playerId": "448014",
+        "playerName": "Alessandro CIRCATI",
+        "minute": "32'",
+        "card": 1,
+        "teamId": "43976"
+      },
+      {
+        "playerId": "430450",
+        "playerName": "Jacob ITALIANO",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43976"
+      },
+      {
+        "playerId": "430442",
+        "playerName": "Harry SOUTTAR",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43976"
+      }
+    ]
   },
   {
     "idMatch": "400021454",
@@ -1789,11 +1854,34 @@
       "name": "Morocco",
       "abbreviation": "MAR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448598",
+        "playerName": "Ismael SAIBARI",
+        "minute": "2'",
+        "type": 2,
+        "teamId": "43872"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "401339",
+        "playerName": "Andy ROBERTSON",
+        "minute": "65'",
+        "card": 1,
+        "teamId": "43967"
+      },
+      {
+        "playerId": "403083",
+        "playerName": "Issa Diop",
+        "minute": "22'",
+        "card": 1,
+        "teamId": "43872"
+      }
+    ]
   },
   {
     "idMatch": "400021457",
@@ -1812,11 +1900,62 @@
       "name": "Haiti",
       "abbreviation": "HAI"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430609",
+        "playerName": "MATHEUS CUNHA",
+        "minute": "23'",
+        "type": 2,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "430609",
+        "playerName": "MATHEUS CUNHA",
+        "minute": "36'",
+        "type": 2,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "405742",
+        "playerName": "VINICIUS JUNIOR",
+        "minute": "45'+3'",
+        "type": 2,
+        "teamId": "43924"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "367981",
+        "playerName": "DOUGLAS SANTOS",
+        "minute": "65'",
+        "card": 1,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "397775",
+        "playerName": "Carlens ARCUS",
+        "minute": "4'",
+        "card": 1,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "431693",
+        "playerName": "Frantzdy Pierrot",
+        "minute": "45'+4'",
+        "card": 1,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "466838",
+        "playerName": "Danley JEAN JACQUES",
+        "minute": "72'",
+        "card": 1,
+        "teamId": "43908"
+      }
+    ]
   },
   {
     "idMatch": "400021460",
@@ -1835,11 +1974,55 @@
       "name": "Paraguay",
       "abbreviation": "PAR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "424422",
+        "playerName": "Matias GALARZA",
+        "minute": "2'",
+        "type": 2,
+        "teamId": "43928"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "63'",
+        "card": 1,
+        "teamId": "43972"
+      },
+      {
+        "playerId": "484065",
+        "playerName": "Eren ELMALI",
+        "minute": "71'",
+        "card": 1,
+        "teamId": "43972"
+      },
+      {
+        "playerId": "424422",
+        "playerName": "Matias GALARZA",
+        "minute": "4'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "37'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "369761",
+        "playerName": "Miguel ALMIRON",
+        "minute": "45'+3'",
+        "card": 2,
+        "teamId": "43928"
+      }
+    ]
   },
   {
     "idMatch": "400021472",
@@ -2976,9 +3159,9 @@
     "stageName": "Round of 32",
     "date": "2026-07-02T00:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43921",
+      "name": "USA",
+      "abbreviation": "USA"
     },
     "awayTeam": {
       "id": "",

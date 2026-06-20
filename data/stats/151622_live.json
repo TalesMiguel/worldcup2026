@@ -1,0 +1,461 @@
+{
+  "308370": {
+    "playerId": "308370",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALISSON",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "430601": {
+    "playerId": "430601",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MAGALHAES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332946": {
+    "playerId": "332946",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MARQUINHOS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335656": {
+    "playerId": "335656",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "367981": {
+    "playerId": "367981",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DOUGLAS SANTOS",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308386": {
+    "playerId": "308386",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "CASEMIRO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430605": {
+    "playerId": "430605",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BRUNO GUIMARAES",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411726": {
+    "playerId": "411726",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUCAS PAQUETA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405742": {
+    "playerId": "405742",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "VINICIUS JUNIOR",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430609": {
+    "playerId": "430609",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MATHEUS CUNHA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433872": {
+    "playerId": "433872",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAPHINHA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396315": {
+    "playerId": "396315",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "WEVERTON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395427": {
+    "playerId": "395427",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "335658": {
+    "playerId": "335658",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALEX SANDRO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431889": {
+    "playerId": "431889",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BREMER",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371956": {
+    "playerId": "371956",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LEO PEREIRA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430594": {
+    "playerId": "430594",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ROGER IBANEZ",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485069": {
+    "playerId": "485069",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON SILVA",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "394456": {
+    "playerId": "394456",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "FABINHO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429392": {
+    "playerId": "429392",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO SANTOS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463746": {
+    "playerId": "463746",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ENDRICK",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448420": {
+    "playerId": "448420",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUIZ HENRIQUE",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430597": {
+    "playerId": "430597",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MARTINELLI",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519836": {
+    "playerId": "519836",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "IGOR THIAGO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "475036": {
+    "playerId": "475036",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAYAN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "295922": {
+    "playerId": "295922",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Johny Placide",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "397775": {
+    "playerId": "397775",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Carlens ARCUS",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "275917": {
+    "playerId": "275917",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Ricardo Ade",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448363": {
+    "playerId": "448363",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Hannes DELCROIX",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489300": {
+    "playerId": "489300",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Martin EXPERIENCE",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431781": {
+    "playerId": "431781",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Jean-Kevin DUVERNE",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430697": {
+    "playerId": "430697",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Jean-Ricner Bellegarde",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466838": {
+    "playerId": "466838",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Danley JEAN JACQUES",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485664": {
+    "playerId": "485664",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Ruben PROVIDENCE",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "431693": {
+    "playerId": "431693",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Frantzdy Pierrot",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "510757": {
+    "playerId": "510757",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Josue CASIMIR",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466835": {
+    "playerId": "466835",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Alexandre PIERRE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466853": {
+    "playerId": "466853",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Josue DUVERGER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "506481": {
+    "playerId": "506481",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Keeto THERMONCY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466844": {
+    "playerId": "466844",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Markhus LACROIX",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466862": {
+    "playerId": "466862",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Garven METUSALA",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "498439": {
+    "playerId": "498439",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Wilguens PAUGAIN",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424556": {
+    "playerId": "424556",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Carl SAINTE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523215": {
+    "playerId": "523215",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Dominique SIMON",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485409": {
+    "playerId": "485409",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Woodensky PIERRE",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466865": {
+    "playerId": "466865",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Derrick ETIENNE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "394993": {
+    "playerId": "394993",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Duckens NAZON",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "481027": {
+    "playerId": "481027",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Louicius DEEDSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485676": {
+    "playerId": "485676",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Lenny JOSEPH",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405879": {
+    "playerId": "405879",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Wilson Isidor",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506483": {
+    "playerId": "506483",
+    "teamId": "43908",
+    "teamName": "Haiti",
+    "playerName": "Yassin FORTUNE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
