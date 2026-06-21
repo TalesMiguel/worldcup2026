@@ -1,0 +1,470 @@
+{
+  "441236": {
+    "playerId": "441236",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Hernan GALINDEZ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "424031": {
+    "playerId": "424031",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Piero HINCAPIE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448290": {
+    "playerId": "448290",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Willian PACHO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389782": {
+    "playerId": "389782",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Pervis ESTUPINAN",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419005": {
+    "playerId": "419005",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jordy ALCIVAR",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424036": {
+    "playerId": "424036",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Pedro VITE",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389784": {
+    "playerId": "389784",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Alan FRANCO",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "428885": {
+    "playerId": "428885",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Moises CAICEDO",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405920": {
+    "playerId": "405920",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "John YEBOAH",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "373400": {
+    "playerId": "373400",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Enner VALENCIA",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419020": {
+    "playerId": "419020",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Gonzalo PLATA",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419002": {
+    "playerId": "419002",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Moises RAMIREZ",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448295": {
+    "playerId": "448295",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Gonzalo VALLE",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402979": {
+    "playerId": "402979",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Felix TORRES",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463465": {
+    "playerId": "463465",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Joel ORDONEZ",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402974": {
+    "playerId": "402974",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Angelo PRECIADO",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419003": {
+    "playerId": "419003",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jackson POROZO",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463489": {
+    "playerId": "463489",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Yaimar MEDINA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448299": {
+    "playerId": "448299",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Anthony VALENCIA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463495": {
+    "playerId": "463495",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Kendry PAEZ",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463468": {
+    "playerId": "463468",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Alan MINDA",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463476": {
+    "playerId": "463476",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Denil CASTILLO",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448310": {
+    "playerId": "448310",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Kevin RODRIGUEZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402985": {
+    "playerId": "402985",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jordy CAICEDO",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448312": {
+    "playerId": "448312",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Nilson ANGULO",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514326": {
+    "playerId": "514326",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jeremy AREVALO",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390650": {
+    "playerId": "390650",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Eloy ROOM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "431698": {
+    "playerId": "431698",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jurien GAARI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466350": {
+    "playerId": "466350",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sherel FLORANUS",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511141": {
+    "playerId": "511141",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Armando OBISPO",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401023": {
+    "playerId": "401023",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Joshua BRENET",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506471": {
+    "playerId": "506471",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Deveron FONVILLE",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466317": {
+    "playerId": "466317",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juninho BACUNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494989": {
+    "playerId": "494989",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Livano COMENENCIA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466340": {
+    "playerId": "466340",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Leandro BACUNA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485347": {
+    "playerId": "485347",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tahith CHONG",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "407680": {
+    "playerId": "407680",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juergen LOCADIA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466370": {
+    "playerId": "466370",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrick BODAK",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466382": {
+    "playerId": "466382",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Trevor DOORNBUSCH",
+    "shirtNumber": 26,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "485379": {
+    "playerId": "485379",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Shurandy SAMBO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466361": {
+    "playerId": "466361",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Roshon VAN EIJMA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "398569": {
+    "playerId": "398569",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Riechedly Bazoer",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466359": {
+    "playerId": "466359",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Godfried ROEMERATOE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485324": {
+    "playerId": "485324",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Arjany MARTHA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466365": {
+    "playerId": "466365",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kevin FELIDA",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424047": {
+    "playerId": "424047",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jeremy Antonisse",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424056": {
+    "playerId": "424056",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sontje HANSEN",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506473": {
+    "playerId": "506473",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrese NOSLIN",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466352": {
+    "playerId": "466352",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kenji GORRE",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466363": {
+    "playerId": "466363",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jearl MARGARITHA",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466346": {
+    "playerId": "466346",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Brandley KUWAS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466372": {
+    "playerId": "466372",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Gervane KASTANEER",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

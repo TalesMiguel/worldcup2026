@@ -1,0 +1,452 @@
+{
+  "433365": {
+    "playerId": "433365",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Aymen DAHMEN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433362": {
+    "playerId": "433362",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ali ABDI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433380": {
+    "playerId": "433380",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Montassar TALBI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433367": {
+    "playerId": "433367",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Omar Rekik",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411653": {
+    "playerId": "411653",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Dylan BRONN",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419189": {
+    "playerId": "419189",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Yan Valery",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433378": {
+    "playerId": "433378",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Hannibal MEJBRI",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411658": {
+    "playerId": "411658",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ellyes SKHIRI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433361": {
+    "playerId": "433361",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Anis SLIMANE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "504502": {
+    "playerId": "504502",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Sebastian TOUNEKTI",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482885": {
+    "playerId": "482885",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Elias SAAD",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520245": {
+    "playerId": "520245",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mouhib CHAMAKH",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "372294": {
+    "playerId": "372294",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Sabri BEN HESSEN",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "516043": {
+    "playerId": "516043",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Adam AROUS",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441362": {
+    "playerId": "441362",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mortadha BEN OUANES",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "425607": {
+    "playerId": "425607",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mohamed Amine BEN HMIDA",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506335": {
+    "playerId": "506335",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Moutaz NEFFATI",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520246": {
+    "playerId": "520246",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Raed CHIKHAOUI",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464484": {
+    "playerId": "464484",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Ismael GHARBI",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336459": {
+    "playerId": "336459",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Rani Khedira",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "512039": {
+    "playerId": "512039",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Khalil AYARI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479781": {
+    "playerId": "479781",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Mohamed HADJ MAHMOUD",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448662": {
+    "playerId": "448662",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Elias ACHOURI",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494374": {
+    "playerId": "494374",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Hazem MASTOURI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520247": {
+    "playerId": "520247",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Rayan ELLOUMI",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494375": {
+    "playerId": "494375",
+    "teamId": "43888",
+    "teamName": "Tunisia",
+    "playerName": "Firas CHAOUAT",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405530": {
+    "playerId": "405530",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Zion Suzuki",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "400511": {
+    "playerId": "400511",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kou ITAKURA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403274": {
+    "playerId": "403274",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Hiroki ITO",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403289": {
+    "playerId": "403289",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Takehiro TOMIYASU",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "400514": {
+    "playerId": "400514",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ao TANAKA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "391646": {
+    "playerId": "391646",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ritsu DOAN",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405522": {
+    "playerId": "405522",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keito Nakamura",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395321": {
+    "playerId": "395321",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Junya ITO",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448557": {
+    "playerId": "448557",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Daichi KAMADA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479294": {
+    "playerId": "479294",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kaishu SANO",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430413": {
+    "playerId": "430413",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ayase UEDA",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403305": {
+    "playerId": "403305",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keisuke OSAKO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "511710": {
+    "playerId": "511710",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Tomoki HAYAKAWA",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "405528": {
+    "playerId": "405528",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yukinari Sugawara",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390541": {
+    "playerId": "390541",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Shogo TANIGUCHI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "291372": {
+    "playerId": "291372",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yuto NAGATOMO",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430401": {
+    "playerId": "430401",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Tsuyoshi Watanabe",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405527": {
+    "playerId": "405527",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ayumu SEKO",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "498455": {
+    "playerId": "498455",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Junnosuke SUZUKI",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430407": {
+    "playerId": "430407",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Daizen MAEDA",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485503": {
+    "playerId": "485503",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yuito SUZUKI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464339": {
+    "playerId": "464339",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keisuke GOTO",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403293": {
+    "playerId": "403293",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Koki OGAWA",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520218": {
+    "playerId": "520218",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kento SHIOGAI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -2041,11 +2041,76 @@
       "name": "Sweden",
       "abbreviation": "SWE"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "424051",
+        "playerName": "Brian BROBBEY",
+        "minute": "5'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "424051",
+        "playerName": "Brian BROBBEY",
+        "minute": "17'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "448152",
+        "playerName": "Cody GAKPO",
+        "minute": "47'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "448152",
+        "playerName": "Cody GAKPO",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "489518",
+        "playerName": "Crysencio SUMMERVILLE",
+        "minute": "89'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "441137",
+        "playerName": "Anthony ELANGA",
+        "minute": "59'",
+        "type": 2,
+        "teamId": "43970"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "483276",
+        "playerName": "Gabriel GUDMUNDSSON",
+        "minute": "53'",
+        "card": 1,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "489688",
+        "playerName": "Yasin AYARI",
+        "minute": "75'",
+        "card": 1,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "489689",
+        "playerName": "Lucas BERGVALL",
+        "minute": "80'",
+        "card": 1,
+        "teamId": "43970"
+      }
+    ]
   },
   {
     "idMatch": "400021469",
@@ -2064,10 +2129,32 @@
       "name": "Côte d'Ivoire",
       "abbreviation": "CIV"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "484851",
+        "playerName": "Deniz UNDAV",
+        "minute": "68'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "484851",
+        "playerName": "Deniz UNDAV",
+        "minute": "90'+4'",
+        "type": 2,
+        "teamId": "43948"
+      },
+      {
+        "playerId": "371609",
+        "playerName": "Franck KESSIE",
+        "minute": "30'",
+        "type": 2,
+        "teamId": "43854"
+      }
+    ],
     "bookings": []
   },
   {
@@ -2087,11 +2174,54 @@
       "name": "Curaçao",
       "abbreviation": "CUW"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "419005",
+        "playerName": "Jordy ALCIVAR",
+        "minute": "38'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "466340",
+        "playerName": "Leandro BACUNA",
+        "minute": "39'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "466317",
+        "playerName": "Juninho BACUNA",
+        "minute": "53'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "494989",
+        "playerName": "Livano COMENENCIA",
+        "minute": "56'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "431698",
+        "playerName": "Jurien GAARI",
+        "minute": "75'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "466372",
+        "playerName": "Gervane KASTANEER",
+        "minute": "90'+1'",
+        "card": 1,
+        "teamId": "1895293"
+      }
+    ]
   },
   {
     "idMatch": "400021475",
@@ -2110,10 +2240,39 @@
       "name": "Japan",
       "abbreviation": "JPN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448557",
+        "playerName": "Daichi KAMADA",
+        "minute": "4'",
+        "type": 2,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "430413",
+        "playerName": "Ayase UEDA",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "395321",
+        "playerName": "Junya ITO",
+        "minute": "69'",
+        "type": 2,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "430413",
+        "playerName": "Ayase UEDA",
+        "minute": "83'",
+        "type": 2,
+        "teamId": "43819"
+      }
+    ],
     "bookings": []
   },
   {
@@ -2998,9 +3157,9 @@
     "stageName": "Round of 32",
     "date": "2026-06-29T20:30:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43948",
+      "name": "Germany",
+      "abbreviation": "GER"
     },
     "awayTeam": {
       "id": "",

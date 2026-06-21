@@ -1,0 +1,461 @@
+{
+  "424081": {
+    "playerId": "424081",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Bart Verbruggen",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "397786": {
+    "playerId": "397786",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Virgil VAN DIJK",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489517": {
+    "playerId": "489517",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Jan Paul VAN HECKE",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448140": {
+    "playerId": "448140",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Micky VAN DE VEN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436612": {
+    "playerId": "436612",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Denzel DUMFRIES",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430176": {
+    "playerId": "430176",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Ryan GRAVENBERCH",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483526": {
+    "playerId": "483526",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Tijjani REIJNDERS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "422657": {
+    "playerId": "422657",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Frenkie DE JONG",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448152": {
+    "playerId": "448152",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Cody GAKPO",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433066": {
+    "playerId": "433066",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Donyell Malen",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424051": {
+    "playerId": "424051",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Brian BROBBEY",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506028": {
+    "playerId": "506028",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Robin ROEFS",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448151": {
+    "playerId": "448151",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Mark FLEKKEN",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483553": {
+    "playerId": "483553",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Lutsharel GEERTRUIDA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "336088": {
+    "playerId": "336088",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Nathan AKE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483481": {
+    "playerId": "483481",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Mats WIEFFER",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483512": {
+    "playerId": "483512",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Jorrel HATO",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402044": {
+    "playerId": "402044",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Marten DE ROON",
+    "shirtNumber": 3,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "478364": {
+    "playerId": "478364",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Justin KLUIVERT",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448157": {
+    "playerId": "448157",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Guus TIL",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448149": {
+    "playerId": "448149",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Teun KOOPMEINERS",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448159": {
+    "playerId": "448159",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Wout WEGHORST",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "336098": {
+    "playerId": "336098",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Memphis DEPAY",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448153": {
+    "playerId": "448153",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Noa LANG",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489518": {
+    "playerId": "489518",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Crysencio SUMMERVILLE",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "360496": {
+    "playerId": "360496",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Kristoffer NORDFELDT",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483304": {
+    "playerId": "483304",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf LAGERBIELKE",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395283": {
+    "playerId": "395283",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Victor LINDELOF",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483312": {
+    "playerId": "483312",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Isak HIEN",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483276": {
+    "playerId": "483276",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gabriel GUDMUNDSSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502945": {
+    "playerId": "502945",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander BERNHARDSSON",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502946": {
+    "playerId": "502946",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Benjamin NYGREN",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441135": {
+    "playerId": "441135",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jesper KARLSTROM",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489688": {
+    "playerId": "489688",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Yasin AYARI",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430150": {
+    "playerId": "430150",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander Isak",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483327": {
+    "playerId": "483327",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor GYOKERES",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489685": {
+    "playerId": "489685",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jacob WIDELL ZETTERSTROM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483264": {
+    "playerId": "483264",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor JOHANSSON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "514639": {
+    "playerId": "514639",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Herman JOHANSSON",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491255": {
+    "playerId": "491255",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Daniel SVENSSON",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483319": {
+    "playerId": "483319",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Hjalmar EKDAL",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441132": {
+    "playerId": "441132",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Carl STARFELT",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "493061": {
+    "playerId": "493061",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Eric SMITH",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "519958": {
+    "playerId": "519958",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Elliot STROUD",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489689": {
+    "playerId": "489689",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Lucas BERGVALL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395286": {
+    "playerId": "395286",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Ken SEMA",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433795": {
+    "playerId": "433795",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Mattias SVANBERG",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "503047": {
+    "playerId": "503047",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Besfort ZENELI",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441137": {
+    "playerId": "441137",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Anthony ELANGA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489691": {
+    "playerId": "489691",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf NILSSON",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514202": {
+    "playerId": "514202",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Taha ALI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
