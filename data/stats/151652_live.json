@@ -1,0 +1,452 @@
+{
+  "229498": {
+    "playerId": "229498",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Fernando MUSLERA",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419108": {
+    "playerId": "419108",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Sebastian CACERES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "368660": {
+    "playerId": "368660",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Guillermo VARELA",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402893": {
+    "playerId": "402893",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Mathias OLIVERA",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441623": {
+    "playerId": "441623",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Manuel UGARTE",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "386538": {
+    "playerId": "386538",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo BENTANCUR",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402884": {
+    "playerId": "402884",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Federico VALVERDE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402876": {
+    "playerId": "402876",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Agustin CANOBBIO",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419100": {
+    "playerId": "419100",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Maxi ARAUJO",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419134": {
+    "playerId": "419134",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Juan Manuel SANABRIA",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477536": {
+    "playerId": "477536",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Federico VINAS",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368664": {
+    "playerId": "368664",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Sergio ROCHET",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402897": {
+    "playerId": "402897",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Santiago MELE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368655": {
+    "playerId": "368655",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Jose Maria GIMENEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402895": {
+    "playerId": "402895",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Matias VINA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402904": {
+    "playerId": "402904",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Santiago BUENO",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402898": {
+    "playerId": "402898",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Nicolas DE LA CRUZ",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "473062": {
+    "playerId": "473062",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Emiliano MARTINEZ",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "439538": {
+    "playerId": "439538",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Joaquin PIQUEREZ",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419142": {
+    "playerId": "419142",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo ZALAZAR",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419126": {
+    "playerId": "419126",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Darwin NUNEZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "439956": {
+    "playerId": "439956",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Facundo PELLISTRI",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419132": {
+    "playerId": "419132",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Brian RODRIGUEZ",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "332897": {
+    "playerId": "332897",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo AGUIRRE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "364752": {
+    "playerId": "364752",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "VOZINHA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "409241": {
+    "playerId": "409241",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DINEY BORGES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477770": {
+    "playerId": "477770",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "PICO LOPES",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477832": {
+    "playerId": "477832",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "SIDNY LOPES CABRAL",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477847": {
+    "playerId": "477847",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "STEVEN MOREIRA",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477852": {
+    "playerId": "477852",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "KEVIN PINA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401894": {
+    "playerId": "401894",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JAMIRO MONTEIRO",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "373344": {
+    "playerId": "373344",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "GARRY RODRIGUES",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494314": {
+    "playerId": "494314",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "TELMO ARCANJO",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477862": {
+    "playerId": "477862",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "GILSON BENCHIMOL",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "355642": {
+    "playerId": "355642",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "RYAN MENDES",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "407114": {
+    "playerId": "407114",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "MARCIO ROSA",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "406281": {
+    "playerId": "406281",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "CJ DOS SANTOS",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "297266": {
+    "playerId": "297266",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "STOPIRA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477831": {
+    "playerId": "477831",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "LOGAN COSTA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482783": {
+    "playerId": "482783",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "WAGNER PINA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482780": {
+    "playerId": "482780",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "KELVIN PIRES",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477856": {
+    "playerId": "477856",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JOVANE CABRAL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477855": {
+    "playerId": "477855",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JOAO PAULO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477827": {
+    "playerId": "477827",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DEROY DUARTE",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "480966": {
+    "playerId": "480966",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "LAROS DUARTE",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494313": {
+    "playerId": "494313",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "YANNICK SEMEDO",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433724": {
+    "playerId": "433724",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "WILLY SEMEDO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401893": {
+    "playerId": "401893",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "NUNO DA COSTA",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477849": {
+    "playerId": "477849",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "HELIO VARELA",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482782": {
+    "playerId": "482782",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DAILON LIVRAMENTO",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

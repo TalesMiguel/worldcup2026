@@ -8528,7 +8528,7 @@
     "teamName": "Argentina",
     "playerName": "Marcos SENESI",
     "shirtNumber": 2,
-    "position": "Midfielder",
+    "position": "Defender",
     "fieldStatus": 0
   },
   "332847": {
@@ -11165,6 +11165,15 @@
     "teamName": "Colombia",
     "playerName": "Andres GOMEZ",
     "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390205": {
+    "playerId": "390205",
+    "teamId": "43978",
+    "teamName": "New Zealand",
+    "playerName": "Logan ROGERSON",
+    "shirtNumber": 7,
     "position": "Forward",
     "fieldStatus": 0
   }

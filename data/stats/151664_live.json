@@ -1,0 +1,470 @@
+{
+  "308300": {
+    "playerId": "308300",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Emiliano MARTINEZ",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402921": {
+    "playerId": "402921",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lisandro MARTINEZ",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431196": {
+    "playerId": "431196",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Cristian ROMERO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "418963": {
+    "playerId": "418963",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Facundo MEDINA",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402925": {
+    "playerId": "402925",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nahuel MOLINA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "428882": {
+    "playerId": "428882",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Rodrigo DE PAUL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430628": {
+    "playerId": "430628",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Alexis MAC ALLISTER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448252": {
+    "playerId": "448252",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Enzo FERNANDEZ",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "229397": {
+    "playerId": "229397",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lionel MESSI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418975": {
+    "playerId": "418975",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Thiago ALMADA",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402920": {
+    "playerId": "402920",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Lautaro MARTINEZ",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430624": {
+    "playerId": "430624",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Juan MUSSO",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "394824": {
+    "playerId": "394824",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Geronimo RULLI",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402934": {
+    "playerId": "402934",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Marcos SENESI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308322": {
+    "playerId": "308322",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nicolas TAGLIAFICO",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402926": {
+    "playerId": "402926",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Gonzalo MONTIEL",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "310116": {
+    "playerId": "310116",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nicolas OTAMENDI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332847": {
+    "playerId": "332847",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Leandro PAREDES",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463661": {
+    "playerId": "463661",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Valentin BARCO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395414": {
+    "playerId": "395414",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Giovani Lo Celso",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389485": {
+    "playerId": "389485",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Exequiel PALACIOS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430631": {
+    "playerId": "430631",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nico GONZALEZ",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "416081": {
+    "playerId": "416081",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Julian ALVAREZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485595": {
+    "playerId": "485595",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Giuliano SIMEONE",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441422": {
+    "playerId": "441422",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Nico PAZ",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495054": {
+    "playerId": "495054",
+    "teamId": "43922",
+    "teamName": "Argentina",
+    "playerName": "Jose Manuel LOPEZ",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "371739": {
+    "playerId": "371739",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alexander SCHLAGER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "405263": {
+    "playerId": "405263",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Kevin Danso",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441067": {
+    "playerId": "441067",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Stefan POSCH",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "316002": {
+    "playerId": "316002",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "David ALABA",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385531": {
+    "playerId": "385531",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Xaver Schlager",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441088": {
+    "playerId": "441088",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Nicolas SEIWALD",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "358241": {
+    "playerId": "358241",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marcel SABITZER",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463283": {
+    "playerId": "463283",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Romano SCHMID",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "385259": {
+    "playerId": "385259",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Konrad LAIMER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "520036": {
+    "playerId": "520036",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Paul WANNER",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401131": {
+    "playerId": "401131",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Michael Gregoritsch",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520034": {
+    "playerId": "520034",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Florian WIEGELE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441065": {
+    "playerId": "441065",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Patrick PENTZ",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "520035": {
+    "playerId": "520035",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "David AFFENGRUBER",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "372243": {
+    "playerId": "372243",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Philipp Lienhart",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463288": {
+    "playerId": "463288",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Phillip MWENE",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463287": {
+    "playerId": "463287",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marco FRIEDL",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491269": {
+    "playerId": "491269",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Michael SVOBODA",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385248": {
+    "playerId": "385248",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Florian GRILLITSCH",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463800": {
+    "playerId": "463800",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Carney CHUKWUEMEKA",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441068": {
+    "playerId": "441068",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Dejan LJUBICIC",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463282": {
+    "playerId": "463282",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alexander PRASS",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "375600": {
+    "playerId": "375600",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Alessandro SCHOEPF",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "299200": {
+    "playerId": "299200",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Marko ARNAUTOVIC",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430100": {
+    "playerId": "430100",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Sasa KALAJDZIC",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463286": {
+    "playerId": "463286",
+    "teamId": "43934",
+    "teamName": "Austria",
+    "playerName": "Patrick WIMMER",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -2178,50 +2178,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "419005",
-        "playerName": "Jordy ALCIVAR",
-        "minute": "38'",
-        "card": 1,
-        "teamId": "43927"
-      },
-      {
-        "playerId": "466340",
-        "playerName": "Leandro BACUNA",
-        "minute": "39'",
-        "card": 1,
-        "teamId": "1895293"
-      },
-      {
-        "playerId": "466317",
-        "playerName": "Juninho BACUNA",
-        "minute": "53'",
-        "card": 1,
-        "teamId": "1895293"
-      },
-      {
-        "playerId": "494989",
-        "playerName": "Livano COMENENCIA",
-        "minute": "56'",
-        "card": 1,
-        "teamId": "1895293"
-      },
-      {
-        "playerId": "431698",
-        "playerName": "Jurien GAARI",
-        "minute": "75'",
-        "card": 1,
-        "teamId": "1895293"
-      },
-      {
-        "playerId": "466372",
-        "playerName": "Gervane KASTANEER",
-        "minute": "90'+1'",
-        "card": 1,
-        "teamId": "1895293"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021475",
@@ -2292,11 +2249,55 @@
       "name": "Saudi Arabia",
       "abbreviation": "KSA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 4,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "484320",
+        "playerName": "Lamine YAMAL",
+        "minute": "10'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430751",
+        "playerName": "Mikel OYARZABAL",
+        "minute": "21'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430751",
+        "playerName": "Mikel OYARZABAL",
+        "minute": "24'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "403335",
+        "playerName": "",
+        "minute": "49'",
+        "type": 3,
+        "teamId": "43969"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "339745",
+        "playerName": "SALEM ALDAWSARI",
+        "minute": "30'",
+        "card": 1,
+        "teamId": "43835"
+      },
+      {
+        "playerId": "407993",
+        "playerName": "MOHAMED KANNO",
+        "minute": "60'",
+        "card": 1,
+        "teamId": "43835"
+      }
+    ]
   },
   {
     "idMatch": "400021477",
@@ -2315,11 +2316,33 @@
       "name": "IR Iran",
       "abbreviation": "IRN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "358112",
+        "playerName": "Romelu LUKAKU",
+        "minute": "3'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "514166",
+        "playerName": "Nathan NGOY",
+        "minute": "66'",
+        "card": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "371736",
+        "playerName": "Saeid EZATOLAHI",
+        "minute": "33'",
+        "card": 1,
+        "teamId": "43817"
+      }
+    ]
   },
   {
     "idMatch": "400021487",
@@ -2338,11 +2361,69 @@
       "name": "Cabo Verde",
       "abbreviation": "CPV"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "419100",
+        "playerName": "Maxi ARAUJO",
+        "minute": "44'",
+        "type": 2,
+        "teamId": "43930"
+      },
+      {
+        "playerId": "402876",
+        "playerName": "Agustin CANOBBIO",
+        "minute": "45'+6'",
+        "type": 2,
+        "teamId": "43930"
+      },
+      {
+        "playerId": "477852",
+        "playerName": "KEVIN PINA",
+        "minute": "21'",
+        "type": 2,
+        "teamId": "43850"
+      },
+      {
+        "playerId": "477849",
+        "playerName": "HELIO VARELA",
+        "minute": "61'",
+        "type": 2,
+        "teamId": "43850"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "386538",
+        "playerName": "Rodrigo BENTANCUR",
+        "minute": "20'",
+        "card": 1,
+        "teamId": "43930"
+      },
+      {
+        "playerId": "402893",
+        "playerName": "Mathias OLIVERA",
+        "minute": "58'",
+        "card": 1,
+        "teamId": "43930"
+      },
+      {
+        "playerId": "477832",
+        "playerName": "SIDNY LOPES CABRAL",
+        "minute": "5'",
+        "card": 1,
+        "teamId": "43850"
+      },
+      {
+        "playerId": "409241",
+        "playerName": "DINEY BORGES",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43850"
+      }
+    ]
   },
   {
     "idMatch": "400021480",
@@ -2361,11 +2442,62 @@
       "name": "Egypt",
       "abbreviation": "EGY"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "463580",
+        "playerName": "Finn SURMAN",
+        "minute": "15'",
+        "type": 2,
+        "teamId": "43978"
+      },
+      {
+        "playerId": "483161",
+        "playerName": "MOSTAFA ZICO",
+        "minute": "58'",
+        "type": 2,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "344654",
+        "playerName": "MOHAMED SALAH",
+        "minute": "67'",
+        "type": 2,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "363863",
+        "playerName": "TREZEGUET",
+        "minute": "82'",
+        "type": 2,
+        "teamId": "43855"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "390209",
+        "playerName": "Sarpreet SINGH",
+        "minute": "20'",
+        "card": 1,
+        "teamId": "43978"
+      },
+      {
+        "playerId": "390196",
+        "playerName": "Callum McCOWATT",
+        "minute": "34'",
+        "card": 1,
+        "teamId": "43978"
+      },
+      {
+        "playerId": "433469",
+        "playerName": "MOHANAD LASHIN",
+        "minute": "17'",
+        "card": 1,
+        "teamId": "43855"
+      }
+    ]
   },
   {
     "idMatch": "400021494",
@@ -2384,9 +2516,9 @@
       "name": "Austria",
       "abbreviation": "AUT"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 3,
     "goals": [],
     "bookings": []
   },

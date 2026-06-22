@@ -328,51 +328,51 @@
     "groupName": "Group G",
     "rows": [
       {
-        "teamId": "43817",
-        "teamName": "IR Iran",
-        "played": 1,
-        "won": 0,
+        "teamId": "43855",
+        "teamName": "Egypt",
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 2,
+        "goalsFor": 4,
         "goalsAgainst": 2,
-        "goalDiff": 0,
-        "points": 1
+        "goalDiff": 2,
+        "points": 4
       },
       {
-        "teamId": "43978",
-        "teamName": "New Zealand",
-        "played": 1,
+        "teamId": "43817",
+        "teamName": "IR Iran",
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goalsFor": 2,
         "goalsAgainst": 2,
         "goalDiff": 0,
-        "points": 1
+        "points": 2
       },
       {
         "teamId": "43935",
         "teamName": "Belgium",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goalsFor": 1,
         "goalsAgainst": 1,
         "goalDiff": 0,
-        "points": 1
+        "points": 2
       },
       {
-        "teamId": "43855",
-        "teamName": "Egypt",
-        "played": 1,
+        "teamId": "43978",
+        "teamName": "New Zealand",
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDiff": 0,
+        "lost": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "goalDiff": -2,
         "points": 1
       }
     ]
@@ -382,51 +382,51 @@
     "groupName": "Group H",
     "rows": [
       {
-        "teamId": "43835",
-        "teamName": "Saudi Arabia",
-        "played": 1,
-        "won": 0,
+        "teamId": "43969",
+        "teamName": "Spain",
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDiff": 0,
-        "points": 1
+        "goalsFor": 4,
+        "goalsAgainst": 0,
+        "goalDiff": 4,
+        "points": 4
       },
       {
         "teamId": "43930",
         "teamName": "Uruguay",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 3,
         "goalDiff": 0,
-        "points": 1
-      },
-      {
-        "teamId": "43969",
-        "teamName": "Spain",
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDiff": 0,
-        "points": 1
+        "points": 2
       },
       {
         "teamId": "43850",
         "teamName": "Cabo Verde",
-        "played": 1,
+        "played": 2,
+        "won": 0,
+        "drawn": 2,
+        "lost": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 2
+      },
+      {
+        "teamId": "43835",
+        "teamName": "Saudi Arabia",
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDiff": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 5,
+        "goalDiff": -4,
         "points": 1
       }
     ]
@@ -492,26 +492,26 @@
       {
         "teamId": "43922",
         "teamName": "Argentina",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 3,
         "goalsAgainst": 0,
         "goalDiff": 3,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43934",
         "teamName": "Austria",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 3,
         "goalsAgainst": 1,
         "goalDiff": 2,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43820",
