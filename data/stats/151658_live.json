@@ -1,0 +1,470 @@
+{
+  "373235": {
+    "playerId": "373235",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Orjan NYLAND",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483516": {
+    "playerId": "483516",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristoffer AJER",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483505": {
+    "playerId": "483505",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "David MOLLER WOLFE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491244": {
+    "playerId": "491244",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Torbjorn HEGGEM",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "404645": {
+    "playerId": "404645",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander BERGE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "400716": {
+    "playerId": "400716",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Martin ODEGAARD",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483497": {
+    "playerId": "483497",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik AURSNES",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398588": {
+    "playerId": "398588",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Alexander SORLOTH",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419652": {
+    "playerId": "419652",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Erling HAALAND",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483448": {
+    "playerId": "483448",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Antonio NUSA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483496": {
+    "playerId": "483496",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Julian RYERSON",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514479": {
+    "playerId": "514479",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander TANGVIK",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483535": {
+    "playerId": "483535",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Egil SELVIK",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419672": {
+    "playerId": "419672",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Leo OSTIGARD",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483530": {
+    "playerId": "483530",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik Andre BJORKAN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494625": {
+    "playerId": "494625",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Marcus HOLMGREN PEDERSEN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489696": {
+    "playerId": "489696",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sondre LANGAS",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520112": {
+    "playerId": "520112",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Henrik FALCHENER",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433067": {
+    "playerId": "433067",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Morten Thorsby",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483442": {
+    "playerId": "483442",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Patrick BERG",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419681": {
+    "playerId": "419681",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristian Thorstvedt",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494627": {
+    "playerId": "494627",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Thelo AASGAARD",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494626": {
+    "playerId": "494626",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Andreas SCHJELDERUP",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477470": {
+    "playerId": "477470",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Oscar BOBB",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419654": {
+    "playerId": "419654",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jens Petter HAUGE",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419662": {
+    "playerId": "419662",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jorgen STRAND LARSEN",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433806": {
+    "playerId": "433806",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Edouard MENDY",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "339820": {
+    "playerId": "339820",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Kalidou KOULIBALY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403642": {
+    "playerId": "403642",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Krepin DIATTA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430690": {
+    "playerId": "430690",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Moussa Niakhate",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464865": {
+    "playerId": "464865",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "El Hadji Malick DIOUF",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332314": {
+    "playerId": "332314",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Idrissa Gana GUEYE",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464842": {
+    "playerId": "464842",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Lamine CAMARA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431788": {
+    "playerId": "431788",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pape GUEYE",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "353790": {
+    "playerId": "353790",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Sadio MANE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418795": {
+    "playerId": "418795",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Nicolas JACKSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "401889": {
+    "playerId": "401889",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ismaila SARR",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494277": {
+    "playerId": "494277",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Yehvann DIOUF",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448821": {
+    "playerId": "448821",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Mory DIAW",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "499800": {
+    "playerId": "499800",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Mamadou SARR",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "370171": {
+    "playerId": "370171",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Abdoulaye Seck",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430671": {
+    "playerId": "430671",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ismail JAKOBS",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494279": {
+    "playerId": "494279",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Antoine MENDY",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448825": {
+    "playerId": "448825",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pathe CISS",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "418798": {
+    "playerId": "418798",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pape Matar SARR",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486130": {
+    "playerId": "486130",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Habib DIARRA",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523354": {
+    "playerId": "523354",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Bara Sapoko NDIAYE",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484698": {
+    "playerId": "484698",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Assane DIAO",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418781": {
+    "playerId": "418781",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Bamba DIENG",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486168": {
+    "playerId": "486168",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Cherif NDIAYE",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448815": {
+    "playerId": "448815",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Iliman NDIAYE",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "496358": {
+    "playerId": "496358",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ibrahim MBAYE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

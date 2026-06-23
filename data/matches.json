@@ -2320,29 +2320,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "358112",
-        "playerName": "Romelu LUKAKU",
-        "minute": "3'",
-        "card": 1,
-        "teamId": "43935"
-      },
-      {
-        "playerId": "514166",
-        "playerName": "Nathan NGOY",
-        "minute": "66'",
-        "card": 2,
-        "teamId": "43935"
-      },
-      {
-        "playerId": "371736",
-        "playerName": "Saeid EZATOLAHI",
-        "minute": "33'",
-        "card": 1,
-        "teamId": "43817"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021487",
@@ -2516,9 +2494,9 @@
       "name": "Austria",
       "abbreviation": "AUT"
     },
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
-    "status": 3,
+    "status": 0,
     "goals": [],
     "bookings": []
   },
@@ -2539,11 +2517,41 @@
       "name": "Iraq",
       "abbreviation": "IRQ"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "14'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "398680",
+        "playerName": "Ousmane DEMBELE",
+        "minute": "66'",
+        "type": 2,
+        "teamId": "43946"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "433074",
+        "playerName": "AMIR ALAMMARI",
+        "minute": "6'",
+        "card": 1,
+        "teamId": "43818"
+      }
+    ]
   },
   {
     "idMatch": "400021491",
@@ -2562,10 +2570,46 @@
       "name": "Senegal",
       "abbreviation": "SEN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "494625",
+        "playerName": "Marcus HOLMGREN PEDERSEN",
+        "minute": "43'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "48'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "58'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "401889",
+        "playerName": "Ismaila SARR",
+        "minute": "53'",
+        "type": 2,
+        "teamId": "43879"
+      },
+      {
+        "playerId": "401889",
+        "playerName": "Ismaila SARR",
+        "minute": "90'+3'",
+        "type": 2,
+        "teamId": "43879"
+      }
+    ],
     "bookings": []
   },
   {
@@ -2585,11 +2629,48 @@
       "name": "Algeria",
       "abbreviation": "ALG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "433534",
+        "playerName": "NIZAR ALRASHDAN",
+        "minute": "36'",
+        "type": 2,
+        "teamId": "43820"
+      },
+      {
+        "playerId": "520071",
+        "playerName": "Nadhir BENBOUALI",
+        "minute": "69'",
+        "type": 2,
+        "teamId": "43843"
+      },
+      {
+        "playerId": "405877",
+        "playerName": "Amine GOUIRI",
+        "minute": "82'",
+        "type": 2,
+        "teamId": "43843"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "489550",
+        "playerName": "HUSAM ABUDAHAB",
+        "minute": "64'",
+        "card": 1,
+        "teamId": "43820"
+      },
+      {
+        "playerId": "433679",
+        "playerName": "Ramiz ZERROUKI",
+        "minute": "44'",
+        "card": 1,
+        "teamId": "43843"
+      }
+    ]
   },
   {
     "idMatch": "400021503",
@@ -3565,9 +3646,9 @@
     "stageName": "Round of 32",
     "date": "2026-07-03T22:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
     },
     "awayTeam": {
       "id": "",
