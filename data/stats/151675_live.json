@@ -1,0 +1,470 @@
+{
+  "441241": {
+    "playerId": "441241",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Orlando MOSQUERA",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441242": {
+    "playerId": "441242",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Cesar BLACKMAN",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "418715": {
+    "playerId": "418715",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Jose CORDOBA",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "480310": {
+    "playerId": "480310",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Jiovany RAMOS",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "418729": {
+    "playerId": "418729",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Carlos HARVEY",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441240": {
+    "playerId": "441240",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Andres ANDRADE",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385031": {
+    "playerId": "385031",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Amir MURILLO",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395581": {
+    "playerId": "395581",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Cristian MARTINEZ",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411176": {
+    "playerId": "411176",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Jose Luis RODRIGUEZ",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "400416": {
+    "playerId": "400416",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Edgar Yoel BARCENAS",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411174": {
+    "playerId": "411174",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Jose FAJARDO",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "267702": {
+    "playerId": "267702",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Luis MEJIA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441402": {
+    "playerId": "441402",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Cesar SAMUDIO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "385030": {
+    "playerId": "385030",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Fidel ESCOBAR",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "480313": {
+    "playerId": "480313",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Edgardo FARINA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "337232": {
+    "playerId": "337232",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Eric DAVIS",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "344582": {
+    "playerId": "344582",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Roderick MILLER",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441239": {
+    "playerId": "441239",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Jorge GUTIERREZ",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385833": {
+    "playerId": "385833",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Adalberto CARRASQUILLA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "372342": {
+    "playerId": "372342",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Ismael DIAZ",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "271116": {
+    "playerId": "271116",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Alberto QUINTERO",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "269514": {
+    "playerId": "269514",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Anibal GODOY",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441243": {
+    "playerId": "441243",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Cesar YANIS",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "418747": {
+    "playerId": "418747",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Tomas RODRIGUEZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "337251": {
+    "playerId": "337251",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Cecilio Waterman",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466669": {
+    "playerId": "466669",
+    "teamId": "43914",
+    "teamName": "Panama",
+    "playerName": "Azarias LONDONO",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "369029": {
+    "playerId": "369029",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Dominik LIVAKOVIC",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433667": {
+    "playerId": "433667",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Josip STANISIC",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448174": {
+    "playerId": "448174",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Marin PONGRACIC",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448180": {
+    "playerId": "448180",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Josko GVARDIOL",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448171": {
+    "playerId": "448171",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Josip SUTALO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "339987": {
+    "playerId": "339987",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Mateo KOVACIC",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "241559": {
+    "playerId": "241559",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Luka MODRIC",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482774": {
+    "playerId": "482774",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Martin BATURINA",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "359381": {
+    "playerId": "359381",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Ivan PERISIC",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "482931": {
+    "playerId": "482931",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Marco PASALIC",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "389754": {
+    "playerId": "389754",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Petar Musa",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514526": {
+    "playerId": "514526",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Ivor PANDUR",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448179": {
+    "playerId": "448179",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Dominik KOTARSKI",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "372424": {
+    "playerId": "372424",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Duje CALETA-CAR",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448164": {
+    "playerId": "448164",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Kristijan JAKIC",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "499290": {
+    "playerId": "499290",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Luka VUSKOVIC",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389740": {
+    "playerId": "389740",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Martin ERLIC",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389753": {
+    "playerId": "389753",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Nikola Moro",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "409191": {
+    "playerId": "409191",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Nikola VLASIC",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "380005": {
+    "playerId": "380005",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Mario PASALIC",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485066": {
+    "playerId": "485066",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Petar SUCIC",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485065": {
+    "playerId": "485065",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Toni FRUK",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448160": {
+    "playerId": "448160",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Luka SUCIC",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336472": {
+    "playerId": "336472",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Andrej KRAMARIC",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430070": {
+    "playerId": "430070",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Ante BUDIMIR",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485068": {
+    "playerId": "485068",
+    "teamId": "43938",
+    "teamName": "Croatia",
+    "playerName": "Igor MATANOVIC",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

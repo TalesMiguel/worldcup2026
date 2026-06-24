@@ -1,0 +1,470 @@
+{
+  "360642": {
+    "playerId": "360642",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Camilo VARGAS",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "431200": {
+    "playerId": "431200",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Daniel MUNOZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441622": {
+    "playerId": "441622",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jhon LUCUMI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463902": {
+    "playerId": "463902",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Gustavo PUERTA",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "394500": {
+    "playerId": "394500",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Johan MOJICA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "386013": {
+    "playerId": "386013",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Davinson SANCHEZ",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "269058": {
+    "playerId": "269058",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "James RODRIGUEZ",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "470760": {
+    "playerId": "470760",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jhon ARIAS",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395550": {
+    "playerId": "395550",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jefferson LERMA",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "428886": {
+    "playerId": "428886",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Luis DIAZ",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "428905": {
+    "playerId": "428905",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Luis SUAREZ",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "228686": {
+    "playerId": "228686",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "David OSPINA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "385998": {
+    "playerId": "385998",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Alvaro MONTERO",
+    "shirtNumber": 24,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "315614": {
+    "playerId": "315614",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Santiago ARIAS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395552": {
+    "playerId": "395552",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Yerry MINA",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "476345": {
+    "playerId": "476345",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Willer DITTA",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "394376": {
+    "playerId": "394376",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Deiver MACHADO",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "470759": {
+    "playerId": "470759",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Kevin CASTANO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "473050": {
+    "playerId": "473050",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Richard RIOS",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "425580": {
+    "playerId": "425580",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jorge CARRASCAL",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489849": {
+    "playerId": "489849",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Juan PORTILLA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "356704": {
+    "playerId": "356704",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Juan QUINTERO",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369530": {
+    "playerId": "369530",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jhon CORDOBA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418881": {
+    "playerId": "418881",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Cucho HERNANDEZ",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405755": {
+    "playerId": "405755",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Jaminton CAMPAZ",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "492189": {
+    "playerId": "492189",
+    "teamId": "43926",
+    "teamName": "Colombia",
+    "playerName": "Andres GOMEZ",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441313": {
+    "playerId": "441313",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Lionel MPASI",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "426357": {
+    "playerId": "426357",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Aaron WAN-BISSAKA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504329": {
+    "playerId": "504329",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Steve KAPUADI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403063": {
+    "playerId": "403063",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Axel Tuanzebe",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "356532": {
+    "playerId": "356532",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Chancel MBEMBA",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436572": {
+    "playerId": "436572",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Arthur MASUAKU",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494458": {
+    "playerId": "494458",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Ngalayel MUKAU",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433076": {
+    "playerId": "433076",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Samuel Moutoussamy",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433161": {
+    "playerId": "433161",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Edo Kayembe",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336425": {
+    "playerId": "336425",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Cedric BAKAMBU",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441316": {
+    "playerId": "441316",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Yoane WISSA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486196": {
+    "playerId": "486196",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Timothy FAYULU",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "514171": {
+    "playerId": "514171",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Matthieu EPOLO",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "477829": {
+    "playerId": "477829",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Dylan BATUBINSIKA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477833": {
+    "playerId": "477833",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Joris KAYEMBE",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477853": {
+    "playerId": "477853",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Gedeon KALULU",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424119": {
+    "playerId": "424119",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Nathanael MBUKU",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441317": {
+    "playerId": "441317",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Theo BONGONDA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486147": {
+    "playerId": "486147",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Noah SADIKI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477864": {
+    "playerId": "477864",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Aaron TSHIBOLA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448128": {
+    "playerId": "448128",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Charles PICKEL",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "510989": {
+    "playerId": "510989",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Brian CIPENGA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "336439": {
+    "playerId": "336439",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Gael KAKUTA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "426506": {
+    "playerId": "426506",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Meschack ELIA",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477859": {
+    "playerId": "477859",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Fiston MAYELE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477835": {
+    "playerId": "477835",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Simon BANZA",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

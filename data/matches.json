@@ -2689,11 +2689,62 @@
       "name": "Uzbekistan",
       "abbreviation": "UZB"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "201200",
+        "playerName": "CRISTIANO RONALDO",
+        "minute": "6'",
+        "type": 2,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "433195",
+        "playerName": "NUNO MENDES",
+        "minute": "17'",
+        "type": 2,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "201200",
+        "playerName": "CRISTIANO RONALDO",
+        "minute": "39'",
+        "type": 2,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "479110",
+        "playerName": "",
+        "minute": "60'",
+        "type": 3,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "418550",
+        "playerName": "RAFAEL LEAO",
+        "minute": "87'",
+        "type": 2,
+        "teamId": "43963"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "489704",
+        "playerName": "RENATO VEIGA",
+        "minute": "68'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "371345",
+        "playerName": "Odiljon XAMROBEKOV",
+        "minute": "14'",
+        "card": 1,
+        "teamId": "44005"
+      }
+    ]
   },
   {
     "idMatch": "400021506",
@@ -2712,11 +2763,26 @@
       "name": "Ghana",
       "abbreviation": "GHA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "433097",
+        "playerName": "Declan RICE",
+        "minute": "41'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "411376",
+        "playerName": "Inaki WILLIAMS",
+        "minute": "60'",
+        "card": 1,
+        "teamId": "43860"
+      }
+    ]
   },
   {
     "idMatch": "400021511",
@@ -2735,11 +2801,34 @@
       "name": "Croatia",
       "abbreviation": "CRO"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430070",
+        "playerName": "Ante BUDIMIR",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43938"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "400416",
+        "playerName": "Edgar Yoel BARCENAS",
+        "minute": "61'",
+        "card": 1,
+        "teamId": "43914"
+      },
+      {
+        "playerId": "485066",
+        "playerName": "Petar SUCIC",
+        "minute": "90'+2'",
+        "card": 1,
+        "teamId": "43938"
+      }
+    ]
   },
   {
     "idMatch": "400021501",
@@ -2758,11 +2847,41 @@
       "name": "Congo DR",
       "abbreviation": "COD"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "431200",
+        "playerName": "Daniel MUNOZ",
+        "minute": "76'",
+        "type": 2,
+        "teamId": "43926"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "441622",
+        "playerName": "Jhon LUCUMI",
+        "minute": "56'",
+        "card": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "395550",
+        "playerName": "Jefferson LERMA",
+        "minute": "90'+4'",
+        "card": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "448128",
+        "playerName": "Charles PICKEL",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "20014"
+      }
+    ]
   },
   {
     "idMatch": "400021448",

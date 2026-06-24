@@ -11176,5 +11176,23 @@
     "shirtNumber": 7,
     "position": "Forward",
     "fieldStatus": 0
+  },
+  "439691": {
+    "playerId": "439691",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Trevoh CHALOBAH",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369089": {
+    "playerId": "369089",
+    "teamId": "43860",
+    "teamName": "Ghana",
+    "playerName": "Thomas PARTEY",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
   }
 }
