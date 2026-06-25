@@ -1,0 +1,461 @@
+{
+  "411301": {
+    "playerId": "411301",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Angus Gunn",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "401339": {
+    "playerId": "401339",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Andy ROBERTSON",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430147": {
+    "playerId": "430147",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Jack Hendry",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433694": {
+    "playerId": "433694",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Nathan PATTERSON",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "442431": {
+    "playerId": "442431",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Scott MCKENNA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433787": {
+    "playerId": "433787",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Scott McTominay",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401334": {
+    "playerId": "401334",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "John McGinn",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "442434": {
+    "playerId": "442434",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lewis FERGUSON",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484051": {
+    "playerId": "484051",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Kenny McLEAN",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485131": {
+    "playerId": "485131",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ben GANNON-DOAK",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484045": {
+    "playerId": "484045",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lawrence SHANKLAND",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "442429": {
+    "playerId": "442429",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Liam KELLY",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "215553": {
+    "playerId": "215553",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Craig GORDON",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "442428": {
+    "playerId": "442428",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Aaron HICKEY",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "359634": {
+    "playerId": "359634",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Grant Hanley",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401712": {
+    "playerId": "401712",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Kieran Tierney",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "442430": {
+    "playerId": "442430",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "John SOUTTAR",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484073": {
+    "playerId": "484073",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Dominic HYAM",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "337389": {
+    "playerId": "337389",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Anthony RALSTON",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "523007": {
+    "playerId": "523007",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Tyler FLETCHER",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430097": {
+    "playerId": "430097",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ryan Christie",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430098": {
+    "playerId": "430098",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Lyndon DYKES",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433191": {
+    "playerId": "433191",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Che Adams",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "442433": {
+    "playerId": "442433",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Ross STEWART",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495431": {
+    "playerId": "495431",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "George HIRST",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520217": {
+    "playerId": "520217",
+    "teamId": "43967",
+    "teamName": "Scotland",
+    "playerName": "Findlay CURTIS",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "308370": {
+    "playerId": "308370",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALISSON",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "430601": {
+    "playerId": "430601",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MAGALHAES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332946": {
+    "playerId": "332946",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MARQUINHOS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335656": {
+    "playerId": "335656",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "367981": {
+    "playerId": "367981",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DOUGLAS SANTOS",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308386": {
+    "playerId": "308386",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "CASEMIRO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430605": {
+    "playerId": "430605",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BRUNO GUIMARAES",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411726": {
+    "playerId": "411726",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUCAS PAQUETA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405742": {
+    "playerId": "405742",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "VINICIUS JUNIOR",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430609": {
+    "playerId": "430609",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MATHEUS CUNHA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "475036": {
+    "playerId": "475036",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAYAN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396315": {
+    "playerId": "396315",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "WEVERTON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395427": {
+    "playerId": "395427",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "335658": {
+    "playerId": "335658",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALEX SANDRO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431889": {
+    "playerId": "431889",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BREMER",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371956": {
+    "playerId": "371956",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LEO PEREIRA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430594": {
+    "playerId": "430594",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ROGER IBANEZ",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485069": {
+    "playerId": "485069",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON SILVA",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "394456": {
+    "playerId": "394456",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "FABINHO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429392": {
+    "playerId": "429392",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO SANTOS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "314197": {
+    "playerId": "314197",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "NEYMAR JR",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463746": {
+    "playerId": "463746",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ENDRICK",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448420": {
+    "playerId": "448420",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUIZ HENRIQUE",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430597": {
+    "playerId": "430597",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MARTINELLI",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519836": {
+    "playerId": "519836",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "IGOR THIAGO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

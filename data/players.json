@@ -11194,5 +11194,14 @@
     "shirtNumber": 5,
     "position": "Midfielder",
     "fieldStatus": 0
+  },
+  "314197": {
+    "playerId": "314197",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "NEYMAR JR",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
   }
 }

@@ -1,0 +1,443 @@
+{
+  "482978": {
+    "playerId": "482978",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nikola VASILJ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "376230": {
+    "playerId": "376230",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Sead KOLASINAC",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489520": {
+    "playerId": "489520",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nikola KATIC",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489521": {
+    "playerId": "489521",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Stjepan RADELJIC",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494639": {
+    "playerId": "494639",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Arjan MALIC",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482974": {
+    "playerId": "482974",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ivan BASIC",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "372436": {
+    "playerId": "372436",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ivan SUNJIC",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "436743": {
+    "playerId": "436743",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ermedin DEMIROVIC",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "300409": {
+    "playerId": "300409",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Edin DZEKO",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "504990": {
+    "playerId": "504990",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Kerim ALAJBEGOVIC",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464566": {
+    "playerId": "464566",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Esmir BAJRAKTAREVIC",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "522842": {
+    "playerId": "522842",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Mladen JURKAS",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "491228": {
+    "playerId": "491228",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Martin ZLOMISLIC",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "482969": {
+    "playerId": "482969",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nihad MUJAKIC",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430194": {
+    "playerId": "430194",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Dennis HADZIKADUNIC",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482976": {
+    "playerId": "482976",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amar DEDIC",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483966": {
+    "playerId": "483966",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Benjamin TAHIROVIC",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489523": {
+    "playerId": "489523",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Armin GIGOVIC",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494640": {
+    "playerId": "494640",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amar MEMIC",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430196": {
+    "playerId": "430196",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amir HADZIAHMETOVIC",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389886": {
+    "playerId": "389886",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Dzenis BURNIC",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "522846": {
+    "playerId": "522846",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ermin MAHMIC",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485063": {
+    "playerId": "485063",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Samed BAZDAR",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "482984": {
+    "playerId": "482984",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Haris TABAKOVIC",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519954": {
+    "playerId": "519954",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Jovo LUKIC",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419459": {
+    "playerId": "419459",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MAHMOUD ABUNADA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "416051": {
+    "playerId": "416051",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "PEDRO MIGUEL",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "512791": {
+    "playerId": "512791",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ISSA LAYE",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419473": {
+    "playerId": "419473",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "JASSEM GABER",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "385067": {
+    "playerId": "385067",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "BOUALEM KHOUKHI",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "386387": {
+    "playerId": "386387",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "SULTAN ALBRAKE",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "354861": {
+    "playerId": "354861",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "KARIM BOUDIAF",
+    "shirtNumber": 12,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433394": {
+    "playerId": "433394",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED FATHY",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429063": {
+    "playerId": "429063",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "EDMILSON JUNIOR",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "284190": {
+    "playerId": "284190",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "HASSAN ALHAYDOS",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386347": {
+    "playerId": "386347",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AKRAM AFIF",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419461": {
+    "playerId": "419461",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "SALAH ZAKARIA",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "416056": {
+    "playerId": "416056",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MESHAAL BARSHAM",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "356673": {
+    "playerId": "356673",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "LUCAS MENDES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "510991": {
+    "playerId": "510991",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AYOUB ALOUI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486614": {
+    "playerId": "486614",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ALHASHMI ALHUSSEIN",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "345059": {
+    "playerId": "345059",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ABDULAZIZ HATEM",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419436": {
+    "playerId": "419436",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED ALGANEHI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "353251": {
+    "playerId": "353251",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "AHMED ALAAELDIN",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "385070": {
+    "playerId": "385070",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MOHAMMED MUNTARI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419463": {
+    "playerId": "419463",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "YUSUF ABDURISAG",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386366": {
+    "playerId": "386366",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "ALMOEZ ALI",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486639": {
+    "playerId": "486639",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "TAHSIN MOHAMMED",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "498458": {
+    "playerId": "498458",
+    "teamId": "43834",
+    "teamName": "Qatar",
+    "playerName": "MOHAMED MANAI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

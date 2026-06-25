@@ -1,0 +1,461 @@
+{
+  "484012": {
+    "playerId": "484012",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Matej KOVAR",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441167": {
+    "playerId": "441167",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas HOLES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486080": {
+    "playerId": "486080",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Robin HRANAC",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "472908": {
+    "playerId": "472908",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Vladimir COUFAL",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441170": {
+    "playerId": "441170",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Ladislav KREJCI",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483936": {
+    "playerId": "483936",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "David DOUDERA",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486081": {
+    "playerId": "486081",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas CERV",
+    "shirtNumber": 12,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433668": {
+    "playerId": "433668",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Michal SADILEK",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433754": {
+    "playerId": "433754",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Adam HLOZEK",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486082": {
+    "playerId": "486082",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Pavel SULC",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519985": {
+    "playerId": "519985",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Denis VISINSKY",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441162": {
+    "playerId": "441162",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jindrich STANEK",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "511118": {
+    "playerId": "511118",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas HORNICEK",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433755": {
+    "playerId": "433755",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "David Zima",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "514334": {
+    "playerId": "514334",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Stepan CHALOUPEK",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441166": {
+    "playerId": "441166",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jaroslav ZELENY",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "358003": {
+    "playerId": "358003",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Vladimir DARIDA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484011": {
+    "playerId": "484011",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Lukas PROVOD",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "404885": {
+    "playerId": "404885",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas SOUCEK",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523097": {
+    "playerId": "523097",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Alexandr SOJKA",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "506775": {
+    "playerId": "506775",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Hugo SOCHUREK",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401481": {
+    "playerId": "401481",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Patrik Schick",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441171": {
+    "playerId": "441171",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Jan KUCHTA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484003": {
+    "playerId": "484003",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Mojmir CHYTIL",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483961": {
+    "playerId": "483961",
+    "teamId": "43995",
+    "teamName": "Czechia",
+    "playerName": "Tomas CHORY",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485070": {
+    "playerId": "485070",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Raul RANGEL",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "403596": {
+    "playerId": "403596",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Jorge SANCHEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395516": {
+    "playerId": "395516",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Cesar MONTES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "400634": {
+    "playerId": "400634",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Edson ALVAREZ",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441261": {
+    "playerId": "441261",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Israel REYES",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "500038": {
+    "playerId": "500038",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Mateo CHAVEZ",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430763": {
+    "playerId": "430763",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Luis ROMO",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "500037": {
+    "playerId": "500037",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Gilberto MORA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429157": {
+    "playerId": "429157",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Julian QUINONES",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386339": {
+    "playerId": "386339",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Guillermo MARTINEZ",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403585": {
+    "playerId": "403585",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Roberto ALVARADO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441260": {
+    "playerId": "441260",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Carlos ACEVEDO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "215285": {
+    "playerId": "215285",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Guillermo OCHOA",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "425701": {
+    "playerId": "425701",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Johan VASQUEZ",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402772": {
+    "playerId": "402772",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Jesus GALLARDO",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419518": {
+    "playerId": "419518",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Erik LIRA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "416576": {
+    "playerId": "416576",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Alvaro FIDALGO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "372090": {
+    "playerId": "372090",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Orbelin PINEDA",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "461177": {
+    "playerId": "461177",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Obed VARGAS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448051": {
+    "playerId": "448051",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Luis CHAVEZ",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464533": {
+    "playerId": "464533",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Brian GUTIERREZ",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "356731": {
+    "playerId": "356731",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Raul JIMENEZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430766": {
+    "playerId": "430766",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Alexis VEGA",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430759": {
+    "playerId": "430759",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Santiago GIMENEZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514336": {
+    "playerId": "514336",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Armando GONZALEZ",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406135": {
+    "playerId": "406135",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Cesar HUERTA",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

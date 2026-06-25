@@ -1,0 +1,443 @@
+{
+  "448107": {
+    "playerId": "448107",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Gregor KOBEL",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "398509": {
+    "playerId": "398509",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Nico ELVEDI",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405178": {
+    "playerId": "405178",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Manuel AKANJI",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "313559": {
+    "playerId": "313559",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ricardo RODRIGUEZ",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "510908": {
+    "playerId": "510908",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Luca JAQUEZ",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402021": {
+    "playerId": "402021",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Remo FREULER",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "502727": {
+    "playerId": "502727",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Johan MANZAMBI",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "311558": {
+    "playerId": "311558",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Granit XHAKA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411226": {
+    "playerId": "411226",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Djibril SOW",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "393480": {
+    "playerId": "393480",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Breel EMBOLO",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448131": {
+    "playerId": "448131",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ruben VARGAS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402022": {
+    "playerId": "402022",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Yvon MVOGO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "484862": {
+    "playerId": "484862",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Marvin KELLER",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "356412": {
+    "playerId": "356412",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Silvan WIDMER",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448136": {
+    "playerId": "448136",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Eray COEMERT",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484864": {
+    "playerId": "484864",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Aurele AMENDA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401448": {
+    "playerId": "401448",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Denis ZAKARIA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448120": {
+    "playerId": "448120",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Ardon JASHARI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433147": {
+    "playerId": "433147",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Michel AEBISCHER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448103": {
+    "playerId": "448103",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Fabian RIEDER",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448114": {
+    "playerId": "448114",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Dan NDOYE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448124": {
+    "playerId": "448124",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Christian FASSNACHT",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448127": {
+    "playerId": "448127",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Noah OKAFOR",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448112": {
+    "playerId": "448112",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Zeki AMDOUNI",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448104": {
+    "playerId": "448104",
+    "teamId": "43971",
+    "teamName": "Switzerland",
+    "playerName": "Cedric ITTEN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "331732": {
+    "playerId": "331732",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Maxime CREPEAU",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441252": {
+    "playerId": "441252",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Alistair JOHNSTON",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "480322": {
+    "playerId": "480322",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Luc DE FOUGEROLLES",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371958": {
+    "playerId": "371958",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Derek CORNELIUS",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431696": {
+    "playerId": "431696",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Richie LARYEA",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448390": {
+    "playerId": "448390",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Mathieu CHOINIERE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "423941": {
+    "playerId": "423941",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Nathan SALIBA",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390670": {
+    "playerId": "390670",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Cyle LARIN",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441257": {
+    "playerId": "441257",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Jonathan DAVID",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430138": {
+    "playerId": "430138",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Tajon BUCHANAN",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466687": {
+    "playerId": "466687",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Ali AHMED",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441255": {
+    "playerId": "441255",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Dayne ST. CLAIR",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "463817": {
+    "playerId": "463817",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Owen GOODMAN",
+    "shirtNumber": 18,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448402": {
+    "playerId": "448402",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Joel WATERMAN",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466585": {
+    "playerId": "466585",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Moise BOMBITO",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "412144": {
+    "playerId": "412144",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Alphonso DAVIES",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485064": {
+    "playerId": "485064",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Niko SIGUR",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433635": {
+    "playerId": "433635",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Stephen EUSTAQUIO",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441259": {
+    "playerId": "441259",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Liam MILLAR",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448411": {
+    "playerId": "448411",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Jacob SHAFFELBURG",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "370986": {
+    "playerId": "370986",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Jonathan OSORIO",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486929": {
+    "playerId": "486929",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Tani OLUWASEYI",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "493970": {
+    "playerId": "493970",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Promise DAVID",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "423933": {
+    "playerId": "423933",
+    "teamId": "43899",
+    "teamName": "Canada",
+    "playerName": "Jayden Nelson",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

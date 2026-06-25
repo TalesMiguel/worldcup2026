@@ -2767,22 +2767,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "433097",
-        "playerName": "Declan RICE",
-        "minute": "41'",
-        "card": 1,
-        "teamId": "43942"
-      },
-      {
-        "playerId": "411376",
-        "playerName": "Inaki WILLIAMS",
-        "minute": "60'",
-        "card": 1,
-        "teamId": "43860"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021511",
@@ -2900,11 +2885,55 @@
       "name": "Qatar",
       "abbreviation": "QAT"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "504990",
+        "playerName": "Kerim ALAJBEGOVIC",
+        "minute": "29'",
+        "type": 2,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "419459",
+        "playerName": "",
+        "minute": "34'",
+        "type": 3,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "522846",
+        "playerName": "Ermin MAHMIC",
+        "minute": "80'",
+        "type": 2,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "284190",
+        "playerName": "HASSAN ALHAYDOS",
+        "minute": "42'",
+        "type": 2,
+        "teamId": "43834"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "522846",
+        "playerName": "Ermin MAHMIC",
+        "minute": "82'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "433394",
+        "playerName": "AHMED FATHY",
+        "minute": "78'",
+        "card": 1,
+        "teamId": "43834"
+      }
+    ]
   },
   {
     "idMatch": "400021451",
@@ -2923,11 +2952,55 @@
       "name": "Canada",
       "abbreviation": "CAN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448131",
+        "playerName": "Ruben VARGAS",
+        "minute": "46'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "502727",
+        "playerName": "Johan MANZAMBI",
+        "minute": "57'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "493970",
+        "playerName": "Promise DAVID",
+        "minute": "76'",
+        "type": 2,
+        "teamId": "43899"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "311558",
+        "playerName": "Granit XHAKA",
+        "minute": "32'",
+        "card": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "390670",
+        "playerName": "Cyle LARIN",
+        "minute": "32'",
+        "card": 1,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "441259",
+        "playerName": "Liam MILLAR",
+        "minute": "87'",
+        "card": 1,
+        "teamId": "43899"
+      }
+    ]
   },
   {
     "idMatch": "400021452",
@@ -2946,11 +3019,76 @@
       "name": "Haiti",
       "abbreviation": "HAI"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 4,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "400721",
+        "playerName": "Achraf HAKIMI",
+        "minute": "39'",
+        "type": 2,
+        "teamId": "43872"
+      },
+      {
+        "playerId": "448598",
+        "playerName": "Ismael SAIBARI",
+        "minute": "45'+1'",
+        "type": 2,
+        "teamId": "43872"
+      },
+      {
+        "playerId": "433426",
+        "playerName": "Soufiane RAHIMI",
+        "minute": "78'",
+        "type": 2,
+        "teamId": "43872"
+      },
+      {
+        "playerId": "505112",
+        "playerName": "Gessime YASSINE",
+        "minute": "89'",
+        "type": 2,
+        "teamId": "43872"
+      },
+      {
+        "playerId": "356956",
+        "playerName": "Yassine BOUNOU",
+        "minute": "10'",
+        "type": 3,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "405879",
+        "playerName": "Wilson Isidor",
+        "minute": "43'",
+        "type": 2,
+        "teamId": "43908"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "295922",
+        "playerName": "Johny Placide",
+        "minute": "79'",
+        "card": 1,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "394993",
+        "playerName": "Duckens NAZON",
+        "minute": "79'",
+        "card": 1,
+        "teamId": "43908"
+      },
+      {
+        "playerId": "510757",
+        "playerName": "Josue CASIMIR",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43908"
+      }
+    ]
   },
   {
     "idMatch": "400021455",
@@ -2969,11 +3107,55 @@
       "name": "Brazil",
       "abbreviation": "BRA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "405742",
+        "playerName": "VINICIUS JUNIOR",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "405742",
+        "playerName": "VINICIUS JUNIOR",
+        "minute": "45'+3'",
+        "type": 2,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "430609",
+        "playerName": "MATHEUS CUNHA",
+        "minute": "60'",
+        "type": 2,
+        "teamId": "43924"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "430097",
+        "playerName": "Ryan Christie",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43967"
+      },
+      {
+        "playerId": "335656",
+        "playerName": "DANILO",
+        "minute": "62'",
+        "card": 1,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "394456",
+        "playerName": "FABINHO",
+        "minute": "82'",
+        "card": 1,
+        "teamId": "43924"
+      }
+    ]
   },
   {
     "idMatch": "400021445",
@@ -2992,11 +3174,34 @@
       "name": "Korea Republic",
       "abbreviation": "KOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "463234",
+        "playerName": "Thapelo MASEKO",
+        "minute": "63'",
+        "type": 2,
+        "teamId": "43883"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "395050",
+        "playerName": "Aubrey MODIBA",
+        "minute": "72'",
+        "card": 1,
+        "teamId": "43883"
+      },
+      {
+        "playerId": "430387",
+        "playerName": "CHO Guesung",
+        "minute": "78'",
+        "card": 1,
+        "teamId": "43822"
+      }
+    ]
   },
   {
     "idMatch": "400021444",
@@ -3015,11 +3220,41 @@
       "name": "Mexico",
       "abbreviation": "MEX"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "500038",
+        "playerName": "Mateo CHAVEZ",
+        "minute": "55'",
+        "type": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "429157",
+        "playerName": "Julian QUINONES",
+        "minute": "61'",
+        "type": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "416576",
+        "playerName": "Alvaro FIDALGO",
+        "minute": "90'+4'",
+        "type": 2,
+        "teamId": "43911"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "400634",
+        "playerName": "Edson ALVAREZ",
+        "minute": "63'",
+        "card": 1,
+        "teamId": "43911"
+      }
+    ]
   },
   {
     "idMatch": "400021468",
@@ -3443,14 +3678,14 @@
     "stageName": "Round of 32",
     "date": "2026-06-28T19:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43883",
+      "name": "South Africa",
+      "abbreviation": "RSA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43899",
+      "name": "Canada",
+      "abbreviation": "CAN"
     },
     "homeScore": null,
     "awayScore": null,
@@ -3466,9 +3701,9 @@
     "stageName": "Round of 32",
     "date": "2026-06-29T17:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43924",
+      "name": "Brazil",
+      "abbreviation": "BRA"
     },
     "awayTeam": {
       "id": "",
@@ -3517,9 +3752,9 @@
       "abbreviation": "TBD"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43872",
+      "name": "Morocco",
+      "abbreviation": "MAR"
     },
     "homeScore": null,
     "awayScore": null,
@@ -3719,9 +3954,9 @@
     "stageName": "Round of 32",
     "date": "2026-07-03T03:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
     },
     "awayTeam": {
       "id": "",

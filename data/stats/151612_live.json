@@ -1,0 +1,452 @@
+{
+  "395986": {
+    "playerId": "395986",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ronwen WILLIAMS",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395050": {
+    "playerId": "395050",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Aubrey MODIBA",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504199": {
+    "playerId": "504199",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Mbekezeli MBOKAZI",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463218": {
+    "playerId": "463218",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Khuliso MUDAU",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506039": {
+    "playerId": "506039",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ime OKON",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494248": {
+    "playerId": "494248",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thalente MBATHA",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390475": {
+    "playerId": "390475",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Sphephelo SITHOLE",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419223": {
+    "playerId": "419223",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Oswin APPOLLIS",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486161": {
+    "playerId": "486161",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Relebohile MOFOKENG",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463234": {
+    "playerId": "463234",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thapelo MASEKO",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430917": {
+    "playerId": "430917",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Evidence MAKGOPA",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494246": {
+    "playerId": "494246",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Sipho CHAINE",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395059": {
+    "playerId": "395059",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Ricardo GOSS",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "510850": {
+    "playerId": "510850",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Thabang MATULUDI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504192": {
+    "playerId": "504192",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Khulumani NDAMANE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "504200": {
+    "playerId": "504200",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Samukele KABINI",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463221": {
+    "playerId": "463221",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Nkosinathi SIBISI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502245": {
+    "playerId": "502245",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Olwethu MAKHANYA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419225": {
+    "playerId": "419225",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Bradley Cross",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463236": {
+    "playerId": "463236",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Jayden ADAMS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "504193": {
+    "playerId": "504193",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Tshepang MOREMI",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419211": {
+    "playerId": "419211",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Lyle FOSTER",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "481242": {
+    "playerId": "481242",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Iqraam RAYNERS",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506038": {
+    "playerId": "506038",
+    "teamId": "43883",
+    "teamName": "South Africa",
+    "playerName": "Kamogelo SEBELEBELE",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "274281": {
+    "playerId": "274281",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "KIM Seunggyu",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "423874": {
+    "playerId": "423874",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Hanbeom",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395088": {
+    "playerId": "395088",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "KIM Minjae",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "423880": {
+    "playerId": "423880",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Taeseok",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "429608": {
+    "playerId": "429608",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "SEOL Youngwoo",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "492315": {
+    "playerId": "492315",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Gihyuk",
+    "shirtNumber": 3,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395084": {
+    "playerId": "395084",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "HWANG Inbeom",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402817": {
+    "playerId": "402817",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "PAIK Seungho",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395083": {
+    "playerId": "395083",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "HWANG Heechan",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "418490": {
+    "playerId": "418490",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Kangin",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448586": {
+    "playerId": "448586",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "OH Hyeongyu",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402820": {
+    "playerId": "402820",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "SONG Bumkeun",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "397753": {
+    "playerId": "397753",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "JO Hyeonwoo",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "418485": {
+    "playerId": "418485",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "KIM Taehyeon",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "522282": {
+    "playerId": "522282",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "CHO Wije",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448580": {
+    "playerId": "448580",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "KIM Moonhwan ",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479316": {
+    "playerId": "479316",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "PARK Jinseob",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511828": {
+    "playerId": "511828",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "CASTROP Jens",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390525": {
+    "playerId": "390525",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Jaesung",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464374": {
+    "playerId": "464374",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "BAE Junho",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448585": {
+    "playerId": "448585",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "YANG Hyunjun ",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430385": {
+    "playerId": "430385",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "KIM Jingyu",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "423855": {
+    "playerId": "423855",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "EOM Jisung",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429600": {
+    "playerId": "429600",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "LEE Donggyeong",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "307849": {
+    "playerId": "307849",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "SON Heungmin",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430387": {
+    "playerId": "430387",
+    "teamId": "43822",
+    "teamName": "Korea Republic",
+    "playerName": "CHO Guesung",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
