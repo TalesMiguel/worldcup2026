@@ -3273,11 +3273,48 @@
       "name": "Côte d'Ivoire",
       "abbreviation": "CIV"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "402261",
+        "playerName": "Nicolas PEPE",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "43854"
+      },
+      {
+        "playerId": "402261",
+        "playerName": "Nicolas PEPE",
+        "minute": "64'",
+        "type": 2,
+        "teamId": "43854"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "466317",
+        "playerName": "Juninho BACUNA",
+        "minute": "75'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "466372",
+        "playerName": "Gervane KASTANEER",
+        "minute": "83'",
+        "card": 1,
+        "teamId": "1895293"
+      },
+      {
+        "playerId": "402261",
+        "playerName": "Nicolas PEPE",
+        "minute": "34'",
+        "card": 1,
+        "teamId": "43854"
+      }
+    ]
   },
   {
     "idMatch": "400021466",
@@ -3296,11 +3333,62 @@
       "name": "Germany",
       "abbreviation": "GER"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448312",
+        "playerName": "Nilson ANGULO",
+        "minute": "9'",
+        "type": 2,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "419020",
+        "playerName": "Gonzalo PLATA",
+        "minute": "77'",
+        "type": 2,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "404353",
+        "playerName": "Leroy SANE",
+        "minute": "2'",
+        "type": 2,
+        "teamId": "43948"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "424031",
+        "playerName": "Piero HINCAPIE",
+        "minute": "43'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "389784",
+        "playerName": "Alan FRANCO",
+        "minute": "50'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "419020",
+        "playerName": "Gonzalo PLATA",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "484849",
+        "playerName": "Aleksandar PAVLOVIC",
+        "minute": "44'",
+        "card": 1,
+        "teamId": "43948"
+      }
+    ]
   },
   {
     "idMatch": "400021473",
@@ -3319,10 +3407,39 @@
       "name": "Netherlands",
       "abbreviation": "NED"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "494374",
+        "playerName": "Hazem MASTOURI",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43888"
+      },
+      {
+        "playerId": "411658",
+        "playerName": "Ellyes SKHIRI",
+        "minute": "3'",
+        "type": 3,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "424051",
+        "playerName": "Brian BROBBEY",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "43960"
+      },
+      {
+        "playerId": "489517",
+        "playerName": "Jan Paul VAN HECKE",
+        "minute": "62'",
+        "type": 2,
+        "teamId": "43960"
+      }
+    ],
     "bookings": []
   },
   {
@@ -3342,11 +3459,48 @@
       "name": "Sweden",
       "abbreviation": "SWE"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430407",
+        "playerName": "Daizen MAEDA",
+        "minute": "56'",
+        "type": 2,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "441137",
+        "playerName": "Anthony ELANGA",
+        "minute": "62'",
+        "type": 2,
+        "teamId": "43970"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "390541",
+        "playerName": "Shogo TANIGUCHI",
+        "minute": "77'",
+        "card": 1,
+        "teamId": "43819"
+      },
+      {
+        "playerId": "483312",
+        "playerName": "Isak HIEN",
+        "minute": "32'",
+        "card": 1,
+        "teamId": "43970"
+      },
+      {
+        "playerId": "483327",
+        "playerName": "Viktor GYOKERES",
+        "minute": "84'",
+        "card": 1,
+        "teamId": "43970"
+      }
+    ]
   },
   {
     "idMatch": "400021461",
@@ -3365,11 +3519,26 @@
       "name": "Australia",
       "abbreviation": "AUS"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "463128",
+        "playerName": "Diego GOMEZ",
+        "minute": "77'",
+        "card": 1,
+        "teamId": "43928"
+      },
+      {
+        "playerId": "355775",
+        "playerName": "Jackson IRVINE",
+        "minute": "46'",
+        "card": 1,
+        "teamId": "43976"
+      }
+    ]
   },
   {
     "idMatch": "400021459",
@@ -3388,11 +3557,55 @@
       "name": "USA",
       "abbreviation": "USA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "484087",
+        "playerName": "Arda GULER",
+        "minute": "10'",
+        "type": 2,
+        "teamId": "43972"
+      },
+      {
+        "playerId": "484139",
+        "playerName": "Baris Alper YILMAZ",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43972"
+      },
+      {
+        "playerId": "336170",
+        "playerName": "Kaan Ayhan",
+        "minute": "90'+8'",
+        "type": 2,
+        "teamId": "43972"
+      },
+      {
+        "playerId": "390272",
+        "playerName": "Auston TRUSTY",
+        "minute": "3'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "499912",
+        "playerName": "Sebastian BERHALTER",
+        "minute": "49'",
+        "type": 2,
+        "teamId": "43921"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "499912",
+        "playerName": "Sebastian BERHALTER",
+        "minute": "19'",
+        "card": 1,
+        "teamId": "43921"
+      }
+    ]
   },
   {
     "idMatch": "400021493",
@@ -3706,9 +3919,9 @@
       "abbreviation": "BRA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43819",
+      "name": "Japan",
+      "abbreviation": "JPN"
     },
     "homeScore": null,
     "awayScore": null,
@@ -3747,9 +3960,9 @@
     "stageName": "Round of 32",
     "date": "2026-06-30T01:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43960",
+      "name": "Netherlands",
+      "abbreviation": "NED"
     },
     "awayTeam": {
       "id": "43872",
@@ -3770,9 +3983,9 @@
     "stageName": "Round of 32",
     "date": "2026-06-30T17:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43854",
+      "name": "Côte d'Ivoire",
+      "abbreviation": "CIV"
     },
     "awayTeam": {
       "id": "",
@@ -3890,9 +4103,9 @@
       "abbreviation": "USA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "44037",
+      "name": "Bosnia and Herzegovina",
+      "abbreviation": "BIH"
     },
     "homeScore": null,
     "awayScore": null,
@@ -3977,9 +4190,9 @@
     "stageName": "Round of 32",
     "date": "2026-07-03T18:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43976",
+      "name": "Australia",
+      "abbreviation": "AUS"
     },
     "awayTeam": {
       "id": "",

@@ -1,0 +1,470 @@
+{
+  "390650": {
+    "playerId": "390650",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Eloy ROOM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "431698": {
+    "playerId": "431698",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jurien GAARI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466350": {
+    "playerId": "466350",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sherel FLORANUS",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "511141": {
+    "playerId": "511141",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Armando OBISPO",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401023": {
+    "playerId": "401023",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Joshua BRENET",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506471": {
+    "playerId": "506471",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Deveron FONVILLE",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466317": {
+    "playerId": "466317",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juninho BACUNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494989": {
+    "playerId": "494989",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Livano COMENENCIA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466340": {
+    "playerId": "466340",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Leandro BACUNA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485347": {
+    "playerId": "485347",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tahith CHONG",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "407680": {
+    "playerId": "407680",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Juergen LOCADIA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466370": {
+    "playerId": "466370",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrick BODAK",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "466382": {
+    "playerId": "466382",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Trevor DOORNBUSCH",
+    "shirtNumber": 26,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "485379": {
+    "playerId": "485379",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Shurandy SAMBO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466361": {
+    "playerId": "466361",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Roshon VAN EIJMA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "398569": {
+    "playerId": "398569",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Riechedly Bazoer",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "466359": {
+    "playerId": "466359",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Godfried ROEMERATOE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485324": {
+    "playerId": "485324",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Arjany MARTHA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "466365": {
+    "playerId": "466365",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kevin FELIDA",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424047": {
+    "playerId": "424047",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jeremy Antonisse",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424056": {
+    "playerId": "424056",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Sontje HANSEN",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506473": {
+    "playerId": "506473",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Tyrese NOSLIN",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466352": {
+    "playerId": "466352",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Kenji GORRE",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466363": {
+    "playerId": "466363",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Jearl MARGARITHA",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466346": {
+    "playerId": "466346",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Brandley KUWAS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466372": {
+    "playerId": "466372",
+    "teamId": "1895293",
+    "teamName": "Curaçao",
+    "playerName": "Gervane KASTANEER",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405873": {
+    "playerId": "405873",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Yahia Fofana",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "477802": {
+    "playerId": "477802",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Ousmane DIOMANDE",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477825": {
+    "playerId": "477825",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Odilon KOSSOUNOU",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486260": {
+    "playerId": "486260",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Christopher OPERI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486317": {
+    "playerId": "486317",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Guela DOUE",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371609": {
+    "playerId": "371609",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Franck KESSIE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430831": {
+    "playerId": "430831",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Ibrahim SANGARE",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464103": {
+    "playerId": "464103",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Ange-Yoan BONNY",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "510922": {
+    "playerId": "510922",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Yan DIOMANDE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430822": {
+    "playerId": "430822",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Amad DIALLO",
+    "shirtNumber": 15,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402261": {
+    "playerId": "402261",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Nicolas PEPE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486259": {
+    "playerId": "486259",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Mohamed KONE",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "403090": {
+    "playerId": "403090",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Alban Lafont",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "407343": {
+    "playerId": "407343",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Ghislain KONAN",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430854": {
+    "playerId": "430854",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Wilfried SINGO",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486268": {
+    "playerId": "486268",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Emmanuel AGBADOU",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419172": {
+    "playerId": "419172",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Evan NDICKA",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335807": {
+    "playerId": "335807",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Jean Michael SERI",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405175": {
+    "playerId": "405175",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Seko Fofana",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430834": {
+    "playerId": "430834",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Parfait GUIAGON",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "514208": {
+    "playerId": "514208",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Christ Inao OULAI",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477778": {
+    "playerId": "477778",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Simon ADINGRA",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464133": {
+    "playerId": "464133",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Elye WAHI",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477777": {
+    "playerId": "477777",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Oumar DIAKITE",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485675": {
+    "playerId": "485675",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Evann GUESSAND",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506202": {
+    "playerId": "506202",
+    "teamId": "43854",
+    "teamName": "Côte d'Ivoire",
+    "playerName": "Bazoumana TOURE",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

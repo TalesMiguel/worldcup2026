@@ -168,50 +168,50 @@
       {
         "teamId": "43921",
         "teamName": "USA",
-        "played": 2,
+        "played": 3,
         "won": 2,
         "drawn": 0,
-        "lost": 0,
-        "goalsFor": 6,
-        "goalsAgainst": 1,
-        "goalDiff": 5,
+        "lost": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 4,
+        "goalDiff": 4,
         "points": 6
       },
       {
         "teamId": "43976",
         "teamName": "Australia",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "goalsFor": 2,
         "goalsAgainst": 2,
         "goalDiff": 0,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43928",
         "teamName": "Paraguay",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "goalsFor": 2,
         "goalsAgainst": 4,
         "goalDiff": -2,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43972",
         "teamName": "Türkiye",
-        "played": 2,
-        "won": 0,
+        "played": 3,
+        "won": 1,
         "drawn": 0,
         "lost": 2,
-        "goalsFor": 0,
-        "goalsAgainst": 3,
-        "goalDiff": -3,
-        "points": 0
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "goalDiff": -2,
+        "points": 3
       }
     ]
   },
@@ -222,49 +222,49 @@
       {
         "teamId": "43948",
         "teamName": "Germany",
-        "played": 2,
+        "played": 3,
         "won": 2,
         "drawn": 0,
-        "lost": 0,
-        "goalsFor": 9,
-        "goalsAgainst": 2,
-        "goalDiff": 7,
+        "lost": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 4,
+        "goalDiff": 6,
         "points": 6
       },
       {
         "teamId": "43854",
         "teamName": "Côte d'Ivoire",
-        "played": 2,
-        "won": 1,
+        "played": 3,
+        "won": 2,
         "drawn": 0,
         "lost": 1,
-        "goalsFor": 2,
+        "goalsFor": 4,
         "goalsAgainst": 2,
-        "goalDiff": 0,
-        "points": 3
+        "goalDiff": 2,
+        "points": 6
       },
       {
         "teamId": "43927",
         "teamName": "Ecuador",
-        "played": 2,
-        "won": 0,
+        "played": 3,
+        "won": 1,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 1,
-        "goalDiff": -1,
-        "points": 1
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 4
       },
       {
         "teamId": "1895293",
         "teamName": "Curaçao",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 1,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 1,
-        "goalsAgainst": 7,
-        "goalDiff": -6,
+        "goalsAgainst": 9,
+        "goalDiff": -8,
         "points": 1
       }
     ]
@@ -276,49 +276,49 @@
       {
         "teamId": "43960",
         "teamName": "Netherlands",
-        "played": 2,
-        "won": 1,
+        "played": 3,
+        "won": 2,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 7,
-        "goalsAgainst": 3,
-        "goalDiff": 4,
-        "points": 4
+        "goalsFor": 10,
+        "goalsAgainst": 4,
+        "goalDiff": 6,
+        "points": 7
       },
       {
         "teamId": "43819",
         "teamName": "Japan",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
-        "goalsFor": 6,
-        "goalsAgainst": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 3,
         "goalDiff": 4,
-        "points": 4
+        "points": 5
       },
       {
         "teamId": "43970",
         "teamName": "Sweden",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 6,
+        "goalsFor": 7,
+        "goalsAgainst": 7,
         "goalDiff": 0,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43888",
         "teamName": "Tunisia",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goalsFor": 1,
-        "goalsAgainst": 9,
-        "goalDiff": -8,
+        "lost": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 12,
+        "goalDiff": -10,
         "points": 0
       }
     ]

@@ -1,0 +1,461 @@
+{
+  "441181": {
+    "playerId": "441181",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ugurcan CAKIR",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "433072": {
+    "playerId": "433072",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Zeki CELIK",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484065": {
+    "playerId": "484065",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Eren ELMALI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484082": {
+    "playerId": "484082",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Abdulkerim BARDAKCI",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "406249": {
+    "playerId": "406249",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ozan KABAK",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389907": {
+    "playerId": "389907",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Salih OZCAN",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433118": {
+    "playerId": "433118",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Orkun KOKCU",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484087": {
+    "playerId": "484087",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Arda GULER",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484112": {
+    "playerId": "484112",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kenan YILDIZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484139": {
+    "playerId": "484139",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Baris Alper YILMAZ",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486076": {
+    "playerId": "486076",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Oguz AYDIN",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "360498": {
+    "playerId": "360498",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Mert GUNOK",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441180": {
+    "playerId": "441180",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Altay BAYINDIR",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "441179": {
+    "playerId": "441179",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Merih DEMIRAL",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401167": {
+    "playerId": "401167",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Caglar SOYUNCU",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430120": {
+    "playerId": "430120",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Mert MULDUR",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484113": {
+    "playerId": "484113",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ferdi KADIOGLU",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484072": {
+    "playerId": "484072",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Samet AKAYDIN",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369304": {
+    "playerId": "369304",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Hakan CALHANOGLU",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484092": {
+    "playerId": "484092",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Ismail YUKSEK",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336170": {
+    "playerId": "336170",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kaan Ayhan",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441188": {
+    "playerId": "441188",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Kerem AKTURKOGLU",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495347": {
+    "playerId": "495347",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Deniz GUL",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "472877": {
+    "playerId": "472877",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Irfan Can KAHVECI",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406231": {
+    "playerId": "406231",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Yunus AKGUN",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486074": {
+    "playerId": "486074",
+    "teamId": "43972",
+    "teamName": "Türkiye",
+    "playerName": "Can UZUN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448217": {
+    "playerId": "448217",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt TURNER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "390272": {
+    "playerId": "390272",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Auston TRUSTY",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436599": {
+    "playerId": "436599",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Miles ROBINSON",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419077": {
+    "playerId": "419077",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Mark McKENZIE",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "423700": {
+    "playerId": "423700",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Joe SCALLY",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419068": {
+    "playerId": "419068",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Giovanni REYNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390259": {
+    "playerId": "390259",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Weston McKENNIE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "499912": {
+    "playerId": "499912",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sebastian BERHALTER",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419082": {
+    "playerId": "419082",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Ricardo PEPI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419055": {
+    "playerId": "419055",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Brenden AARONSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406304": {
+    "playerId": "406304",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Timothy WEAH",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "499913": {
+    "playerId": "499913",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt FREESE",
+    "shirtNumber": 24,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464546": {
+    "playerId": "464546",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris BRADY",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "406280": {
+    "playerId": "406280",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sergino DEST",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419062": {
+    "playerId": "419062",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris RICHARDS",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441251": {
+    "playerId": "441251",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Antonee ROBINSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "339510": {
+    "playerId": "339510",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tim REAM",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464542": {
+    "playerId": "464542",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex FREEMAN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486390": {
+    "playerId": "486390",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Max ARFSTEN",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390238": {
+    "playerId": "390238",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tyler ADAMS",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448214": {
+    "playerId": "448214",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Malik TILLMAN",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390267": {
+    "playerId": "390267",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Christian PULISIC",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390276": {
+    "playerId": "390276",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Haji WRIGHT",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466624": {
+    "playerId": "466624",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Folarin BALOGUN",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390278": {
+    "playerId": "390278",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex ZENDEJAS",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
