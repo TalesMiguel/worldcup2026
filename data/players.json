@@ -11203,5 +11203,23 @@
     "shirtNumber": 10,
     "position": "Forward",
     "fieldStatus": 0
+  },
+  "419101": {
+    "playerId": "419101",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Ronald ARAUJO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "368652": {
+    "playerId": "368652",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Giorgian DE ARRASCAETA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
   }
 }

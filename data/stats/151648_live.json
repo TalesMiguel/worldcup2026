@@ -1,0 +1,452 @@
+{
+  "416906": {
+    "playerId": "416906",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOSTAFA SHOUBIR",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "408950": {
+    "playerId": "408950",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED HANY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "344661": {
+    "playerId": "344661",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "RAMY RABIA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "416902": {
+    "playerId": "416902",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ABDELMONEIM",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430477": {
+    "playerId": "430477",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "AHMED FATOUH",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430482": {
+    "playerId": "430482",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "EMAM ASHOUR",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483161": {
+    "playerId": "483161",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOSTAFA ZICO",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433469": {
+    "playerId": "433469",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHANAD LASHIN",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483183": {
+    "playerId": "483183",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MAHMOUD SABER",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "363863": {
+    "playerId": "363863",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "TREZEGUET",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "344654": {
+    "playerId": "344654",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED SALAH",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "408948": {
+    "playerId": "408948",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ELSHENAWY",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395860": {
+    "playerId": "395860",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MAHDY SOLIMAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "512079": {
+    "playerId": "512079",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MOHAMED ALAA",
+    "shirtNumber": 26,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "369267": {
+    "playerId": "369267",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "YASSER IBRAHIM",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "407022": {
+    "playerId": "407022",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "KARIM HAFEZ",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506124": {
+    "playerId": "506124",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "TAREK ALAA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433466": {
+    "playerId": "433466",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "NABIL DONGA",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "461788": {
+    "playerId": "461788",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "MARAWAN ATTIA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495488": {
+    "playerId": "495488",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "HAMZA ABDELKARIM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424106": {
+    "playerId": "424106",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "Haissem HASSAN",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430465": {
+    "playerId": "430465",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "IBRAHIM ADEL",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430476": {
+    "playerId": "430476",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "OMAR MARMOUSH",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433461": {
+    "playerId": "433461",
+    "teamId": "43855",
+    "teamName": "Egypt",
+    "playerName": "ZIZO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "380007": {
+    "playerId": "380007",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Alireza BEIRANVAND",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "346743": {
+    "playerId": "346743",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Shoja KHALILZADEH",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390537": {
+    "playerId": "390537",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Milad MOHAMMADI",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390534": {
+    "playerId": "390534",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Hossein KANANI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489603": {
+    "playerId": "489603",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ali NEMATI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "384797": {
+    "playerId": "384797",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ramin REZAEIAN",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371736": {
+    "playerId": "371736",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saeid EZATOLAHI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448497": {
+    "playerId": "448497",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mohammad MOHEBBI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411644": {
+    "playerId": "411644",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saman GHODDOS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482670": {
+    "playerId": "482670",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mohammad GHORBANI",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "388475": {
+    "playerId": "388475",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi TAREMI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448507": {
+    "playerId": "448507",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Payam NIAZMAND",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "314255": {
+    "playerId": "314255",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Hossein HOSSEINI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448505": {
+    "playerId": "448505",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Saleh HARDANI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "288961": {
+    "playerId": "288961",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ehsan HAJISAFI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "481181": {
+    "playerId": "481181",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Arya YOUSEFI",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494429": {
+    "playerId": "494429",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Danial IRI",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "379886": {
+    "playerId": "379886",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Alireza JAHANBAKHSH",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "406595": {
+    "playerId": "406595",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Roozbeh CHESHMI",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390535": {
+    "playerId": "390535",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi TORABI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "475921": {
+    "playerId": "475921",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Amirmohammad RAZAGHINIA",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403236": {
+    "playerId": "403236",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Mehdi GHAYEDI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "416989": {
+    "playerId": "416989",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Ali Alipour",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405639": {
+    "playerId": "405639",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Amirhossein Hosseinzadeh",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "481180": {
+    "playerId": "481180",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Shahriyar MOGHANLOO",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519837": {
+    "playerId": "519837",
+    "teamId": "43817",
+    "teamName": "IR Iran",
+    "playerName": "Dennis DARGAHI",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

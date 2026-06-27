@@ -1,0 +1,470 @@
+{
+  "229498": {
+    "playerId": "229498",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Fernando MUSLERA",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419108": {
+    "playerId": "419108",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Sebastian CACERES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "368660": {
+    "playerId": "368660",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Guillermo VARELA",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402893": {
+    "playerId": "402893",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Mathias OLIVERA",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441623": {
+    "playerId": "441623",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Manuel UGARTE",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "386538": {
+    "playerId": "386538",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo BENTANCUR",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402884": {
+    "playerId": "402884",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Federico VALVERDE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402876": {
+    "playerId": "402876",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Agustin CANOBBIO",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419100": {
+    "playerId": "419100",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Maxi ARAUJO",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419134": {
+    "playerId": "419134",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Juan Manuel SANABRIA",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419126": {
+    "playerId": "419126",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Darwin NUNEZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368664": {
+    "playerId": "368664",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Sergio ROCHET",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402897": {
+    "playerId": "402897",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Santiago MELE",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368655": {
+    "playerId": "368655",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Jose Maria GIMENEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419101": {
+    "playerId": "419101",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Ronald ARAUJO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402895": {
+    "playerId": "402895",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Matias VINA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402904": {
+    "playerId": "402904",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Santiago BUENO",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402898": {
+    "playerId": "402898",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Nicolas DE LA CRUZ",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "368652": {
+    "playerId": "368652",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Giorgian DE ARRASCAETA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "473062": {
+    "playerId": "473062",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Emiliano MARTINEZ",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "439538": {
+    "playerId": "439538",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Joaquin PIQUEREZ",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419142": {
+    "playerId": "419142",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo ZALAZAR",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "439956": {
+    "playerId": "439956",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Facundo PELLISTRI",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419132": {
+    "playerId": "419132",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Brian RODRIGUEZ",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "332897": {
+    "playerId": "332897",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Rodrigo AGUIRRE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477536": {
+    "playerId": "477536",
+    "teamId": "43930",
+    "teamName": "Uruguay",
+    "playerName": "Federico VINAS",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430753": {
+    "playerId": "430753",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Unai SIMON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "382739": {
+    "playerId": "382739",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Marcos LLORENTE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335999": {
+    "playerId": "335999",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Aymeric LAPORTE",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "474973": {
+    "playerId": "474973",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Pau CUBARSI",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430735": {
+    "playerId": "430735",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Marc CUCURELLA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430733": {
+    "playerId": "430733",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Mikel MERINO",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "447860": {
+    "playerId": "447860",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Alex BAENA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411375": {
+    "playerId": "411375",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "RODRI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "423646": {
+    "playerId": "423646",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "PEDRI",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484320": {
+    "playerId": "484320",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Lamine YAMAL",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430751": {
+    "playerId": "430751",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Mikel OYARZABAL",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "447853": {
+    "playerId": "447853",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "David RAYA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "484691": {
+    "playerId": "484691",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Joan GARCIA",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "484728": {
+    "playerId": "484728",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Marc PUBILL",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "391297": {
+    "playerId": "391297",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Alex GRIMALDO",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405562": {
+    "playerId": "405562",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Eric GARCIA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430144": {
+    "playerId": "430144",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Pedro PORRO",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430718": {
+    "playerId": "430718",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Fabian RUIZ",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "447866": {
+    "playerId": "447866",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "GAVI",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430754": {
+    "playerId": "430754",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Martin ZUBIMENDI",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405545": {
+    "playerId": "405545",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Ferran TORRES",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430750": {
+    "playerId": "430750",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Dani OLMO",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "423658": {
+    "playerId": "423658",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Yeremy PINO",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "447855": {
+    "playerId": "447855",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Nico WILLIAMS",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "492859": {
+    "playerId": "492859",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Victor MUNOZ",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "447864": {
+    "playerId": "447864",
+    "teamId": "43969",
+    "teamName": "Spain",
+    "playerName": "Borja IGLESIAS",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

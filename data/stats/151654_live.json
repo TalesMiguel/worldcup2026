@@ -1,0 +1,452 @@
+{
+  "364752": {
+    "playerId": "364752",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "VOZINHA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "409241": {
+    "playerId": "409241",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DINEY BORGES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477770": {
+    "playerId": "477770",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "PICO LOPES",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482783": {
+    "playerId": "482783",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "WAGNER PINA",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477852": {
+    "playerId": "477852",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "KEVIN PINA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477855": {
+    "playerId": "477855",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JOAO PAULO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401894": {
+    "playerId": "401894",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JAMIRO MONTEIRO",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477827": {
+    "playerId": "477827",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DEROY DUARTE",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433724": {
+    "playerId": "433724",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "WILLY SEMEDO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482782": {
+    "playerId": "482782",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "DAILON LIVRAMENTO",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "355642": {
+    "playerId": "355642",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "RYAN MENDES",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "407114": {
+    "playerId": "407114",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "MARCIO ROSA",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "406281": {
+    "playerId": "406281",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "CJ DOS SANTOS",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "297266": {
+    "playerId": "297266",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "STOPIRA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477831": {
+    "playerId": "477831",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "LOGAN COSTA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477847": {
+    "playerId": "477847",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "STEVEN MOREIRA",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482780": {
+    "playerId": "482780",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "KELVIN PIRES",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477856": {
+    "playerId": "477856",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "JOVANE CABRAL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "373344": {
+    "playerId": "373344",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "GARRY RODRIGUES",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "480966": {
+    "playerId": "480966",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "LAROS DUARTE",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494313": {
+    "playerId": "494313",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "YANNICK SEMEDO",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "401893": {
+    "playerId": "401893",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "NUNO DA COSTA",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477849": {
+    "playerId": "477849",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "HELIO VARELA",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477862": {
+    "playerId": "477862",
+    "teamId": "43850",
+    "teamName": "Cabo Verde",
+    "playerName": "GILSON BENCHIMOL",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396885": {
+    "playerId": "396885",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "MOHAMMED ALOWAIS",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "403312": {
+    "playerId": "403312",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "Abdulelah ALAMRI",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403335": {
+    "playerId": "403335",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "HASSAN ALTAMBAKTI",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419281": {
+    "playerId": "419281",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "SAUD ABDULHAMID",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430518": {
+    "playerId": "430518",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "NAWAF BU WASHL",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403319": {
+    "playerId": "403319",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "NASSER ALDAWSARI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411624": {
+    "playerId": "411624",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ABDULLAH ALKHAIBARI",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "407993": {
+    "playerId": "407993",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "MOHAMED KANNO",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419291": {
+    "playerId": "419291",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "FERAS ALBRIKAN",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "339745": {
+    "playerId": "339745",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "SALEM ALDAWSARI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494800": {
+    "playerId": "494800",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "SULTAN MANDASH",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419287": {
+    "playerId": "419287",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "NAWAF ALAQIDI",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "339746": {
+    "playerId": "339746",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "AHMED ALKASSAR",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419326": {
+    "playerId": "419326",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ALI MAJRASHI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433439": {
+    "playerId": "433439",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ALI LAJAMI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401924": {
+    "playerId": "401924",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "HASSAN KADISH",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419303": {
+    "playerId": "419303",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "MOTEB ALHARBI",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494506": {
+    "playerId": "494506",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "JEHAD THIKRI",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "512183": {
+    "playerId": "512183",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "MOHAMMED ABU ALSHAMAT",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436537": {
+    "playerId": "436537",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "MUSAB ALJUWAYR",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "436538": {
+    "playerId": "436538",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ZIYAD ALJOHANI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523333": {
+    "playerId": "523333",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ALA ALHAJJI",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430512": {
+    "playerId": "430512",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "AIMAN YAHYA",
+    "shirtNumber": 8,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "425804": {
+    "playerId": "425804",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "SALEH ALSHEHRI",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419300": {
+    "playerId": "419300",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "KHALID ALGHANNAM",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419302": {
+    "playerId": "419302",
+    "teamId": "43835",
+    "teamName": "Saudi Arabia",
+    "playerName": "ABDULLAH ALHAMDDAN",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "448821": {
+    "playerId": "448821",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Mory DIAW",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "370171": {
+    "playerId": "370171",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Abdoulaye Seck",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430671": {
+    "playerId": "430671",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ismail JAKOBS",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403642": {
+    "playerId": "403642",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Krepin DIATTA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430690": {
+    "playerId": "430690",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Moussa Niakhate",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332314": {
+    "playerId": "332314",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Idrissa Gana GUEYE",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464842": {
+    "playerId": "464842",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Lamine CAMARA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486130": {
+    "playerId": "486130",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Habib DIARRA",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "353790": {
+    "playerId": "353790",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Sadio MANE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "401889": {
+    "playerId": "401889",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ismaila SARR",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "496358": {
+    "playerId": "496358",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Ibrahim MBAYE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494277": {
+    "playerId": "494277",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Yehvann DIOUF",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "499800": {
+    "playerId": "499800",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Mamadou SARR",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "339820": {
+    "playerId": "339820",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Kalidou KOULIBALY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494279": {
+    "playerId": "494279",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Antoine MENDY",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464865": {
+    "playerId": "464865",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "El Hadji Malick DIOUF",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448825": {
+    "playerId": "448825",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pathe CISS",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "418798": {
+    "playerId": "418798",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pape Matar SARR",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "523354": {
+    "playerId": "523354",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Bara Sapoko NDIAYE",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431788": {
+    "playerId": "431788",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Pape GUEYE",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484698": {
+    "playerId": "484698",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Assane DIAO",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418781": {
+    "playerId": "418781",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Bamba DIENG",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "418795": {
+    "playerId": "418795",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Nicolas JACKSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486168": {
+    "playerId": "486168",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Cherif NDIAYE",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448815": {
+    "playerId": "448815",
+    "teamId": "43879",
+    "teamName": "Senegal",
+    "playerName": "Iliman NDIAYE",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433571": {
+    "playerId": "433571",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED BASIL",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "396158": {
+    "playerId": "396158",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "REBIN SULAKA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "481183": {
+    "playerId": "481183",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AKAM HASHIM",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479072": {
+    "playerId": "479072",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MERCHAS DOSKI",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436863": {
+    "playerId": "436863",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "FRANS PUTROS",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433585": {
+    "playerId": "433585",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "IBRAHIM BAYESH",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "434026": {
+    "playerId": "434026",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZIDANE IQBAL",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433074": {
+    "playerId": "433074",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AMIR ALAMMARI",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "436628": {
+    "playerId": "436628",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI ALHAMADI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "523236": {
+    "playerId": "523236",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED QASEM",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464457": {
+    "playerId": "464457",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI JASIM",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368744": {
+    "playerId": "368744",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "FAHAD TALIB",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "347085": {
+    "playerId": "347085",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "JALAL HASSAN",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "479553": {
+    "playerId": "479553",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "Hussein Ali",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "434025": {
+    "playerId": "434025",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZAID TAHSEEN",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "434024": {
+    "playerId": "434024",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MUNAF YOUNUS",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "484276": {
+    "playerId": "484276",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AHMED MAKNAZI",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479056": {
+    "playerId": "479056",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MUSTAFA SAADOON",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464458": {
+    "playerId": "464458",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "YOUSSEF AMYN",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "506069": {
+    "playerId": "506069",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "KEVIN YAKOB",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "493983": {
+    "playerId": "493983",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AIMAR SHER",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484270": {
+    "playerId": "484270",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ZAID ISMAEL",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "422968": {
+    "playerId": "422968",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MOHANAD ALI",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "434029": {
+    "playerId": "434029",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "ALI YOUSIF",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395186": {
+    "playerId": "395186",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "AYMEN HUSSEIN",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484262": {
+    "playerId": "484262",
+    "teamId": "43818",
+    "teamName": "Iraq",
+    "playerName": "MARKO FARJI",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
