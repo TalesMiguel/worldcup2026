@@ -1,0 +1,470 @@
+{
+  "441313": {
+    "playerId": "441313",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Lionel MPASI",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "426357": {
+    "playerId": "426357",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Aaron WAN-BISSAKA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403063": {
+    "playerId": "403063",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Axel Tuanzebe",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "356532": {
+    "playerId": "356532",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Chancel MBEMBA",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436572": {
+    "playerId": "436572",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Arthur MASUAKU",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424119": {
+    "playerId": "424119",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Nathanael MBUKU",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433076": {
+    "playerId": "433076",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Samuel Moutoussamy",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "486147": {
+    "playerId": "486147",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Noah SADIKI",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "510989": {
+    "playerId": "510989",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Brian CIPENGA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "336425": {
+    "playerId": "336425",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Cedric BAKAMBU",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441316": {
+    "playerId": "441316",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Yoane WISSA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "486196": {
+    "playerId": "486196",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Timothy FAYULU",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "514171": {
+    "playerId": "514171",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Matthieu EPOLO",
+    "shirtNumber": 21,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "504329": {
+    "playerId": "504329",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Steve KAPUADI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477829": {
+    "playerId": "477829",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Dylan BATUBINSIKA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477833": {
+    "playerId": "477833",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Joris KAYEMBE",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "477853": {
+    "playerId": "477853",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Gedeon KALULU",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494458": {
+    "playerId": "494458",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Ngalayel MUKAU",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441317": {
+    "playerId": "441317",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Theo BONGONDA",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477864": {
+    "playerId": "477864",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Aaron TSHIBOLA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448128": {
+    "playerId": "448128",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Charles PICKEL",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433161": {
+    "playerId": "433161",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Edo Kayembe",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "336439": {
+    "playerId": "336439",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Gael KAKUTA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "426506": {
+    "playerId": "426506",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Meschack ELIA",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477859": {
+    "playerId": "477859",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Fiston MAYELE",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "477835": {
+    "playerId": "477835",
+    "teamId": "20014",
+    "teamName": "Congo DR",
+    "playerName": "Simon BANZA",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "479110": {
+    "playerId": "479110",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Abduvohid NEMATOV",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464924": {
+    "playerId": "464924",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Abdukodir KHUSANOV",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479079": {
+    "playerId": "479079",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Khojiakbar ALIJONOV",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371415": {
+    "playerId": "371415",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Rustam ASHURMATOV",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479075": {
+    "playerId": "479075",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Sherzod NASRULLAEV",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464906": {
+    "playerId": "464906",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Jakhongir UROZOV",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479106": {
+    "playerId": "479106",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Akmal MOZGOVOY",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "371348": {
+    "playerId": "371348",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Otabek Shukurov",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "371393": {
+    "playerId": "371393",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Dostonbek Khamdamov",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464933": {
+    "playerId": "464933",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Abbosbek FAYZULLAEV",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "385475": {
+    "playerId": "385475",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Eldor SHOMURODOV",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "479077": {
+    "playerId": "479077",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Utkir YUSUPOV",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "385472": {
+    "playerId": "385472",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Botirali ERGASHEV",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "385139": {
+    "playerId": "385139",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Farrukh SAYFIEV",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479084": {
+    "playerId": "479084",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Umar ESHMURODOV",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479042": {
+    "playerId": "479042",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Abdulla ABDULLAEV",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "475260": {
+    "playerId": "475260",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Behruzjon KARIMOV",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "518264": {
+    "playerId": "518264",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Avazbek ULMASALIYEV",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "368545": {
+    "playerId": "368545",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Jamshid ISKANDEROV",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "371345": {
+    "playerId": "371345",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Odiljon XAMROBEKOV",
+    "shirtNumber": 9,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484303": {
+    "playerId": "484303",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Ruslanbek JIYANOV",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479080": {
+    "playerId": "479080",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Oston URUNOV",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479086": {
+    "playerId": "479086",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Azizjon GANIEV",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464897": {
+    "playerId": "464897",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Sherzod ESANOV",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "481220": {
+    "playerId": "481220",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Azizbek AMONOV",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "368546": {
+    "playerId": "368546",
+    "teamId": "44005",
+    "teamName": "Uzbekistan",
+    "playerName": "Igor Sergeev",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

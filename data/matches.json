@@ -3849,36 +3849,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "482783",
-        "playerName": "WAGNER PINA",
-        "minute": "8'",
-        "card": 1,
-        "teamId": "43850"
-      },
-      {
-        "playerId": "419281",
-        "playerName": "SAUD ABDULHAMID",
-        "minute": "4'",
-        "card": 1,
-        "teamId": "43835"
-      },
-      {
-        "playerId": "403319",
-        "playerName": "NASSER ALDAWSARI",
-        "minute": "67'",
-        "card": 1,
-        "teamId": "43835"
-      },
-      {
-        "playerId": "419291",
-        "playerName": "FERAS ALBRIKAN",
-        "minute": "90'+3'",
-        "card": 1,
-        "teamId": "43835"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021481",
@@ -4066,11 +4037,48 @@
       "name": "England",
       "abbreviation": "ENG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "62'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "67'",
+        "type": 2,
+        "teamId": "43942"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "411174",
+        "playerName": "Jose FAJARDO",
+        "minute": "53'",
+        "card": 1,
+        "teamId": "43914"
+      },
+      {
+        "playerId": "441240",
+        "playerName": "Andres ANDRADE",
+        "minute": "83'",
+        "card": 1,
+        "teamId": "43914"
+      },
+      {
+        "playerId": "463809",
+        "playerName": "Jarell QUANSAH",
+        "minute": "60'",
+        "card": 1,
+        "teamId": "43942"
+      }
+    ]
   },
   {
     "idMatch": "400021509",
@@ -4089,11 +4097,48 @@
       "name": "Ghana",
       "abbreviation": "GHA"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "485066",
+        "playerName": "Petar SUCIC",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43938"
+      },
+      {
+        "playerId": "409191",
+        "playerName": "Nikola VLASIC",
+        "minute": "83'",
+        "type": 2,
+        "teamId": "43938"
+      },
+      {
+        "playerId": "520037",
+        "playerName": "Derrick LUCKASSEN",
+        "minute": "73'",
+        "type": 2,
+        "teamId": "43860"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "359381",
+        "playerName": "Ivan PERISIC",
+        "minute": "68'",
+        "card": 1,
+        "teamId": "43938"
+      },
+      {
+        "playerId": "511022",
+        "playerName": "Kojo Peprah OPPONG",
+        "minute": "90'+4'",
+        "card": 1,
+        "teamId": "43860"
+      }
+    ]
   },
   {
     "idMatch": "400021500",
@@ -4112,11 +4157,76 @@
       "name": "Uzbekistan",
       "abbreviation": "UZB"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "441316",
+        "playerName": "Yoane WISSA",
+        "minute": "68'",
+        "type": 1,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "477859",
+        "playerName": "Fiston MAYELE",
+        "minute": "78'",
+        "type": 2,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "441316",
+        "playerName": "Yoane WISSA",
+        "minute": "90'+1'",
+        "type": 2,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "385475",
+        "playerName": "Eldor SHOMURODOV",
+        "minute": "10'",
+        "type": 2,
+        "teamId": "44005"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "486147",
+        "playerName": "Noah SADIKI",
+        "minute": "21'",
+        "card": 1,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "424119",
+        "playerName": "Nathanael MBUKU",
+        "minute": "45'+4'",
+        "card": 1,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "433076",
+        "playerName": "Samuel Moutoussamy",
+        "minute": "62'",
+        "card": 1,
+        "teamId": "20014"
+      },
+      {
+        "playerId": "464924",
+        "playerName": "Abdukodir KHUSANOV",
+        "minute": "43'",
+        "card": 1,
+        "teamId": "44005"
+      },
+      {
+        "playerId": "479075",
+        "playerName": "Sherzod NASRULLAEV",
+        "minute": "47'",
+        "card": 1,
+        "teamId": "44005"
+      }
+    ]
   },
   {
     "idMatch": "400021505",
@@ -4135,11 +4245,19 @@
       "name": "Portugal",
       "abbreviation": "POR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
     "goals": [],
-    "bookings": []
+    "bookings": [
+      {
+        "playerId": "463902",
+        "playerName": "Gustavo PUERTA",
+        "minute": "86'",
+        "card": 1,
+        "teamId": "43926"
+      }
+    ]
   },
   {
     "idMatch": "400021497",
@@ -4158,11 +4276,62 @@
       "name": "Austria",
       "abbreviation": "AUT"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "511009",
+        "playerName": "Rafik BELGHALI",
+        "minute": "45'",
+        "type": 2,
+        "teamId": "43843"
+      },
+      {
+        "playerId": "379942",
+        "playerName": "Riyad Mahrez",
+        "minute": "60'",
+        "type": 2,
+        "teamId": "43843"
+      },
+      {
+        "playerId": "379942",
+        "playerName": "Riyad Mahrez",
+        "minute": "90'+3'",
+        "type": 2,
+        "teamId": "43843"
+      },
+      {
+        "playerId": "299200",
+        "playerName": "Marko ARNAUTOVIC",
+        "minute": "28'",
+        "type": 2,
+        "teamId": "43934"
+      },
+      {
+        "playerId": "358241",
+        "playerName": "Marcel SABITZER",
+        "minute": "55'",
+        "type": 2,
+        "teamId": "43934"
+      },
+      {
+        "playerId": "430100",
+        "playerName": "Sasa KALAJDZIC",
+        "minute": "90'+6'",
+        "type": 2,
+        "teamId": "43934"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "299200",
+        "playerName": "Marko ARNAUTOVIC",
+        "minute": "11'",
+        "card": 1,
+        "teamId": "43934"
+      }
+    ]
   },
   {
     "idMatch": "400021495",
@@ -4181,11 +4350,62 @@
       "name": "Argentina",
       "abbreviation": "ARG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "431211",
+        "playerName": "MOUSA ALTAMARI",
+        "minute": "55'",
+        "type": 2,
+        "teamId": "43820"
+      },
+      {
+        "playerId": "395414",
+        "playerName": "Giovani Lo Celso",
+        "minute": "19'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "402920",
+        "playerName": "Lautaro MARTINEZ",
+        "minute": "31'",
+        "type": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "229397",
+        "playerName": "Lionel MESSI",
+        "minute": "80'",
+        "type": 2,
+        "teamId": "43922"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "479389",
+        "playerName": "MOHANNAD ABUTAHA",
+        "minute": "17'",
+        "card": 1,
+        "teamId": "43820"
+      },
+      {
+        "playerId": "431225",
+        "playerName": "YAZAN ALARAB",
+        "minute": "64'",
+        "card": 1,
+        "teamId": "43820"
+      },
+      {
+        "playerId": "431208",
+        "playerName": "MOHAMMAD ABUZRAIQ",
+        "minute": "90'+4'",
+        "card": 1,
+        "teamId": "43820"
+      }
+    ]
   },
   {
     "idMatch": "400021518",
@@ -4338,9 +4558,9 @@
       "abbreviation": "MEX"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43927",
+      "name": "Ecuador",
+      "abbreviation": "ECU"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4356,14 +4576,14 @@
     "stageName": "Round of 32",
     "date": "2026-07-01T16:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "20014",
+      "name": "Congo DR",
+      "abbreviation": "COD"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4384,9 +4604,9 @@
       "abbreviation": "BEL"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43879",
+      "name": "Senegal",
+      "abbreviation": "SEN"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4430,9 +4650,9 @@
       "abbreviation": "ESP"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43934",
+      "name": "Austria",
+      "abbreviation": "AUT"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4448,14 +4668,14 @@
     "stageName": "Round of 32",
     "date": "2026-07-02T23:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43963",
+      "name": "Portugal",
+      "abbreviation": "POR"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43938",
+      "name": "Croatia",
+      "abbreviation": "CRO"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4476,9 +4696,9 @@
       "abbreviation": "SUI"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43843",
+      "name": "Algeria",
+      "abbreviation": "ALG"
     },
     "homeScore": null,
     "awayScore": null,
@@ -4540,14 +4760,14 @@
     "stageName": "Round of 32",
     "date": "2026-07-04T01:30:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43926",
+      "name": "Colombia",
+      "abbreviation": "COL"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43860",
+      "name": "Ghana",
+      "abbreviation": "GHA"
     },
     "homeScore": null,
     "awayScore": null,

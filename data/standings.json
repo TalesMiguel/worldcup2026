@@ -492,49 +492,49 @@
       {
         "teamId": "43922",
         "teamName": "Argentina",
-        "played": 2,
-        "won": 2,
+        "played": 3,
+        "won": 3,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 5,
-        "goalsAgainst": 0,
-        "goalDiff": 5,
-        "points": 6
+        "goalsFor": 8,
+        "goalsAgainst": 1,
+        "goalDiff": 7,
+        "points": 9
       },
       {
         "teamId": "43934",
         "teamName": "Austria",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 3,
-        "goalsAgainst": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 6,
         "goalDiff": 0,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43843",
         "teamName": "Algeria",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 4,
+        "goalsFor": 5,
+        "goalsAgainst": 7,
         "goalDiff": -2,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": "43820",
         "teamName": "Jordan",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goalsFor": 2,
-        "goalsAgainst": 5,
-        "goalDiff": -3,
+        "lost": 3,
+        "goalsFor": 3,
+        "goalsAgainst": 8,
+        "goalDiff": -5,
         "points": 0
       }
     ]
@@ -546,49 +546,49 @@
       {
         "teamId": "43926",
         "teamName": "Colombia",
-        "played": 2,
+        "played": 3,
         "won": 2,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 4,
         "goalsAgainst": 1,
         "goalDiff": 3,
-        "points": 6
+        "points": 7
       },
       {
         "teamId": "43963",
         "teamName": "Portugal",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goalsFor": 6,
         "goalsAgainst": 1,
         "goalDiff": 5,
-        "points": 4
+        "points": 5
       },
       {
         "teamId": "20014",
         "teamName": "Congo DR",
-        "played": 2,
-        "won": 0,
+        "played": 3,
+        "won": 1,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDiff": -1,
-        "points": 1
+        "goalsFor": 4,
+        "goalsAgainst": 3,
+        "goalDiff": 1,
+        "points": 4
       },
       {
         "teamId": "44005",
         "teamName": "Uzbekistan",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goalsFor": 1,
-        "goalsAgainst": 8,
-        "goalDiff": -7,
+        "lost": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 11,
+        "goalDiff": -9,
         "points": 0
       }
     ]
@@ -600,49 +600,49 @@
       {
         "teamId": "43942",
         "teamName": "England",
-        "played": 2,
-        "won": 1,
+        "played": 3,
+        "won": 2,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 4,
+        "goalsFor": 6,
         "goalsAgainst": 2,
-        "goalDiff": 2,
-        "points": 4
-      },
-      {
-        "teamId": "43860",
-        "teamName": "Ghana",
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 0,
-        "goalDiff": 1,
-        "points": 4
+        "goalDiff": 4,
+        "points": 7
       },
       {
         "teamId": "43938",
         "teamName": "Croatia",
-        "played": 2,
-        "won": 1,
+        "played": 3,
+        "won": 2,
         "drawn": 0,
         "lost": 1,
-        "goalsFor": 3,
-        "goalsAgainst": 4,
-        "goalDiff": -1,
-        "points": 3
+        "goalsFor": 5,
+        "goalsAgainst": 5,
+        "goalDiff": 0,
+        "points": 6
+      },
+      {
+        "teamId": "43860",
+        "teamName": "Ghana",
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDiff": 0,
+        "points": 4
       },
       {
         "teamId": "43914",
         "teamName": "Panama",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDiff": -2,
+        "goalsAgainst": 4,
+        "goalDiff": -4,
         "points": 0
       }
     ]
