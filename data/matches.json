@@ -4249,15 +4249,7 @@
     "awayScore": 0,
     "status": 0,
     "goals": [],
-    "bookings": [
-      {
-        "playerId": "463902",
-        "playerName": "Gustavo PUERTA",
-        "minute": "86'",
-        "card": 1,
-        "teamId": "43926"
-      }
-    ]
+    "bookings": []
   },
   {
     "idMatch": "400021497",
@@ -4424,11 +4416,34 @@
       "name": "Canada",
       "abbreviation": "CAN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "433635",
+        "playerName": "Stephen EUSTAQUIO",
+        "minute": "90'+2'",
+        "type": 2,
+        "teamId": "43899"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "423941",
+        "playerName": "Nathan SALIBA",
+        "minute": "54'",
+        "card": 1,
+        "teamId": "43899"
+      },
+      {
+        "playerId": "485064",
+        "playerName": "Niko SIGUR",
+        "minute": "67'",
+        "card": 1,
+        "teamId": "43899"
+      }
+    ]
   },
   {
     "idMatch": "400021516",
@@ -4783,9 +4798,9 @@
     "stageName": "Round of 16",
     "date": "2026-07-04T17:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43899",
+      "name": "Canada",
+      "abbreviation": "CAN"
     },
     "awayTeam": {
       "id": "",
