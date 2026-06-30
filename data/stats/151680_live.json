@@ -1,0 +1,470 @@
+{
+  "424081": {
+    "playerId": "424081",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Bart Verbruggen",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "397786": {
+    "playerId": "397786",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Virgil VAN DIJK",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "336088": {
+    "playerId": "336088",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Nathan AKE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489517": {
+    "playerId": "489517",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Jan Paul VAN HECKE",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448140": {
+    "playerId": "448140",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Micky VAN DE VEN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436612": {
+    "playerId": "436612",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Denzel DUMFRIES",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430176": {
+    "playerId": "430176",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Ryan GRAVENBERCH",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "422657": {
+    "playerId": "422657",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Frenkie DE JONG",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448152": {
+    "playerId": "448152",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Cody GAKPO",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "424051": {
+    "playerId": "424051",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Brian BROBBEY",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489518": {
+    "playerId": "489518",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Crysencio SUMMERVILLE",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "506028": {
+    "playerId": "506028",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Robin ROEFS",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448151": {
+    "playerId": "448151",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Mark FLEKKEN",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483553": {
+    "playerId": "483553",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Lutsharel GEERTRUIDA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483481": {
+    "playerId": "483481",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Mats WIEFFER",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483512": {
+    "playerId": "483512",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Jorrel HATO",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402044": {
+    "playerId": "402044",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Marten DE ROON",
+    "shirtNumber": 3,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "478364": {
+    "playerId": "478364",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Justin KLUIVERT",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483526": {
+    "playerId": "483526",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Tijjani REIJNDERS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448157": {
+    "playerId": "448157",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Guus TIL",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448149": {
+    "playerId": "448149",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Teun KOOPMEINERS",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "484859": {
+    "playerId": "484859",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Quinten TIMBER",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448159": {
+    "playerId": "448159",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Wout WEGHORST",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "336098": {
+    "playerId": "336098",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Memphis DEPAY",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448153": {
+    "playerId": "448153",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Noa LANG",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433066": {
+    "playerId": "433066",
+    "teamId": "43960",
+    "teamName": "Netherlands",
+    "playerName": "Donyell Malen",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "356956": {
+    "playerId": "356956",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Yassine BOUNOU",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "400721": {
+    "playerId": "400721",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Achraf HAKIMI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411680": {
+    "playerId": "411680",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Noussair MAZRAOUI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403083": {
+    "playerId": "403083",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Issa Diop",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448607": {
+    "playerId": "448607",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chadi RIAD",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485760": {
+    "playerId": "485760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayyoub BOUADDI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441307": {
+    "playerId": "441307",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Azzedine OUNAHI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448598": {
+    "playerId": "448598",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ismael SAIBARI",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448612": {
+    "playerId": "448612",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Bilal EL KHANNOUSS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485740": {
+    "playerId": "485740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Neil EL AYNAOUI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430740": {
+    "playerId": "430740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Brahim DIAZ",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395755": {
+    "playerId": "395755",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Munir EL KAJOUI",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "371553": {
+    "playerId": "371553",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ahmed Reda TAGNAOUTI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395760": {
+    "playerId": "395760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Marwane SAADANE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485756": {
+    "playerId": "485756",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Zakaria EL OUAHDI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494742": {
+    "playerId": "494742",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Youssef BELAMMARI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485767": {
+    "playerId": "485767",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Redouane HALHAL",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424071": {
+    "playerId": "424071",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Anass SALAH EDDINE",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "372266": {
+    "playerId": "372266",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Sofyan AMRABAT",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494293": {
+    "playerId": "494293",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chemsdine TALBI",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505097": {
+    "playerId": "505097",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Samir EL MOURABET",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505112": {
+    "playerId": "505112",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Gessime YASSINE",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433426": {
+    "playerId": "433426",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Soufiane RAHIMI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "524320": {
+    "playerId": "524320",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Amine SBAI",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "411678": {
+    "playerId": "411678",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoub El Kaabi",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "523288": {
+    "playerId": "523288",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoube AMAIMOUNI",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

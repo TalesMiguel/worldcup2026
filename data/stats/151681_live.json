@@ -1,0 +1,461 @@
+{
+  "308370": {
+    "playerId": "308370",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALISSON",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "430601": {
+    "playerId": "430601",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MAGALHAES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332946": {
+    "playerId": "332946",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MARQUINHOS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335656": {
+    "playerId": "335656",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "367981": {
+    "playerId": "367981",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DOUGLAS SANTOS",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308386": {
+    "playerId": "308386",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "CASEMIRO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430605": {
+    "playerId": "430605",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BRUNO GUIMARAES",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "411726": {
+    "playerId": "411726",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUCAS PAQUETA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405742": {
+    "playerId": "405742",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "VINICIUS JUNIOR",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430609": {
+    "playerId": "430609",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MATHEUS CUNHA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "475036": {
+    "playerId": "475036",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAYAN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396315": {
+    "playerId": "396315",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "WEVERTON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395427": {
+    "playerId": "395427",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "335658": {
+    "playerId": "335658",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALEX SANDRO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431889": {
+    "playerId": "431889",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BREMER",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371956": {
+    "playerId": "371956",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LEO PEREIRA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430594": {
+    "playerId": "430594",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ROGER IBANEZ",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485069": {
+    "playerId": "485069",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON SILVA",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "394456": {
+    "playerId": "394456",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "FABINHO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429392": {
+    "playerId": "429392",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO SANTOS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "314197": {
+    "playerId": "314197",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "NEYMAR JR",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463746": {
+    "playerId": "463746",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ENDRICK",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448420": {
+    "playerId": "448420",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUIZ HENRIQUE",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430597": {
+    "playerId": "430597",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MARTINELLI",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519836": {
+    "playerId": "519836",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "IGOR THIAGO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "405530": {
+    "playerId": "405530",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Zion Suzuki",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "390541": {
+    "playerId": "390541",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Shogo TANIGUCHI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403274": {
+    "playerId": "403274",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Hiroki ITO",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403289": {
+    "playerId": "403289",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Takehiro TOMIYASU",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "391646": {
+    "playerId": "391646",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ritsu DOAN",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430407": {
+    "playerId": "430407",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Daizen MAEDA",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405522": {
+    "playerId": "405522",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keito Nakamura",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395321": {
+    "playerId": "395321",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Junya ITO",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448557": {
+    "playerId": "448557",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Daichi KAMADA",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "479294": {
+    "playerId": "479294",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kaishu SANO",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430413": {
+    "playerId": "430413",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ayase UEDA",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403305": {
+    "playerId": "403305",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keisuke OSAKO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "511710": {
+    "playerId": "511710",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Tomoki HAYAKAWA",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "405528": {
+    "playerId": "405528",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yukinari Sugawara",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "400511": {
+    "playerId": "400511",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kou ITAKURA",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "291372": {
+    "playerId": "291372",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yuto NAGATOMO",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430401": {
+    "playerId": "430401",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Tsuyoshi Watanabe",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405527": {
+    "playerId": "405527",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ayumu SEKO",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "498455": {
+    "playerId": "498455",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Junnosuke SUZUKI",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "400514": {
+    "playerId": "400514",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Ao TANAKA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403304": {
+    "playerId": "403304",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Takefusa KUBO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485503": {
+    "playerId": "485503",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Yuito SUZUKI",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448569": {
+    "playerId": "448569",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Shuto MACHINO",
+    "shirtNumber": 6,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464339": {
+    "playerId": "464339",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Keisuke GOTO",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403293": {
+    "playerId": "403293",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Koki OGAWA",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "520218": {
+    "playerId": "520218",
+    "teamId": "43819",
+    "teamName": "Japan",
+    "playerName": "Kento SHIOGAI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
