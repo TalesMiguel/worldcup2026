@@ -1,0 +1,470 @@
+{
+  "485070": {
+    "playerId": "485070",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Raul RANGEL",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "403596": {
+    "playerId": "403596",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Jorge SANCHEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395516": {
+    "playerId": "395516",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Cesar MONTES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "425701": {
+    "playerId": "425701",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Johan VASQUEZ",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402772": {
+    "playerId": "402772",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Jesus GALLARDO",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419518": {
+    "playerId": "419518",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Erik LIRA",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430763": {
+    "playerId": "430763",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Luis ROMO",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "500037": {
+    "playerId": "500037",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Gilberto MORA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "356731": {
+    "playerId": "356731",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Raul JIMENEZ",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "429157": {
+    "playerId": "429157",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Julian QUINONES",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403585": {
+    "playerId": "403585",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Roberto ALVARADO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441260": {
+    "playerId": "441260",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Carlos ACEVEDO",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "215285": {
+    "playerId": "215285",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Guillermo OCHOA",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "400634": {
+    "playerId": "400634",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Edson ALVAREZ",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441261": {
+    "playerId": "441261",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Israel REYES",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "500038": {
+    "playerId": "500038",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Mateo CHAVEZ",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "416576": {
+    "playerId": "416576",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Alvaro FIDALGO",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "372090": {
+    "playerId": "372090",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Orbelin PINEDA",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "461177": {
+    "playerId": "461177",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Obed VARGAS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448051": {
+    "playerId": "448051",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Luis CHAVEZ",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "464533": {
+    "playerId": "464533",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Brian GUTIERREZ",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430766": {
+    "playerId": "430766",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Alexis VEGA",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430759": {
+    "playerId": "430759",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Santiago GIMENEZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514336": {
+    "playerId": "514336",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Armando GONZALEZ",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406135": {
+    "playerId": "406135",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Cesar HUERTA",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386339": {
+    "playerId": "386339",
+    "teamId": "43911",
+    "teamName": "Mexico",
+    "playerName": "Guillermo MARTINEZ",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441236": {
+    "playerId": "441236",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Hernan GALINDEZ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "424031": {
+    "playerId": "424031",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Piero HINCAPIE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463465": {
+    "playerId": "463465",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Joel ORDONEZ",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448290": {
+    "playerId": "448290",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Willian PACHO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424036": {
+    "playerId": "424036",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Pedro VITE",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389784": {
+    "playerId": "389784",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Alan FRANCO",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "428885": {
+    "playerId": "428885",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Moises CAICEDO",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405920": {
+    "playerId": "405920",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "John YEBOAH",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "373400": {
+    "playerId": "373400",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Enner VALENCIA",
+    "shirtNumber": 13,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419020": {
+    "playerId": "419020",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Gonzalo PLATA",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448312": {
+    "playerId": "448312",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Nilson ANGULO",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419002": {
+    "playerId": "419002",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Moises RAMIREZ",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448295": {
+    "playerId": "448295",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Gonzalo VALLE",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "402979": {
+    "playerId": "402979",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Felix TORRES",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389782": {
+    "playerId": "389782",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Pervis ESTUPINAN",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402974": {
+    "playerId": "402974",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Angelo PRECIADO",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419003": {
+    "playerId": "419003",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jackson POROZO",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463489": {
+    "playerId": "463489",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Yaimar MEDINA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419005": {
+    "playerId": "419005",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jordy ALCIVAR",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448299": {
+    "playerId": "448299",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Anthony VALENCIA",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463495": {
+    "playerId": "463495",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Kendry PAEZ",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463468": {
+    "playerId": "463468",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Alan MINDA",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "463476": {
+    "playerId": "463476",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Denil CASTILLO",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448310": {
+    "playerId": "448310",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Kevin RODRIGUEZ",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "402985": {
+    "playerId": "402985",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jordy CAICEDO",
+    "shirtNumber": 16,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514326": {
+    "playerId": "514326",
+    "teamId": "43927",
+    "teamName": "Ecuador",
+    "playerName": "Jeremy AREVALO",
+    "shirtNumber": 24,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

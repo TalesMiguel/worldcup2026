@@ -1,0 +1,461 @@
+{
+  "448332": {
+    "playerId": "448332",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Mike MAIGNAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368860": {
+    "playerId": "368860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas Digne",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389876": {
+    "playerId": "389876",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Dayot UPAMECANO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430707": {
+    "playerId": "430707",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jules KOUNDE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419177": {
+    "playerId": "419177",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "William SALIBA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405893": {
+    "playerId": "405893",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Aurelien TCHOUAMENI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402047": {
+    "playerId": "402047",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Adrien RABIOT",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398680": {
+    "playerId": "398680",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ousmane DEMBELE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "389867": {
+    "playerId": "389867",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Kylian MBAPPE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485655": {
+    "playerId": "485655",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Michael OLISE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484860": {
+    "playerId": "484860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Bradley BARCOLA",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483471": {
+    "playerId": "483471",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Brice SAMBA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464127": {
+    "playerId": "464127",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Robin RISSER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464055": {
+    "playerId": "464055",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Malo GUSTO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419166": {
+    "playerId": "419166",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ibrahima KONATE",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "408042": {
+    "playerId": "408042",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Theo HERNANDEZ",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411470": {
+    "playerId": "411470",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas HERNANDEZ",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405881": {
+    "playerId": "405881",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maxence Lacroix",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485677": {
+    "playerId": "485677",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Manu KONE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398681": {
+    "playerId": "398681",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ngolo KANTE",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483549": {
+    "playerId": "483549",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Warren ZAIRE-EMERY",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431861": {
+    "playerId": "431861",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Rayan CHERKI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485666": {
+    "playerId": "485666",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maghnes AKLIOUCHE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403109": {
+    "playerId": "403109",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Marcus THURAM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464114": {
+    "playerId": "464114",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Desire DOUE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403094": {
+    "playerId": "403094",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jean-Philippe MATETA",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489685": {
+    "playerId": "489685",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jacob WIDELL ZETTERSTROM",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483304": {
+    "playerId": "483304",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf LAGERBIELKE",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "395283": {
+    "playerId": "395283",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Victor LINDELOF",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483276": {
+    "playerId": "483276",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gabriel GUDMUNDSSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491255": {
+    "playerId": "491255",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Daniel SVENSSON",
+    "shirtNumber": 8,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "519958": {
+    "playerId": "519958",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Elliot STROUD",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489689": {
+    "playerId": "489689",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Lucas BERGVALL",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489688": {
+    "playerId": "489688",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Yasin AYARI",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430150": {
+    "playerId": "430150",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander Isak",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "441137": {
+    "playerId": "441137",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Anthony ELANGA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483327": {
+    "playerId": "483327",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor GYOKERES",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483264": {
+    "playerId": "483264",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Viktor JOHANSSON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "360496": {
+    "playerId": "360496",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Kristoffer NORDFELDT",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "514639": {
+    "playerId": "514639",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Herman JOHANSSON",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483319": {
+    "playerId": "483319",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Hjalmar EKDAL",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441132": {
+    "playerId": "441132",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Carl STARFELT",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "493061": {
+    "playerId": "493061",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Eric SMITH",
+    "shirtNumber": 20,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502945": {
+    "playerId": "502945",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Alexander BERNHARDSSON",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "502946": {
+    "playerId": "502946",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Benjamin NYGREN",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "395286": {
+    "playerId": "395286",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Ken SEMA",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441135": {
+    "playerId": "441135",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Jesper KARLSTROM",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433795": {
+    "playerId": "433795",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Mattias SVANBERG",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "503047": {
+    "playerId": "503047",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Besfort ZENELI",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "489691": {
+    "playerId": "489691",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Gustaf NILSSON",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514202": {
+    "playerId": "514202",
+    "teamId": "43970",
+    "teamName": "Sweden",
+    "playerName": "Taha ALI",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

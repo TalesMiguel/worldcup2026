@@ -4768,11 +4768,41 @@
       "name": "Norway",
       "abbreviation": "NOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430822",
+        "playerName": "Amad DIALLO",
+        "minute": "74'",
+        "type": 2,
+        "teamId": "43854"
+      },
+      {
+        "playerId": "483448",
+        "playerName": "Antonio NUSA",
+        "minute": "39'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "86'",
+        "type": 2,
+        "teamId": "43961"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "483448",
+        "playerName": "Antonio NUSA",
+        "minute": "45'+1'",
+        "card": 1,
+        "teamId": "43961"
+      }
+    ]
   },
   {
     "idMatch": "400021523",
@@ -4791,10 +4821,32 @@
       "name": "Sweden",
       "abbreviation": "SWE"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "45'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "484860",
+        "playerName": "Bradley BARCOLA",
+        "minute": "53'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "74'",
+        "type": 2,
+        "teamId": "43946"
+      }
+    ],
     "bookings": []
   },
   {
@@ -4803,7 +4855,7 @@
     "idGroup": null,
     "groupName": null,
     "stageName": "Round of 32",
-    "date": "2026-07-01T01:00:00Z",
+    "date": "2026-07-01T02:00:00Z",
     "homeTeam": {
       "id": "43911",
       "name": "Mexico",
@@ -4814,11 +4866,55 @@
       "name": "Ecuador",
       "abbreviation": "ECU"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "429157",
+        "playerName": "Julian QUINONES",
+        "minute": "22'",
+        "type": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "356731",
+        "playerName": "Raul JIMENEZ",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43911"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "389784",
+        "playerName": "Alan FRANCO",
+        "minute": "45'+1'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "463495",
+        "playerName": "Kendry PAEZ",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "424031",
+        "playerName": "Piero HINCAPIE",
+        "minute": "90'+5'",
+        "card": 2,
+        "teamId": "43927"
+      },
+      {
+        "playerId": "428885",
+        "playerName": "Moises CAICEDO",
+        "minute": "90'+9'",
+        "card": 1,
+        "teamId": "43927"
+      }
+    ]
   },
   {
     "idMatch": "400021512",
@@ -5063,9 +5159,9 @@
       "abbreviation": "PAR"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43946",
+      "name": "France",
+      "abbreviation": "FRA"
     },
     "homeScore": null,
     "awayScore": null,
@@ -5086,9 +5182,9 @@
       "abbreviation": "BRA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43961",
+      "name": "Norway",
+      "abbreviation": "NOR"
     },
     "homeScore": null,
     "awayScore": null,
@@ -5104,9 +5200,9 @@
     "stageName": "Round of 16",
     "date": "2026-07-06T00:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43911",
+      "name": "Mexico",
+      "abbreviation": "MEX"
     },
     "awayTeam": {
       "id": "",
