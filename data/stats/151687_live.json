@@ -1,0 +1,452 @@
+{
+  "499913": {
+    "playerId": "499913",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt FREESE",
+    "shirtNumber": 24,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "406280": {
+    "playerId": "406280",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sergino DEST",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419062": {
+    "playerId": "419062",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris RICHARDS",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441251": {
+    "playerId": "441251",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Antonee ROBINSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "339510": {
+    "playerId": "339510",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tim REAM",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464542": {
+    "playerId": "464542",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex FREEMAN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390238": {
+    "playerId": "390238",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tyler ADAMS",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390259": {
+    "playerId": "390259",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Weston McKENNIE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448214": {
+    "playerId": "448214",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Malik TILLMAN",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390267": {
+    "playerId": "390267",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Christian PULISIC",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466624": {
+    "playerId": "466624",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Folarin BALOGUN",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448217": {
+    "playerId": "448217",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt TURNER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464546": {
+    "playerId": "464546",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris BRADY",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "390272": {
+    "playerId": "390272",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Auston TRUSTY",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436599": {
+    "playerId": "436599",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Miles ROBINSON",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486390": {
+    "playerId": "486390",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Max ARFSTEN",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "423700": {
+    "playerId": "423700",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Joe SCALLY",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419068": {
+    "playerId": "419068",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Giovanni REYNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "499912": {
+    "playerId": "499912",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sebastian BERHALTER",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419082": {
+    "playerId": "419082",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Ricardo PEPI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419055": {
+    "playerId": "419055",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Brenden AARONSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390276": {
+    "playerId": "390276",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Haji WRIGHT",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406304": {
+    "playerId": "406304",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Timothy WEAH",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390278": {
+    "playerId": "390278",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex ZENDEJAS",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "482978": {
+    "playerId": "482978",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nikola VASILJ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "484022": {
+    "playerId": "484022",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Tarik MUHAREMOVIC",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "376230": {
+    "playerId": "376230",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Sead KOLASINAC",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "482976": {
+    "playerId": "482976",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amar DEDIC",
+    "shirtNumber": 7,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489520": {
+    "playerId": "489520",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nikola KATIC",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489521": {
+    "playerId": "489521",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Stjepan RADELJIC",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489523": {
+    "playerId": "489523",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Armin GIGOVIC",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "372436": {
+    "playerId": "372436",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ivan SUNJIC",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "436743": {
+    "playerId": "436743",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ermedin DEMIROVIC",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "300409": {
+    "playerId": "300409",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Edin DZEKO",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "504990": {
+    "playerId": "504990",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Kerim ALAJBEGOVIC",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "522842": {
+    "playerId": "522842",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Mladen JURKAS",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "491228": {
+    "playerId": "491228",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Martin ZLOMISLIC",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "482969": {
+    "playerId": "482969",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Nihad MUJAKIC",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430194": {
+    "playerId": "430194",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Dennis HADZIKADUNIC",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494639": {
+    "playerId": "494639",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Arjan MALIC",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483966": {
+    "playerId": "483966",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Benjamin TAHIROVIC",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "482974": {
+    "playerId": "482974",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ivan BASIC",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494640": {
+    "playerId": "494640",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amar MEMIC",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430196": {
+    "playerId": "430196",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Amir HADZIAHMETOVIC",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389886": {
+    "playerId": "389886",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Dzenis BURNIC",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "522846": {
+    "playerId": "522846",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Ermin MAHMIC",
+    "shirtNumber": 26,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485063": {
+    "playerId": "485063",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Samed BAZDAR",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464566": {
+    "playerId": "464566",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Esmir BAJRAKTAREVIC",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "482984": {
+    "playerId": "482984",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Haris TABAKOVIC",
+    "shirtNumber": 23,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519954": {
+    "playerId": "519954",
+    "teamId": "44037",
+    "teamName": "Bosnia and Herzegovina",
+    "playerName": "Jovo LUKIC",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

@@ -4933,11 +4933,48 @@
       "name": "Congo DR",
       "abbreviation": "COD"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "75'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "86'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "510989",
+        "playerName": "Brian CIPENGA",
+        "minute": "7'",
+        "type": 2,
+        "teamId": "20014"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "19'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "486147",
+        "playerName": "Noah SADIKI",
+        "minute": "27'",
+        "card": 1,
+        "teamId": "20014"
+      }
+    ]
   },
   {
     "idMatch": "400021525",
@@ -4956,11 +4993,69 @@
       "name": "Senegal",
       "abbreviation": "SEN"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "358112",
+        "playerName": "Romelu LUKAKU",
+        "minute": "86'",
+        "type": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "401444",
+        "playerName": "Youri TIELEMANS",
+        "minute": "89'",
+        "type": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "401444",
+        "playerName": "Youri TIELEMANS",
+        "minute": "120'+5'",
+        "type": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "486130",
+        "playerName": "Habib DIARRA",
+        "minute": "24'",
+        "type": 2,
+        "teamId": "43879"
+      },
+      {
+        "playerId": "401889",
+        "playerName": "Ismaila SARR",
+        "minute": "51'",
+        "type": 2,
+        "teamId": "43879"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "448360",
+        "playerName": "Brandon MECHELE",
+        "minute": "64'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "90'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "464842",
+        "playerName": "Lamine CAMARA",
+        "minute": "67'",
+        "card": 1,
+        "teamId": "43879"
+      }
+    ]
   },
   {
     "idMatch": "400021524",
@@ -4979,11 +5074,48 @@
       "name": "Bosnia and Herzegovina",
       "abbreviation": "BIH"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "466624",
+        "playerName": "Folarin BALOGUN",
+        "minute": "45'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "448214",
+        "playerName": "Malik TILLMAN",
+        "minute": "82'",
+        "type": 2,
+        "teamId": "43921"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "466624",
+        "playerName": "Folarin BALOGUN",
+        "minute": "64'",
+        "card": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "80'",
+        "card": 1,
+        "teamId": "44037"
+      },
+      {
+        "playerId": "489521",
+        "playerName": "Stjepan RADELJIC",
+        "minute": "80'",
+        "card": 1,
+        "teamId": "44037"
+      }
+    ]
   },
   {
     "idMatch": "400021519",
@@ -5205,9 +5337,9 @@
       "abbreviation": "MEX"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
     },
     "homeScore": null,
     "awayScore": null,
@@ -5246,14 +5378,14 @@
     "stageName": "Round of 16",
     "date": "2026-07-07T00:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43921",
+      "name": "USA",
+      "abbreviation": "USA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43935",
+      "name": "Belgium",
+      "abbreviation": "BEL"
     },
     "homeScore": null,
     "awayScore": null,
