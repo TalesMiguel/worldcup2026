@@ -5134,11 +5134,41 @@
       "name": "Austria",
       "abbreviation": "AUT"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430751",
+        "playerName": "Mikel OYARZABAL",
+        "minute": "36'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430144",
+        "playerName": "Pedro PORRO",
+        "minute": "66'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430751",
+        "playerName": "Mikel OYARZABAL",
+        "minute": "89'",
+        "type": 2,
+        "teamId": "43969"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "441067",
+        "playerName": "Stefan POSCH",
+        "minute": "83'",
+        "card": 1,
+        "teamId": "43934"
+      }
+    ]
   },
   {
     "idMatch": "400021526",
@@ -5157,11 +5187,55 @@
       "name": "Croatia",
       "abbreviation": "CRO"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "201200",
+        "playerName": "CRISTIANO RONALDO",
+        "minute": "68'",
+        "type": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "448081",
+        "playerName": "GONCALO RAMOS",
+        "minute": "90'+4'",
+        "type": 2,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "359381",
+        "playerName": "Ivan PERISIC",
+        "minute": "53'",
+        "type": 2,
+        "teamId": "43938"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "384752",
+        "playerName": "RUBEN DIAS",
+        "minute": "17'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "241559",
+        "playerName": "Luka MODRIC",
+        "minute": "59'",
+        "card": 1,
+        "teamId": "43938"
+      },
+      {
+        "playerId": "359381",
+        "playerName": "Ivan PERISIC",
+        "minute": "90'+8'",
+        "card": 1,
+        "teamId": "43938"
+      }
+    ]
   },
   {
     "idMatch": "400021527",
@@ -5180,11 +5254,41 @@
       "name": "Algeria",
       "abbreviation": "ALG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "393480",
+        "playerName": "Breel EMBOLO",
+        "minute": "10'",
+        "type": 2,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "448114",
+        "playerName": "Dan NDOYE",
+        "minute": "46'",
+        "type": 2,
+        "teamId": "43971"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "477795",
+        "playerName": "Fares CHAIBI",
+        "minute": "36'",
+        "card": 1,
+        "teamId": "43843"
+      },
+      {
+        "playerId": "441350",
+        "playerName": "Hicham BOUDAOUI",
+        "minute": "72'",
+        "card": 1,
+        "teamId": "43843"
+      }
+    ]
   },
   {
     "idMatch": "400021515",
@@ -5355,14 +5459,14 @@
     "stageName": "Round of 16",
     "date": "2026-07-06T19:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43963",
+      "name": "Portugal",
+      "abbreviation": "POR"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
     },
     "homeScore": null,
     "awayScore": null,
@@ -5424,9 +5528,9 @@
     "stageName": "Round of 16",
     "date": "2026-07-07T20:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
     },
     "awayTeam": {
       "id": "",
