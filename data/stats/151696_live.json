@@ -1,0 +1,470 @@
+{
+  "494531": {
+    "playerId": "494531",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Orlando GILL",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "486875": {
+    "playerId": "486875",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo VELAZQUEZ",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431202": {
+    "playerId": "431202",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Omar ALDERETE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "479601": {
+    "playerId": "479601",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Juan Jose CACERES",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369749": {
+    "playerId": "369749",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Junior ALONSO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369744": {
+    "playerId": "369744",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo GOMEZ",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463128": {
+    "playerId": "463128",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Diego GOMEZ",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369761": {
+    "playerId": "369761",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Miguel ALMIRON",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "385306": {
+    "playerId": "385306",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Andres CUBAS",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "424422": {
+    "playerId": "424422",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Matias GALARZA",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441234": {
+    "playerId": "441234",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Julio ENCISO",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "318647": {
+    "playerId": "318647",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gatito FERNANDEZ",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "447991": {
+    "playerId": "447991",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gaston OLVEIRA",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "394829": {
+    "playerId": "394829",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Fabian BALBUENA",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520066": {
+    "playerId": "520066",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Jose CANALE",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "505495": {
+    "playerId": "505495",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alexandro MAIDANA",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463125": {
+    "playerId": "463125",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Ramon SOSA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495046": {
+    "playerId": "495046",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "MAURICIO",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "476348": {
+    "playerId": "476348",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Damian BOBADILLA",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "406205": {
+    "playerId": "406205",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Braian OJEDA",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485804": {
+    "playerId": "485804",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gustavo CABALLERO",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369768": {
+    "playerId": "369768",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Antonio SANABRIA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "386458": {
+    "playerId": "386458",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alejandro ROMERO GAMARRA",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485802": {
+    "playerId": "485802",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Alex ARCE",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463127": {
+    "playerId": "463127",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Gabriel AVALOS",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489417": {
+    "playerId": "489417",
+    "teamId": "43928",
+    "teamName": "Paraguay",
+    "playerName": "Isidro PITTA",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448332": {
+    "playerId": "448332",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Mike MAIGNAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368860": {
+    "playerId": "368860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas Digne",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389876": {
+    "playerId": "389876",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Dayot UPAMECANO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430707": {
+    "playerId": "430707",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jules KOUNDE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419177": {
+    "playerId": "419177",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "William SALIBA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485677": {
+    "playerId": "485677",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Manu KONE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402047": {
+    "playerId": "402047",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Adrien RABIOT",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398680": {
+    "playerId": "398680",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ousmane DEMBELE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "389867": {
+    "playerId": "389867",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Kylian MBAPPE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485655": {
+    "playerId": "485655",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Michael OLISE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484860": {
+    "playerId": "484860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Bradley BARCOLA",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483471": {
+    "playerId": "483471",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Brice SAMBA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464127": {
+    "playerId": "464127",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Robin RISSER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464055": {
+    "playerId": "464055",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Malo GUSTO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419166": {
+    "playerId": "419166",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ibrahima KONATE",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "408042": {
+    "playerId": "408042",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Theo HERNANDEZ",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411470": {
+    "playerId": "411470",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas HERNANDEZ",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405881": {
+    "playerId": "405881",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maxence Lacroix",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405893": {
+    "playerId": "405893",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Aurelien TCHOUAMENI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398681": {
+    "playerId": "398681",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ngolo KANTE",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483549": {
+    "playerId": "483549",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Warren ZAIRE-EMERY",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431861": {
+    "playerId": "431861",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Rayan CHERKI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485666": {
+    "playerId": "485666",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maghnes AKLIOUCHE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403109": {
+    "playerId": "403109",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Marcus THURAM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464114": {
+    "playerId": "464114",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Desire DOUE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403094": {
+    "playerId": "403094",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jean-Philippe MATETA",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
