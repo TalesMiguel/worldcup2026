@@ -1,0 +1,452 @@
+{
+  "308370": {
+    "playerId": "308370",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALISSON",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "430601": {
+    "playerId": "430601",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MAGALHAES",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "332946": {
+    "playerId": "332946",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MARQUINHOS",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "335656": {
+    "playerId": "335656",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "367981": {
+    "playerId": "367981",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DOUGLAS SANTOS",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "308386": {
+    "playerId": "308386",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "CASEMIRO",
+    "shirtNumber": 5,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430605": {
+    "playerId": "430605",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BRUNO GUIMARAES",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405742": {
+    "playerId": "405742",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "VINICIUS JUNIOR",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430609": {
+    "playerId": "430609",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "MATHEUS CUNHA",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "430597": {
+    "playerId": "430597",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "GABRIEL MARTINELLI",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "475036": {
+    "playerId": "475036",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAYAN",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "396315": {
+    "playerId": "396315",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "WEVERTON",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395427": {
+    "playerId": "395427",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "335658": {
+    "playerId": "335658",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ALEX SANDRO",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "431889": {
+    "playerId": "431889",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "BREMER",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "371956": {
+    "playerId": "371956",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LEO PEREIRA",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430594": {
+    "playerId": "430594",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ROGER IBANEZ",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485069": {
+    "playerId": "485069",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "EDERSON SILVA",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "394456": {
+    "playerId": "394456",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "FABINHO",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "429392": {
+    "playerId": "429392",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "DANILO SANTOS",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "314197": {
+    "playerId": "314197",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "NEYMAR JR",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "433872": {
+    "playerId": "433872",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "RAPHINHA",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "463746": {
+    "playerId": "463746",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "ENDRICK",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448420": {
+    "playerId": "448420",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "LUIZ HENRIQUE",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "519836": {
+    "playerId": "519836",
+    "teamId": "43924",
+    "teamName": "Brazil",
+    "playerName": "IGOR THIAGO",
+    "shirtNumber": 25,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "373235": {
+    "playerId": "373235",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Orjan NYLAND",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483516": {
+    "playerId": "483516",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristoffer AJER",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483505": {
+    "playerId": "483505",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "David MOLLER WOLFE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "491244": {
+    "playerId": "491244",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Torbjorn HEGGEM",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483442": {
+    "playerId": "483442",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Patrick BERG",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "404645": {
+    "playerId": "404645",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander BERGE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "400716": {
+    "playerId": "400716",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Martin ODEGAARD",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398588": {
+    "playerId": "398588",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Alexander SORLOTH",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419652": {
+    "playerId": "419652",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Erling HAALAND",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483448": {
+    "playerId": "483448",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Antonio NUSA",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483496": {
+    "playerId": "483496",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Julian RYERSON",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "514479": {
+    "playerId": "514479",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sander TANGVIK",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "483535": {
+    "playerId": "483535",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Egil SELVIK",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "419672": {
+    "playerId": "419672",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Leo OSTIGARD",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "483530": {
+    "playerId": "483530",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik Andre BJORKAN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "489696": {
+    "playerId": "489696",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Sondre LANGAS",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "520112": {
+    "playerId": "520112",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Henrik FALCHENER",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433067": {
+    "playerId": "433067",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Morten Thorsby",
+    "shirtNumber": 2,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483497": {
+    "playerId": "483497",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Fredrik AURSNES",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419681": {
+    "playerId": "419681",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Kristian Thorstvedt",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494627": {
+    "playerId": "494627",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Thelo AASGAARD",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494626": {
+    "playerId": "494626",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Andreas SCHJELDERUP",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "477470": {
+    "playerId": "477470",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Oscar BOBB",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419654": {
+    "playerId": "419654",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jens Petter HAUGE",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419662": {
+    "playerId": "419662",
+    "teamId": "43961",
+    "teamName": "Norway",
+    "playerName": "Jorgen STRAND LARSEN",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

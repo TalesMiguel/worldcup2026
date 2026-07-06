@@ -5712,11 +5712,41 @@
       "name": "Norway",
       "abbreviation": "NOR"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "314197",
+        "playerName": "NEYMAR JR",
+        "minute": "90'+10'",
+        "type": 1,
+        "teamId": "43924"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "79'",
+        "type": 2,
+        "teamId": "43961"
+      },
+      {
+        "playerId": "419652",
+        "playerName": "Erling HAALAND",
+        "minute": "90'",
+        "type": 2,
+        "teamId": "43961"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "314197",
+        "playerName": "NEYMAR JR",
+        "minute": "90'+6'",
+        "card": 1,
+        "teamId": "43924"
+      }
+    ]
   },
   {
     "idMatch": "400021531",
@@ -5724,7 +5754,7 @@
     "idGroup": null,
     "groupName": null,
     "stageName": "Round of 16",
-    "date": "2026-07-06T00:00:00Z",
+    "date": "2026-07-06T01:00:00Z",
     "homeTeam": {
       "id": "43911",
       "name": "Mexico",
@@ -5735,11 +5765,97 @@
       "name": "England",
       "abbreviation": "ENG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 3,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "429157",
+        "playerName": "Julian QUINONES",
+        "minute": "42'",
+        "type": 2,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "356731",
+        "playerName": "Raul JIMENEZ",
+        "minute": "69'",
+        "type": 1,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "36'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "38'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "369419",
+        "playerName": "Harry KANE",
+        "minute": "60'",
+        "type": 1,
+        "teamId": "43942"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "403596",
+        "playerName": "Jorge SANCHEZ",
+        "minute": "71'",
+        "card": 1,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "425701",
+        "playerName": "Johan VASQUEZ",
+        "minute": "90'+8'",
+        "card": 1,
+        "teamId": "43911"
+      },
+      {
+        "playerId": "433097",
+        "playerName": "Declan RICE",
+        "minute": "1'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "463809",
+        "playerName": "Jarell QUANSAH",
+        "minute": "54'",
+        "card": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "405841",
+        "playerName": "Marc GUEHI",
+        "minute": "68'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "463780",
+        "playerName": "Nico OREILLY",
+        "minute": "72'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "356189",
+        "playerName": "Jordan HENDERSON",
+        "minute": "90'+8'",
+        "card": 1,
+        "teamId": "43942"
+      }
+    ]
   },
   {
     "idMatch": "400021529",
@@ -5887,14 +6003,14 @@
     "stageName": "Quarter-final",
     "date": "2026-07-11T21:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43961",
+      "name": "Norway",
+      "abbreviation": "NOR"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
     },
     "homeScore": null,
     "awayScore": null,
