@@ -5874,11 +5874,41 @@
       "name": "Spain",
       "abbreviation": "ESP"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430733",
+        "playerName": "Mikel MERINO",
+        "minute": "90'+1'",
+        "type": 2,
+        "teamId": "43969"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "395205",
+        "playerName": "BERNARDO SILVA",
+        "minute": "89'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "489704",
+        "playerName": "RENATO VEIGA",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43963"
+      },
+      {
+        "playerId": "405545",
+        "playerName": "Ferran TORRES",
+        "minute": "90'+8'",
+        "card": 1,
+        "teamId": "43969"
+      }
+    ]
   },
   {
     "idMatch": "400021534",
@@ -5897,11 +5927,62 @@
       "name": "Belgium",
       "abbreviation": "BEL"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448214",
+        "playerName": "Malik TILLMAN",
+        "minute": "31'",
+        "type": 2,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "448362",
+        "playerName": "Charles DE KETELAERE",
+        "minute": "9'",
+        "type": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "448362",
+        "playerName": "Charles DE KETELAERE",
+        "minute": "33'",
+        "type": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "448343",
+        "playerName": "Hans VANAKEN",
+        "minute": "57'",
+        "type": 2,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "358112",
+        "playerName": "Romelu LUKAKU",
+        "minute": "90'+3'",
+        "type": 2,
+        "teamId": "43935"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "390259",
+        "playerName": "Weston McKENNIE",
+        "minute": "35'",
+        "card": 1,
+        "teamId": "43921"
+      },
+      {
+        "playerId": "448214",
+        "playerName": "Malik TILLMAN",
+        "minute": "69'",
+        "card": 1,
+        "teamId": "43921"
+      }
+    ]
   },
   {
     "idMatch": "400021528",
@@ -5980,14 +6061,14 @@
     "stageName": "Quarter-final",
     "date": "2026-07-10T19:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43935",
+      "name": "Belgium",
+      "abbreviation": "BEL"
     },
     "homeScore": null,
     "awayScore": null,

@@ -1,0 +1,461 @@
+{
+  "499913": {
+    "playerId": "499913",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt FREESE",
+    "shirtNumber": 24,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "406280": {
+    "playerId": "406280",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sergino DEST",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419062": {
+    "playerId": "419062",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris RICHARDS",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "441251": {
+    "playerId": "441251",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Antonee ROBINSON",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "339510": {
+    "playerId": "339510",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tim REAM",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "464542": {
+    "playerId": "464542",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex FREEMAN",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "390238": {
+    "playerId": "390238",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Tyler ADAMS",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390259": {
+    "playerId": "390259",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Weston McKENNIE",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448214": {
+    "playerId": "448214",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Malik TILLMAN",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "390267": {
+    "playerId": "390267",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Christian PULISIC",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "466624": {
+    "playerId": "466624",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Folarin BALOGUN",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448217": {
+    "playerId": "448217",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Matt TURNER",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464546": {
+    "playerId": "464546",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Chris BRADY",
+    "shirtNumber": 25,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "390272": {
+    "playerId": "390272",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Auston TRUSTY",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "436599": {
+    "playerId": "436599",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Miles ROBINSON",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "486390": {
+    "playerId": "486390",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Max ARFSTEN",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419077": {
+    "playerId": "419077",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Mark McKENZIE",
+    "shirtNumber": 22,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "423700": {
+    "playerId": "423700",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Joe SCALLY",
+    "shirtNumber": 23,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419068": {
+    "playerId": "419068",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Giovanni REYNA",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "499912": {
+    "playerId": "499912",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Sebastian BERHALTER",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "419082": {
+    "playerId": "419082",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Ricardo PEPI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "419055": {
+    "playerId": "419055",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Brenden AARONSON",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390276": {
+    "playerId": "390276",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Haji WRIGHT",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "406304": {
+    "playerId": "406304",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Timothy WEAH",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "390278": {
+    "playerId": "390278",
+    "teamId": "43921",
+    "teamName": "USA",
+    "playerName": "Alex ZENDEJAS",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "358106": {
+    "playerId": "358106",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Thibaut COURTOIS",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448360": {
+    "playerId": "448360",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Brandon MECHELE",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448373": {
+    "playerId": "448373",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Maxim DE CUYPER",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411443": {
+    "playerId": "411443",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Timothy CASTAGNE",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "514166": {
+    "playerId": "514166",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Nathan NGOY",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "401444": {
+    "playerId": "401444",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Youri TIELEMANS",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "495349": {
+    "playerId": "495349",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Nicolas RASKIN",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448364": {
+    "playerId": "448364",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Amadou ONANA",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448355": {
+    "playerId": "448355",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Leandro TROSSARD",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448377": {
+    "playerId": "448377",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Dodi LUKEBAKIO",
+    "shirtNumber": 14,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448362": {
+    "playerId": "448362",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Charles DE KETELAERE",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "495348": {
+    "playerId": "495348",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Senne LAMMENS",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "499803": {
+    "playerId": "499803",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Mike PENDERS",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "448369": {
+    "playerId": "448369",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Zeno DEBAST",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448346": {
+    "playerId": "448346",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Arthur THEATE",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "358122": {
+    "playerId": "358122",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Thomas MEUNIER",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448366": {
+    "playerId": "448366",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Koni DE WINTER",
+    "shirtNumber": 16,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506088": {
+    "playerId": "506088",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Joaquin SEYS",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "290821": {
+    "playerId": "290821",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Axel WITSEL",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "358120": {
+    "playerId": "358120",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Kevin DE BRUYNE",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "497902": {
+    "playerId": "497902",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Diego MOREIRA",
+    "shirtNumber": 19,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448343": {
+    "playerId": "448343",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Hans VANAKEN",
+    "shirtNumber": 20,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433092": {
+    "playerId": "433092",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Alexis SAELEMAEKERS",
+    "shirtNumber": 22,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "358112": {
+    "playerId": "358112",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Romelu LUKAKU",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448341": {
+    "playerId": "448341",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Jeremy DOKU",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "494025": {
+    "playerId": "494025",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Matias FERNANDEZ-PARDO",
+    "shirtNumber": 26,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}

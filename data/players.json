@@ -11221,5 +11221,14 @@
     "shirtNumber": 10,
     "position": "Midfielder",
     "fieldStatus": 0
+  },
+  "448369": {
+    "playerId": "448369",
+    "teamId": "43935",
+    "teamName": "Belgium",
+    "playerName": "Zeno DEBAST",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
   }
 }
