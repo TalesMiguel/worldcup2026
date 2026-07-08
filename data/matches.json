@@ -6001,11 +6001,97 @@
       "name": "Egypt",
       "abbreviation": "EGY"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "431196",
+        "playerName": "Cristian ROMERO",
+        "minute": "79'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "229397",
+        "playerName": "Lionel MESSI",
+        "minute": "83'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "448252",
+        "playerName": "Enzo FERNANDEZ",
+        "minute": "90'+2'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "369267",
+        "playerName": "YASSER IBRAHIM",
+        "minute": "15'",
+        "type": 2,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "483161",
+        "playerName": "MOSTAFA ZICO",
+        "minute": "67'",
+        "type": 2,
+        "teamId": "43855"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "21'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "416906",
+        "playerName": "MOSTAFA SHOUBIR",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "429095",
+        "playerName": "HAMDY FATHY",
+        "minute": "90'+4'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "90'+4'",
+        "card": 2,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "461788",
+        "playerName": "MARAWAN ATTIA",
+        "minute": "90'+8'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "90'+9'",
+        "card": 1,
+        "teamId": "43855"
+      },
+      {
+        "playerId": "424106",
+        "playerName": "Haissem HASSAN",
+        "minute": "90'",
+        "card": 1,
+        "teamId": "43855"
+      }
+    ]
   },
   {
     "idMatch": "400021535",
@@ -6024,11 +6110,104 @@
       "name": "Colombia",
       "abbreviation": "COL"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "311558",
+        "playerName": "Granit XHAKA",
+        "minute": "",
+        "type": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "448112",
+        "playerName": "Zeki AMDOUNI",
+        "minute": "",
+        "type": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "448104",
+        "playerName": "Cedric ITTEN",
+        "minute": "",
+        "type": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "448131",
+        "playerName": "Ruben VARGAS",
+        "minute": "",
+        "type": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "356704",
+        "playerName": "Juan QUINTERO",
+        "minute": "",
+        "type": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "405755",
+        "playerName": "Jaminton CAMPAZ",
+        "minute": "",
+        "type": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "428886",
+        "playerName": "Luis DIAZ",
+        "minute": "",
+        "type": 1,
+        "teamId": "43926"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "311558",
+        "playerName": "Granit XHAKA",
+        "minute": "51'",
+        "card": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "401448",
+        "playerName": "Denis ZAKARIA",
+        "minute": "59'",
+        "card": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "493221",
+        "playerName": "Miro MUHEIM",
+        "minute": "105'",
+        "card": 1,
+        "teamId": "43971"
+      },
+      {
+        "playerId": "428905",
+        "playerName": "Luis SUAREZ",
+        "minute": "60'",
+        "card": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "386013",
+        "playerName": "Davinson SANCHEZ",
+        "minute": "94'",
+        "card": 1,
+        "teamId": "43926"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "95'",
+        "card": 1,
+        "teamId": "43926"
+      }
+    ]
   },
   {
     "idMatch": "400021536",
@@ -6107,14 +6286,14 @@
     "stageName": "Quarter-final",
     "date": "2026-07-12T01:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43971",
+      "name": "Switzerland",
+      "abbreviation": "SUI"
     },
     "homeScore": null,
     "awayScore": null,
