@@ -1,0 +1,470 @@
+{
+  "448332": {
+    "playerId": "448332",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Mike MAIGNAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368860": {
+    "playerId": "368860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas Digne",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389876": {
+    "playerId": "389876",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Dayot UPAMECANO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430707": {
+    "playerId": "430707",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jules KOUNDE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419177": {
+    "playerId": "419177",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "William SALIBA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485677": {
+    "playerId": "485677",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Manu KONE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "402047": {
+    "playerId": "402047",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Adrien RABIOT",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398680": {
+    "playerId": "398680",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ousmane DEMBELE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "389867": {
+    "playerId": "389867",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Kylian MBAPPE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485655": {
+    "playerId": "485655",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Michael OLISE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464114": {
+    "playerId": "464114",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Desire DOUE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483471": {
+    "playerId": "483471",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Brice SAMBA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464127": {
+    "playerId": "464127",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Robin RISSER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464055": {
+    "playerId": "464055",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Malo GUSTO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419166": {
+    "playerId": "419166",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ibrahima KONATE",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "408042": {
+    "playerId": "408042",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Theo HERNANDEZ",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411470": {
+    "playerId": "411470",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas HERNANDEZ",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405881": {
+    "playerId": "405881",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maxence Lacroix",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405893": {
+    "playerId": "405893",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Aurelien TCHOUAMENI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398681": {
+    "playerId": "398681",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ngolo KANTE",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483549": {
+    "playerId": "483549",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Warren ZAIRE-EMERY",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431861": {
+    "playerId": "431861",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Rayan CHERKI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485666": {
+    "playerId": "485666",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maghnes AKLIOUCHE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "403109": {
+    "playerId": "403109",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Marcus THURAM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484860": {
+    "playerId": "484860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Bradley BARCOLA",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403094": {
+    "playerId": "403094",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jean-Philippe MATETA",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "356956": {
+    "playerId": "356956",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Yassine BOUNOU",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "400721": {
+    "playerId": "400721",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Achraf HAKIMI",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411680": {
+    "playerId": "411680",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Noussair MAZRAOUI",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "403083": {
+    "playerId": "403083",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Issa Diop",
+    "shirtNumber": 14,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "424071": {
+    "playerId": "424071",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Anass SALAH EDDINE",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485760": {
+    "playerId": "485760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayyoub BOUADDI",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "494293": {
+    "playerId": "494293",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chemsdine TALBI",
+    "shirtNumber": 7,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "441307": {
+    "playerId": "441307",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Azzedine OUNAHI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448612": {
+    "playerId": "448612",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Bilal EL KHANNOUSS",
+    "shirtNumber": 23,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485740": {
+    "playerId": "485740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Neil EL AYNAOUI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "430740": {
+    "playerId": "430740",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Brahim DIAZ",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "395755": {
+    "playerId": "395755",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Munir EL KAJOUI",
+    "shirtNumber": 12,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "371553": {
+    "playerId": "371553",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ahmed Reda TAGNAOUTI",
+    "shirtNumber": 22,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "395760": {
+    "playerId": "395760",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Marwane SAADANE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485756": {
+    "playerId": "485756",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Zakaria EL OUAHDI",
+    "shirtNumber": 13,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "448607": {
+    "playerId": "448607",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Chadi RIAD",
+    "shirtNumber": 18,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494742": {
+    "playerId": "494742",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Youssef BELAMMARI",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485767": {
+    "playerId": "485767",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Redouane HALHAL",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "372266": {
+    "playerId": "372266",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Sofyan AMRABAT",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448598": {
+    "playerId": "448598",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ismael SAIBARI",
+    "shirtNumber": 11,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505097": {
+    "playerId": "505097",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Samir EL MOURABET",
+    "shirtNumber": 15,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "505112": {
+    "playerId": "505112",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Gessime YASSINE",
+    "shirtNumber": 16,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "433426": {
+    "playerId": "433426",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Soufiane RAHIMI",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "524320": {
+    "playerId": "524320",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Amine SBAI",
+    "shirtNumber": 17,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "411678": {
+    "playerId": "411678",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoub El Kaabi",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "523288": {
+    "playerId": "523288",
+    "teamId": "43872",
+    "teamName": "Morocco",
+    "playerName": "Ayoube AMAIMOUNI",
+    "shirtNumber": 21,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
