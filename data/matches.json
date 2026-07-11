@@ -6272,11 +6272,62 @@
       "name": "Belgium",
       "abbreviation": "BEL"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430718",
+        "playerName": "Fabian RUIZ",
+        "minute": "30'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430733",
+        "playerName": "Mikel MERINO",
+        "minute": "88'",
+        "type": 2,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "448362",
+        "playerName": "Charles DE KETELAERE",
+        "minute": "41'",
+        "type": 2,
+        "teamId": "43935"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "474973",
+        "playerName": "Pau CUBARSI",
+        "minute": "43'",
+        "card": 1,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "335999",
+        "playerName": "Aymeric LAPORTE",
+        "minute": "90'+3'",
+        "card": 1,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "358120",
+        "playerName": "Kevin DE BRUYNE",
+        "minute": "85'",
+        "card": 1,
+        "teamId": "43935"
+      },
+      {
+        "playerId": "290821",
+        "playerName": "Axel WITSEL",
+        "minute": "90'+5'",
+        "card": 1,
+        "teamId": "43935"
+      }
+    ]
   },
   {
     "idMatch": "400021539",
@@ -6337,9 +6388,9 @@
       "abbreviation": "FRA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
     },
     "homeScore": null,
     "awayScore": null,
