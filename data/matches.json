@@ -6487,11 +6487,48 @@
       "name": "Spain",
       "abbreviation": "ESP"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "430751",
+        "playerName": "Mikel OYARZABAL",
+        "minute": "22'",
+        "type": 1,
+        "teamId": "43969"
+      },
+      {
+        "playerId": "430144",
+        "playerName": "Pedro PORRO",
+        "minute": "58'",
+        "type": 2,
+        "teamId": "43969"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "402047",
+        "playerName": "Adrien RABIOT",
+        "minute": "8'",
+        "card": 1,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "86'",
+        "card": 1,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "430735",
+        "playerName": "Marc CUCURELLA",
+        "minute": "31'",
+        "card": 1,
+        "teamId": "43969"
+      }
+    ]
   },
   {
     "idMatch": "400021540",
@@ -6521,12 +6558,12 @@
     "idIFES": "151709",
     "idGroup": null,
     "groupName": null,
-    "stageName": "Play-off for third place",
+    "stageName": "Bronze final",
     "date": "2026-07-18T21:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43946",
+      "name": "France",
+      "abbreviation": "FRA"
     },
     "awayTeam": {
       "id": "",
@@ -6547,9 +6584,9 @@
     "stageName": "Final",
     "date": "2026-07-19T19:00:00Z",
     "homeTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43969",
+      "name": "Spain",
+      "abbreviation": "ESP"
     },
     "awayTeam": {
       "id": "",
