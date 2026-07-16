@@ -6547,11 +6547,62 @@
       "name": "Argentina",
       "abbreviation": "ARG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "448189",
+        "playerName": "Anthony GORDON",
+        "minute": "55'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448252",
+        "playerName": "Enzo FERNANDEZ",
+        "minute": "85'",
+        "type": 2,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "402920",
+        "playerName": "Lautaro MARTINEZ",
+        "minute": "90'+2'",
+        "type": 2,
+        "teamId": "43922"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "481610",
+        "playerName": "Elliot ANDERSON",
+        "minute": "37'",
+        "card": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "402921",
+        "playerName": "Lisandro MARTINEZ",
+        "minute": "42'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "431196",
+        "playerName": "Cristian ROMERO",
+        "minute": "51'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "428882",
+        "playerName": "Rodrigo DE PAUL",
+        "minute": "90'+4'",
+        "card": 1,
+        "teamId": "43922"
+      }
+    ]
   },
   {
     "idMatch": "400021542",
@@ -6566,9 +6617,9 @@
       "abbreviation": "FRA"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43942",
+      "name": "England",
+      "abbreviation": "ENG"
     },
     "homeScore": null,
     "awayScore": null,
@@ -6589,9 +6640,9 @@
       "abbreviation": "ESP"
     },
     "awayTeam": {
-      "id": "",
-      "name": "TBD",
-      "abbreviation": "TBD"
+      "id": "43922",
+      "name": "Argentina",
+      "abbreviation": "ARG"
     },
     "homeScore": null,
     "awayScore": null,
