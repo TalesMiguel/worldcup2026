@@ -6621,10 +6621,81 @@
       "name": "England",
       "abbreviation": "ENG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
+    "homeScore": 4,
+    "awayScore": 6,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "48'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "484860",
+        "playerName": "Bradley BARCOLA",
+        "minute": "54'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "389867",
+        "playerName": "Kylian MBAPPE",
+        "minute": "66'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "398680",
+        "playerName": "Ousmane DEMBELE",
+        "minute": "90'+6'",
+        "type": 2,
+        "teamId": "43946"
+      },
+      {
+        "playerId": "433097",
+        "playerName": "Declan RICE",
+        "minute": "3'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "403049",
+        "playerName": "Ezri KONSA",
+        "minute": "18'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448196",
+        "playerName": "Bukayo SAKA",
+        "minute": "37'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448196",
+        "playerName": "Bukayo SAKA",
+        "minute": "45'+1'",
+        "type": 2,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448196",
+        "playerName": "Bukayo SAKA",
+        "minute": "87'",
+        "type": 1,
+        "teamId": "43942"
+      },
+      {
+        "playerId": "448202",
+        "playerName": "Jude BELLINGHAM",
+        "minute": "90'+8'",
+        "type": 2,
+        "teamId": "43942"
+      }
+    ],
     "bookings": []
   },
   {

@@ -1,0 +1,461 @@
+{
+  "448332": {
+    "playerId": "448332",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Mike MAIGNAN",
+    "shirtNumber": 16,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464055": {
+    "playerId": "464055",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Malo GUSTO",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419166": {
+    "playerId": "419166",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ibrahima KONATE",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "408042": {
+    "playerId": "408042",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Theo HERNANDEZ",
+    "shirtNumber": 19,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405881": {
+    "playerId": "405881",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maxence Lacroix",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "402047": {
+    "playerId": "402047",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Adrien RABIOT",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "483549": {
+    "playerId": "483549",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Warren ZAIRE-EMERY",
+    "shirtNumber": 18,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "431861": {
+    "playerId": "431861",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Rayan CHERKI",
+    "shirtNumber": 24,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "389867": {
+    "playerId": "389867",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Kylian MBAPPE",
+    "shirtNumber": 10,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "485655": {
+    "playerId": "485655",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Michael OLISE",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "464114": {
+    "playerId": "464114",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Desire DOUE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "483471": {
+    "playerId": "483471",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Brice SAMBA",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "464127": {
+    "playerId": "464127",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Robin RISSER",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "368860": {
+    "playerId": "368860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas Digne",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "389876": {
+    "playerId": "389876",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Dayot UPAMECANO",
+    "shirtNumber": 4,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "430707": {
+    "playerId": "430707",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jules KOUNDE",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "419177": {
+    "playerId": "419177",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "William SALIBA",
+    "shirtNumber": 17,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "411470": {
+    "playerId": "411470",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Lucas HERNANDEZ",
+    "shirtNumber": 21,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "485677": {
+    "playerId": "485677",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Manu KONE",
+    "shirtNumber": 6,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "405893": {
+    "playerId": "405893",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Aurelien TCHOUAMENI",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398681": {
+    "playerId": "398681",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ngolo KANTE",
+    "shirtNumber": 13,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "485666": {
+    "playerId": "485666",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Maghnes AKLIOUCHE",
+    "shirtNumber": 25,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "398680": {
+    "playerId": "398680",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Ousmane DEMBELE",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403109": {
+    "playerId": "403109",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Marcus THURAM",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "484860": {
+    "playerId": "484860",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Bradley BARCOLA",
+    "shirtNumber": 12,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403094": {
+    "playerId": "403094",
+    "teamId": "43946",
+    "teamName": "France",
+    "playerName": "Jean-Philippe MATETA",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "403046": {
+    "playerId": "403046",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Dean Henderson",
+    "shirtNumber": 13,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "403049": {
+    "playerId": "403049",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Ezri KONSA",
+    "shirtNumber": 2,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "405841": {
+    "playerId": "405841",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Marc GUEHI",
+    "shirtNumber": 6,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "506329": {
+    "playerId": "506329",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Djed SPENCE",
+    "shirtNumber": 25,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "463809": {
+    "playerId": "463809",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Jarell QUANSAH",
+    "shirtNumber": 26,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "433097": {
+    "playerId": "433097",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Declan RICE",
+    "shirtNumber": 4,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "492716": {
+    "playerId": "492716",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Morgan ROGERS",
+    "shirtNumber": 17,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "473113": {
+    "playerId": "473113",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Eberechi EZE",
+    "shirtNumber": 21,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448196": {
+    "playerId": "448196",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Bukayo SAKA",
+    "shirtNumber": 7,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "401470": {
+    "playerId": "401470",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Marcus RASHFORD",
+    "shirtNumber": 11,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448198": {
+    "playerId": "448198",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Ivan TONEY",
+    "shirtNumber": 22,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "336022": {
+    "playerId": "336022",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Jordan PICKFORD",
+    "shirtNumber": 1,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "485080": {
+    "playerId": "485080",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "James TRAFFORD",
+    "shirtNumber": 23,
+    "position": "Goalkeeper",
+    "fieldStatus": 0
+  },
+  "463780": {
+    "playerId": "463780",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Nico OREILLY",
+    "shirtNumber": 3,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "369434": {
+    "playerId": "369434",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "John STONES",
+    "shirtNumber": 5,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "439691": {
+    "playerId": "439691",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Trevoh CHALOBAH",
+    "shirtNumber": 12,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "494345": {
+    "playerId": "494345",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Dan BURN",
+    "shirtNumber": 15,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "439641": {
+    "playerId": "439641",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Reece JAMES",
+    "shirtNumber": 24,
+    "position": "Defender",
+    "fieldStatus": 0
+  },
+  "481610": {
+    "playerId": "481610",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Elliot ANDERSON",
+    "shirtNumber": 8,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "448202": {
+    "playerId": "448202",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Jude BELLINGHAM",
+    "shirtNumber": 10,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "356189": {
+    "playerId": "356189",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Jordan HENDERSON",
+    "shirtNumber": 14,
+    "position": "Midfielder",
+    "fieldStatus": 0
+  },
+  "369419": {
+    "playerId": "369419",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Harry KANE",
+    "shirtNumber": 9,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448189": {
+    "playerId": "448189",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Anthony GORDON",
+    "shirtNumber": 18,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "448203": {
+    "playerId": "448203",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Ollie WATKINS",
+    "shirtNumber": 19,
+    "position": "Forward",
+    "fieldStatus": 0
+  },
+  "489732": {
+    "playerId": "489732",
+    "teamId": "43942",
+    "teamName": "England",
+    "playerName": "Noni MADUEKE",
+    "shirtNumber": 20,
+    "position": "Forward",
+    "fieldStatus": 0
+  }
+}
