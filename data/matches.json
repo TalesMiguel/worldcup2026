@@ -6715,10 +6715,68 @@
       "name": "Argentina",
       "abbreviation": "ARG"
     },
-    "homeScore": null,
-    "awayScore": null,
-    "status": 1,
-    "goals": [],
-    "bookings": []
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": 0,
+    "goals": [
+      {
+        "playerId": "405545",
+        "playerName": "Ferran TORRES",
+        "minute": "106'",
+        "type": 2,
+        "teamId": "43969"
+      }
+    ],
+    "bookings": [
+      {
+        "playerId": "402921",
+        "playerName": "Lisandro MARTINEZ",
+        "minute": "41'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "332847",
+        "playerName": "Leandro PAREDES",
+        "minute": "52'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "448252",
+        "playerName": "Enzo FERNANDEZ",
+        "minute": "82'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "431196",
+        "playerName": "Cristian ROMERO",
+        "minute": "90'+2'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "448252",
+        "playerName": "Enzo FERNANDEZ",
+        "minute": "90'+3'",
+        "card": 3,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "None",
+        "playerName": "",
+        "minute": "105'",
+        "card": 1,
+        "teamId": "43922"
+      },
+      {
+        "playerId": "430628",
+        "playerName": "Alexis MAC ALLISTER",
+        "minute": "111'",
+        "card": 1,
+        "teamId": "43922"
+      }
+    ]
   }
 ]
